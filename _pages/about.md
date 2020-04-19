@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD candidate at Kyoto University.
+Master student at Kyoto University.
 
 Email: song AT nlp.ist.i.kyoto-u.ac.jp
 
@@ -23,7 +23,7 @@ Education
 ======
 ### Kyoto University
 
-* PhD candidate of Intelligence Science and Technology, October 2018-present
+* Master student of Intelligence Science and Technology, October 2018-present
 
 * Supervised by Professor [Kurohashi](http://nlp.ist.i.kyoto-u.ac.jp/member/kuro/index-j.html) at [Kurohashi-Muwaraki lab](http://nlp.ist.i.kyoto-u.ac.jp/)
 
