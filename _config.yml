@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "ja-JP"
-title                    : "Haiyue Song"
+title                    : "Haiyue SONG"
 title_separator          : "-"
-name                     : &name "Haiyue Song"
+name                     : &name "Haiyue SONG"
 description              : &description "PhD candidate at Kyoto University"
 url                      : https://shyyhs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

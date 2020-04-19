@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Haiyue Song"
+title: "Haiyue SONG"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
