@@ -23,7 +23,7 @@ Education
 ======
 ### Kyoto University
 
-* Master student of Intelligence Science and Technology, October 2018-present
+* Master of Intelligence Science and Technology, October 2018-present
 
 * Supervised by Professor [Kurohashi](http://nlp.ist.i.kyoto-u.ac.jp/member/kuro/index-j.html) at [Kurohashi-Muwaraki lab](http://nlp.ist.i.kyoto-u.ac.jp/)
 
