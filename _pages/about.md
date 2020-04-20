@@ -10,7 +10,7 @@ redirect_from:
 
 Master student at Kyoto University.
 
-Email: song AT nlp.ist.i.kyoto-u.ac.jp
+Email: song[at]nlp.ist.i.kyoto-u.ac.jp
 
 **Looking for internship related to ML/NLP.**
 
@@ -84,7 +84,7 @@ Publication
 
 - Li Jiang, Zhuoran Song, **Haiyue Song**, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, Xiaoyao Liang. Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method,  ACM Transactions on Design Automation of Electronic Systems (**TODAES2019**), pp.59:1-59:25, (2019.11)
 
-- **Haiyue Song**, Chengwen Xu, Qiang Xu, ○Zhuoran Song, Naifeng Jing, Xiaoyao Liang, Li Jiang. Invocation-driven neural approximate computing with a multiclass-classifier and multiple approximators,  In Proceedings of the International Conference on Computer-Aided Design (**ICCAD2018**), pp.50, San Diego, CA, USA, (2018.11).
+- **Haiyue Song**, Chengwen Xu, Qiang Xu, Zhuoran Song, Naifeng Jing, Xiaoyao Liang, Li Jiang. Invocation-driven neural approximate computing with a multiclass-classifier and multiple approximators,  In Proceedings of the International Conference on Computer-Aided Design (**ICCAD2018**), pp.50, San Diego, CA, USA, (2018.11).
 
 - **Haiyue Song**, Xiang Song, Tianjian Li, Hao Dong, Naifeng Jing, Xiaoyao Liang, Li Jiang. A FPGA Friendly Approximate Computing Framework with Hybrid Neural Networks (Abstract Only), In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (**FPGA2018**), pp.286, Monterey, CA, USA, (2018.2).
 

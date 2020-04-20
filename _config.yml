@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "ja-JP"
-title                    : "Haiyue SONG"
+title                    : "Haiyue SONG/宋海越"
 title_separator          : "-"
 name                     : &name "Haiyue SONG"
 description              : &description "Homepage of Haiyue Song (宋海越)."
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/profile.php?id=100010667164778"
   foursquare       :
   github           : "shyyhs"
   google_plus      :
