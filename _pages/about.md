@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Master student at Kyoto University.
+Master student at Kyoto University. Research interest in Natural Language Processing.
 
 Email: song[at]nlp.ist.i.kyoto-u.ac.jp
 
