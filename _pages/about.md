@@ -54,7 +54,7 @@ Research
 
 Work experience
 ======
-### NICT
+### National Institute of Information and Communications Technology (**[NICT](https://www.nict.go.jp/)**)
 
 * Research internship, October 2019-November 2019
 
