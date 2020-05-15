@@ -36,7 +36,7 @@ Education
 
 ### Nagoya University
 
-* Internship, October 2017-February 2018
+* Exchange program, October 2017-February 2018
 
 <br/>
 
