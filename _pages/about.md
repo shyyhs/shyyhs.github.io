@@ -13,7 +13,7 @@ Master student at Kyoto University. Research interest in Natural Language Proces
 Email: song[at]nlp.ist.i.kyoto-u.ac.jp
 
 <!-- **Looking for internship related to ML/NLP.** -->
-**Looking for internship.**
+<!-- **Looking for internship.** -->
 
 
 <br/>
