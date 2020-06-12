@@ -60,7 +60,7 @@ twitter:
   username               : &twitter SeaSongFly
 facebook:
   username               : Haiyue Song 
-  app_id                 : 100010667164778
+  app_id                 : 100010667164778 
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/profile.php?id=100010667164778"
+  facebook         : "profile.php?id=100010667164778"
   foursquare       :
   github           : "shyyhs"
   google_plus      :
