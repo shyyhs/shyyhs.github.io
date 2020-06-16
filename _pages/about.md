@@ -75,7 +75,7 @@ Publication
 
 - **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Fei Cheng, Sadao Kurohashi and Eiichiro Sumita. Pre-training via Leveraging Assisting Languages for Neural Machine Translation, Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop (**ACL2020SRW**), pp., Seattle, Washington, United States, (2020, 7).
 
-- **Haiyue Song**, Raj Dabre, Atsushi Fujita and Sadao Kurohashi. Coursera Corpus Mining and Multistage Fine-Tuning for Improving Lectures Translation, Proceedings of the 12th International Conference on Language Resources and Evaluation (**LREC2020**), pp.3640‑3649, Marseille, France, (2020.5). [paper](ICCAD2020_Song_paper.pdf)
+- **Haiyue Song**, Raj Dabre, Atsushi Fujita and Sadao Kurohashi. Coursera Corpus Mining and Multistage Fine-Tuning for Improving Lectures Translation, Proceedings of the 12th International Conference on Language Resources and Evaluation (**LREC2020**), pp.3640‑3649, Marseille, France, (2020.5). [paper](LREC2020_Song_paper.pdf)
 
 - Zhuoyuan Mao, Fabien Cromieres, Raj Dabre, **Haiyue Song** and Sadao Kurohashi. JASS: Japanese-specific Sequence to Sequence Pre-training for Neural Machine Translation, Proceedings of the 12th International Conference on Language Resources and Evaluation (**LREC2020**), pp.3683‑3691, Marseille, France, (2020.5).
 
