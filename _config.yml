@@ -86,7 +86,7 @@ author:
   location         : #"Kyoto, Japan"
   employer         :
   pubmed           : 
-  googlescholar    : #"https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en"
   email            : #"song@nlp.ist.i.kyoto-u.ac.jp"
   researchgate     : #"https://www.researchgate.net/scientific-contributions/2139238905_Haiyue_Song"
   uri              :
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "profile.php?id=100010667164778"
+  facebook         : #"profile.php?id=100010667164778"
   foursquare       :
   github           : "shyyhs"
   google_plus      :
