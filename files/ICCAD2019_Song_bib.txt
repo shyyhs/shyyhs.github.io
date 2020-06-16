@@ -1,0 +1,22 @@
+@inproceedings{DBLP:conf/iccad/SongX0SJL018,
+  author    = {Haiyue Song and
+               Chengwen Xu and
+               Qiang Xu and
+               Zhuoran Song and
+               Naifeng Jing and
+               Xiaoyao Liang and
+               Li Jiang},
+  editor    = {Iris Bahar},
+  title     = {Invocation-driven neural approximate computing with a multiclass-classifier
+               and multiple approximators},
+  booktitle = {Proceedings of the International Conference on Computer-Aided Design,
+               {ICCAD} 2018, San Diego, CA, USA, November 05-08, 2018},
+  pages     = {50},
+  publisher = {{ACM}},
+  year      = {2018},
+  url       = {https://doi.org/10.1145/3240765.3240819},
+  doi       = {10.1145/3240765.3240819},
+  timestamp = {Mon, 07 Jan 2019 11:16:31 +0100},
+  biburl    = {https://dblp.org/rec/conf/iccad/SongX0SJL018.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
