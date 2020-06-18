@@ -81,6 +81,8 @@ Work experience
 Publication
 ======
 
+[**ACL**](https://www.aclweb.org/anthology/people/h/haiyue-song/), [**Google Scholar**](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en), [**DBLP**](https://dblp.org/pers/s/Song:Haiyue.html) Profile
+
 ## 2020
 
 - **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Fei Cheng, Sadao Kurohashi and Eiichiro Sumita. Pre-training via Leveraging Assisting Languages for Neural Machine Translation, Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop (**ACL2020SRW**), pp., Seattle, Washington, United States, (2020, 7). \[[paper (arXiv_version)](files/ACL2020SRW_Song_paper_arxiv_version.pdf)\], \[[slides](files/ACL2020SRW_Song_slides.pdf)\]
