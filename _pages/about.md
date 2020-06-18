@@ -81,7 +81,7 @@ Work experience
 Publication
 ======
 
-[**Google Scholar**](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en), [**DBLP**](https://dblp.org/pers/s/Song:Haiyue.html), [**Research Gate**](https://www.researchgate.net/profile/Haiyue_Song), [**ACL**](https://www.aclweb.org/anthology/people/h/haiyue-song/) and Profile
+[**Google Scholar**](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en), [**DBLP**](https://dblp.org/pers/s/Song:Haiyue.html), [**Research Gate**](https://www.researchgate.net/profile/Haiyue_Song), and [**ACL**](https://www.aclweb.org/anthology/people/h/haiyue-song/) profile
 
 ## 2020
 
