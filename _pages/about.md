@@ -81,7 +81,7 @@ Work experience
 Publication
 ======
 
-[**ACL**](https://www.aclweb.org/anthology/people/h/haiyue-song/), [**Google Scholar**](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en), [**DBLP**](https://dblp.org/pers/s/Song:Haiyue.html) Profile
+[**Google Scholar**](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en), [**ACL**](https://www.aclweb.org/anthology/people/h/haiyue-song/), [**DBLP**](https://dblp.org/pers/s/Song:Haiyue.html) Profile
 
 ## 2020
 
