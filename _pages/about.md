@@ -21,8 +21,8 @@ Research interest in Natural Language Processing.
 
 <br/>
 
-<!-- .. _education: -->
 <a name='edu'></a>
+
 ---
 
 Education
@@ -75,6 +75,7 @@ Work experience
 <br/>
 
 <a name='pub'></a>
+
 ---
 
 Publication
