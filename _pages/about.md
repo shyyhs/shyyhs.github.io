@@ -23,7 +23,7 @@ Research interest in Natural Language Processing.
 <!-- .. _education: -->
 ---
 
-<a name="link_education"> Education </a>
+Education
 ======
 ### Kyoto University
 
