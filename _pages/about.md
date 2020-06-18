@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- :ref:'education' -->
 Master student at Kyoto University.
 
 Research interest in Natural Language Processing.
@@ -24,7 +23,7 @@ Research interest in Natural Language Processing.
 <!-- .. _education: -->
 ---
 
-Education
+<a name="link_education"> Education </a>
 ======
 ### Kyoto University
 
