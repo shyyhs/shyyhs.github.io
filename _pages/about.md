@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Master student at Kyoto University. Research interest in Natural Language Processing.
+:ref:'education'
 
-Email: song[at]nlp.ist.i.kyoto-u.ac.jp
+Master student at Kyoto University.
+
+Research interest in Natural Language Processing.
+
+**Email**: song[at]nlp.ist.i.kyoto-u.ac.jp
 
 <!-- **Looking for internship related to ML/NLP.** -->
 <!-- **Looking for internship.** -->
@@ -19,20 +23,20 @@ Email: song[at]nlp.ist.i.kyoto-u.ac.jp
 <br/>
 
 ---
-
+.. _education:
 Education
 ======
 ### Kyoto University
 
 * Master of Intelligence Science and Technology, October 2018-present
 
-* Supervised by Professor [Kurohashi](http://nlp.ist.i.kyoto-u.ac.jp/member/kuro/index-j.html) at [Kurohashi-Muwaraki lab](http://nlp.ist.i.kyoto-u.ac.jp/)
+* Supervlsed by Professor [Kurohashi](http://nlp.ist.i.kyoto-u.ac.jp/member/kuro/index-j.html) at [Kurohashi-Muwaraki Lab](http://nlp.ist.i.kyoto-u.ac.jp/)
 
 ### Shanghai Jiao Tong University
 
 * Bachelor of Computer Science and Technology, September 2014-July 2018
 
-* Supervised by Professor [Li Jiang](http://www.cs.sjtu.edu.cn/~jiangli/) at [Advanced Computer Architecture Laboratory](http://acalab.sjtu.edu.cn/EN/Default.aspx)
+* Supervised by Professor [Li Jiang](http://www.cs.sjtu.edu.cn/~jiangli/) at [Advanced Computer Architecture Lab](http://acalab.sjtu.edu.cn/EN/Default.aspx)
 
 ### Nagoya University
 
