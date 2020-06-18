@@ -14,6 +14,7 @@ Research interest in Natural Language Processing.
 
 **Email**: song[at]nlp.ist.i.kyoto-u.ac.jp
 
+[**Publication list**](#pub) 
 <!-- **Looking for internship related to ML/NLP.** -->
 <!-- **Looking for internship.** -->
 
@@ -22,7 +23,7 @@ Research interest in Natural Language Processing.
 
 <!-- .. _education: -->
 ---
-
+<a name='edu'></a>
 Education
 ======
 ### Kyoto University
@@ -72,7 +73,7 @@ Work experience
 <br/>
 
 ---
-
+<a name='pub'></a>
 Publication
 ======
 
