@@ -85,11 +85,7 @@ Publication
 
 - **Haiyue Song**, Xiang Song, Tianjian Li, Hao Dong, Naifeng Jing, Xiaoyao Liang, Li Jiang. A FPGA Friendly Approximate Computing Framework with Hybrid Neural Networks (Abstract Only), In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (**FPGA2018**), pp.286, Monterey, CA, USA, (2018.2).
 
----
-
-Others
-======
-
 - **Haiyue Song**, Raj Dabre, Atsushi Fujita ,Sadao Kurohashi. Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning, 言語処理学会第26回年次大会 (**NLP2020**), pp.461-464, 茨城,  (2020.3). 
 
 - Zhuoyuan Mao, Raj Dabre, Fabien Cromieres, **Haiyue Song**, 中尾 亮太, 黒橋 禎夫. ニューラル機械翻訳のための言語知識に基づくマルチタスク事前学習, 言語処理学会第26回年次大会 (**NLP2020**), pp.1061-1064, 茨城,  (2020.3). 
+
