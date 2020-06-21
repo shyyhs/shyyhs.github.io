@@ -100,7 +100,7 @@ Publication
 
 ### Journal
 
-- Li Jiang, Zhuoran Song, **Haiyue Song**, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, Xiaoyao Liang. Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method,  ACM Transactions on Design Automation of Electronic Systems (**TODAES2019**), pp.59:1-59:25, (2019.11)
+- Li Jiang, Zhuoran Song, **Haiyue Song**, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, Xiaoyao Liang. Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method,  ACM Transactions on Design Automation of Electronic Systems (**TODAES2019**), pp.59:1-59:25, (2019.11) \[[paper](files/TODAES2019_Song_paper.pdf)\]
 
 ## 2018
 
