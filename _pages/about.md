@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+<!-- 
 Master student at Kyoto University.
+-->
 
 Research interest in Natural Language Processing.
 
