@@ -89,7 +89,7 @@ Publication
 
 ### Conference
 
-\[[poster](files/ACL2020COVID_Song.pdf)\], \[[flash](files/ACL2020COVID_Song.mkv)\]
+\[[poster](files/ACL2020COVID_Song.pdf)\], \[[flash](files/ACL2020COVID_Song.mp4)\]
 
 - **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Fei Cheng, Sadao Kurohashi and Eiichiro Sumita. Pre-training via Leveraging Assisting Languages for Neural Machine Translation, Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop (**ACL2020SRW**), pp., Seattle, Washington, United States, (2020, 7). \[[paper](files/ACL2020SRW_Song_paper.pdf)\], \[[paper (arXiv_version)](files/ACL2020SRW_Song_paper_arxiv_version.pdf)\], \[[slides](files/ACL2020SRW_Song_slides.pdf)\]
 
