@@ -52,9 +52,9 @@ Education
 
 Research
 ======
-* Natural Language Processing: Machine Translation
+* Natural Language Processing: Machine Translation, Transfer Learning
 * Computer Vision: Image Matting, Semantic Segmentation 
-* Computer Architecture: DNN Acceleration
+* Computer Architecture: DNN Acceleration, Efficiency
 
 <br/>
 
