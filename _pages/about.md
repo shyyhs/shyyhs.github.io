@@ -12,9 +12,9 @@ redirect_from:
 Master student at Kyoto University.
 -->
 
-Research interest in Natural Language Processing.
+Natural Language Processing, Machine Translation
 
-**Email**: song[at]nlp.ist.i.kyoto-u.ac.jp
+**Email**: song@nlp.ist.i.kyoto-u.ac.jp
 
 [**Publication list**](#pub)
 <!-- **Looking for internship related to ML/NLP.** -->
@@ -85,7 +85,7 @@ Publication
 
 [**Google Scholar**](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en), [**DBLP**](https://dblp.org/pers/s/Song:Haiyue.html), [**Research Gate**](https://www.researchgate.net/profile/Haiyue_Song), and [**ACL**](https://www.aclweb.org/anthology/people/h/haiyue-song/) profile
 
-## International Journal
+## Journal
 
 - Li Jiang, Zhuoran Song, **Haiyue Song**, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, Xiaoyao Liang. Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method,  ACM Transactions on Design Automation of Electronic Systems (**TODAES2019**), pp.59:1-59:25, (2019.11) \[[paper](files/TODAES2019_Song_paper.pdf)\], \[[bib](files/TODAES2019_Song_bib.txt)\], 
 
@@ -105,7 +105,11 @@ Publication
 
 ## Domestic Conference (non peer-reviewed) 
 
-- **Haiyue Song**, Raj Dabre, Atsushi Fujita ,Sadao Kurohashi. Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning, 言語処理学会第26回年次大会, pp.461-464, 茨城,  (**2020.3**). 
+- **Haiyue Song**, Raj Dabre, Atsushi Fujita ,Sadao Kurohashi.
+
+Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
+
+言語処理学会第26回年次大会, pp.461-464, 茨城,  (**2020.3**). 
 
 - Zhuoyuan Mao, Raj Dabre, Fabien Cromieres, **Haiyue Song**, 中尾 亮太, 黒橋 禎夫. ニューラル機械翻訳のための言語知識に基づくマルチタスク事前学習, 言語処理学会第26回年次大会, pp.1061-1064, 茨城,  (**2020.3**). 
 
