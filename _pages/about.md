@@ -108,11 +108,11 @@ In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmab
 
 ## Domestic Conference (non peer-reviewed) 
 
-- **Haiyue Song**, Raj Dabre, Atsushi Fujita ,Sadao Kurohashi.  
-Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning,  
+- **Haiyue Song**, Raj Dabre, Atsushi Fujita ,Sadao Kurohashi.   
+Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning\
 言語処理学会第26回年次大会, pp.461-464, 茨城,  (**2020.3**). 
 
 - Zhuoyuan Mao, Raj Dabre, Fabien Cromieres, **Haiyue Song**, 中尾 亮太, 黒橋 禎夫.  
-ニューラル機械翻訳のための言語知識に基づくマルチタスク事前学習,  
+ニューラル機械翻訳のための言語知識に基づくマルチタスク事前学習\  
 言語処理学会第26回年次大会, pp.1061-1064, 茨城,  (**2020.3**). 
 
