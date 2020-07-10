@@ -101,11 +101,18 @@ Publication
 
 - **Haiyue Song**, Chengwen Xu, Qiang Xu, Zhuoran Song, Naifeng Jing, Xiaoyao Liang, Li Jiang. Invocation-driven neural approximate computing with a multiclass-classifier and multiple approximators,  In Proceedings of the International Conference on Computer-Aided Design (**ICCAD2018**), pp.50, San Diego, CA, USA, (2018.11). \[[paper](files/ICCAD2018_Song_paper.pdf)\], \[[slides](files/ICCAD2018_Song_slides.pdf)\], \[[bib](files/ICCAD2018_Song_bib.txt)\]
 
-- **Haiyue Song**, Xiang Song, Tianjian Li, Hao Dong, Naifeng Jing, Xiaoyao Liang, Li Jiang. A FPGA Friendly Approximate Computing Framework with Hybrid Neural Networks (Abstract Only), In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (**FPGA2018**), pp.286, Monterey, CA, USA, (2018.2). \[[abstract](https://dl.acm.org/doi/10.1145/3174243.3174965)\], \[[poster](files/FPGA2018_Song_poster.pdf)\], \[[bib](files/FPGA2018_Song_bib.txt)\]
+- **Haiyue Song**, Xiang Song, Tianjian Li, Hao Dong, Naifeng Jing, Xiaoyao Liang, Li Jiang.
+A FPGA Friendly Approximate Computing Framework with Hybrid Neural Networks (Abstract Only),
+In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (**FPGA2018**), pp.286, Monterey, CA, USA, (2018.2).
+\[[abstract](https://dl.acm.org/doi/10.1145/3174243.3174965)\], \[[poster](files/FPGA2018_Song_poster.pdf)\], \[[bib](files/FPGA2018_Song_bib.txt)\]
 
 ## Domestic Conference (non peer-reviewed) 
 
-- **Haiyue Song**, Raj Dabre, Atsushi Fujita ,Sadao Kurohashi. Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning, 言語処理学会第26回年次大会, pp.461-464, 茨城,  (**2020.3**). 
+- **Haiyue Song**, Raj Dabre, Atsushi Fujita ,Sadao Kurohashi.
+Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning,
+言語処理学会第26回年次大会, pp.461-464, 茨城,  (**2020.3**). 
 
-- Zhuoyuan Mao, Raj Dabre, Fabien Cromieres, **Haiyue Song**, 中尾 亮太, 黒橋 禎夫. ニューラル機械翻訳のための言語知識に基づくマルチタスク事前学習, 言語処理学会第26回年次大会, pp.1061-1064, 茨城,  (**2020.3**). 
+- Zhuoyuan Mao, Raj Dabre, Fabien Cromieres, **Haiyue Song**, 中尾 亮太, 黒橋 禎夫.
+ニューラル機械翻訳のための言語知識に基づくマルチタスク事前学習,
+言語処理学会第26回年次大会, pp.1061-1064, 茨城,  (**2020.3**). 
 
