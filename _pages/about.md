@@ -108,9 +108,9 @@ Publication
 
 ### Conference
 
-- **Haiyue Song**, Chengwen Xu, Qiang Xu, Zhuoran Song, Naifeng Jing, Xiaoyao Liang, Li Jiang. Invocation-driven neural approximate computing with a multiclass-classifier and multiple approximators,  In Proceedings of the International Conference on Computer-Aided Design (**ICCAD2018**), pp.50, San Diego, CA, USA, (2018.11). \[[paper](files/ICCAD2018_Song_paper.pdf)\], \[[slides](files/ICCAD2018_Song_slides.pdf)\], \[[bib](files/LREC2020_Mao_bib.txt)\]
+- **Haiyue Song**, Chengwen Xu, Qiang Xu, Zhuoran Song, Naifeng Jing, Xiaoyao Liang, Li Jiang. Invocation-driven neural approximate computing with a multiclass-classifier and multiple approximators,  In Proceedings of the International Conference on Computer-Aided Design (**ICCAD2018**), pp.50, San Diego, CA, USA, (2018.11). \[[paper](files/ICCAD2018_Song_paper.pdf)\], \[[slides](files/ICCAD2018_Song_slides.pdf)\], \[[bib](files/ICCAD2018_Song_bib.txt)\]
 
-- **Haiyue Song**, Xiang Song, Tianjian Li, Hao Dong, Naifeng Jing, Xiaoyao Liang, Li Jiang. A FPGA Friendly Approximate Computing Framework with Hybrid Neural Networks (Abstract Only), In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (**FPGA2018**), pp.286, Monterey, CA, USA, (2018.2).
+- **Haiyue Song**, Xiang Song, Tianjian Li, Hao Dong, Naifeng Jing, Xiaoyao Liang, Li Jiang. A FPGA Friendly Approximate Computing Framework with Hybrid Neural Networks (Abstract Only), In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (**FPGA2018**), pp.286, Monterey, CA, USA, (2018.2). \[[abstract](https://dl.acm.org/doi/10.1145/3174243.3174965)\], \[[poster](files/FPGA2018_Song_poster.pdf)\], \[[bib](files/FPGA2018_Song_bib.txt)\]
 
 ## Domestic
 

@@ -1,0 +1,7 @@
+@inproceedings{song2018fpga,
+  title={A FPGA Friendly Approximate Computing Framework with Hybrid Neural Networks},
+  author={Song, Haiyue and Song, Xiang and Li, Tianjian and Dong, Hao and Jing, Naifeng and Liang, Xiaoyao and Jiang, Li},
+  booktitle={Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays},
+  pages={286--286},
+  year={2018}
+}
