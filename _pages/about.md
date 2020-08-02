@@ -12,6 +12,8 @@ redirect_from:
 Master student at Kyoto University.
 -->
 
+Master student at Kyoto University. Internship researcher at NICT.
+
 Natural Language Processing, Machine Translation
 
 **Email**: song@nlp.ist.i.kyoto-u.ac.jp
@@ -64,6 +66,7 @@ Work experience
 ======
 ### NICT
 
+* Research internship, August 2020-
 * Research internship, October 2019-November 2019
 
 * Supervised by [Fujita](http://paraphrasing.org/~fujita/index-en.html) and [Raj Dabre](https://www.linkedin.com/in/raj-dabre-b1202119/) at [ASTREC](http://att-astrec.nict.go.jp/)
