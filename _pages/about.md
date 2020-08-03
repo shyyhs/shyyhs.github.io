@@ -128,7 +128,6 @@ In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmab
 \[[abstract](https://dl.acm.org/doi/10.1145/3174243.3174965)\], \[[poster](files/FPGA2018_Song_poster.pdf)\], \[[bib](files/FPGA2018_Song_bib.txt)\]
 
 
-\[[test](files/master_final_practice_song.mp4)\]
 ## Domestic Conference (non peer-reviewed) 
 
 - **Haiyue Song**, Raj Dabre, Atsushi Fujita ,Sadao Kurohashi.  
