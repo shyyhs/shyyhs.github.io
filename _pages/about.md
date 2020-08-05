@@ -100,7 +100,7 @@ ACM Transactions on Design Automation of Electronic Systems (**TODAES2019**), pp
 - Akiko Aizawa, Frederic Bergeron, Junjie Chen, Fei Cheng, Katsuhiko Hayashi, Kentaro Inui, Hiroyoshi Ito, Daisuke Kawahara, Masaru Kitsuregawa, Hirokazu Kiyomaru, Masaki Kobayashi, Takashi Kodama, Sadao Kurohashi, Qianying Liu, Masaki Matsubara, Yusuke Miyao, Atsuyuki Morishima, Yugo Murawaki, Kazumasa Omura, **Haiyue Song**, Eiichiro Sumita, Shinji Suzuki, Ribeka Tanaka, Yu Tanaka, Masashi Toyoda, Nobuhiro Ueda, Honai Ueoka, Masao Utiyama, Ying Zhong (**in alphabetical order**).  
 A System for Worldwide COVID-19 Information Aggregation  
 **ACL2020NLP-COVID19**.  
-paper (arXiv), \[[poster](files/ACL2020COVID_Song.pdf)\], \[[flash presentation](files/ACL2020COVID_Song.mp4)\], \[[website](http://lotus.kuee.kyoto-u.ac.jp/NLPforCOVID-19/)\], \[[github](https://github.com/NLPforCOVID-19)\]
+\[[paper (arXiv)](https://arxiv.org/abs/2008.01523)\], \[[poster](files/ACL2020COVID_Song.pdf)\], \[[flash presentation](files/ACL2020COVID_Song.mp4)\], \[[website](http://lotus.kuee.kyoto-u.ac.jp/NLPforCOVID-19/)\], \[[github](https://github.com/NLPforCOVID-19)\]
 
 - **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Fei Cheng, Sadao Kurohashi and Eiichiro Sumita.  
 Pre-training via Leveraging Assisting Languages for Neural Machine Translation  
