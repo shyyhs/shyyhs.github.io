@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- 
-Master student at Kyoto University.
--->
-
-Master student at Kyoto University. Internship researcher at NICT.
+Ph.D. student at Kyoto University. Internship researcher at NICT.
 
 Natural Language Processing, Machine Translation
 
@@ -34,7 +30,9 @@ Education
 
 ### Kyoto University
 
-* Master of Intelligence Science and Technology, October 2018-present
+* Ph.D. student of Intelligence Science and Technology, October 2020-present
+
+* Master student of Intelligence Science and Technology, October 2018-September 2020
 
 * Supervlsed by Professor [Kurohashi](http://nlp.ist.i.kyoto-u.ac.jp/member/kuro/index-j.html) at [Kurohashi-Muwaraki Lab](http://nlp.ist.i.kyoto-u.ac.jp/)
 
