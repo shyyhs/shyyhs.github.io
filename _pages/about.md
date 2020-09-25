@@ -64,15 +64,13 @@ Work experience
 ======
 ### NICT
 
-* Research internship, August 2020-
+* Research internship, August 2020-present
 * Research internship, October 2019-November 2019
-
 * Supervised by [Fujita](http://paraphrasing.org/~fujita/index-en.html) and [Raj Dabre](https://www.linkedin.com/in/raj-dabre-b1202119/) at [ASTREC](http://att-astrec.nict.go.jp/)
 
 ### LINE
 
 * Internship at machine learning team, February 2019-March 2019
-
 * [Summary Report](https://engineering.linecorp.com/ja/blog/line-sticker-deep-learning/)
 
 <br/>
