@@ -62,6 +62,11 @@ Research
 
 Work experience
 ======
+
+### JSPS Research Fellowship
+
+* Research Fellowships for Young Scientists (DC1), April 2021-
+
 ### NICT
 
 * Research internship, August 2020-present
