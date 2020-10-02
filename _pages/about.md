@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. student at Kyoto University. Internship researcher at NICT.
+Ph.D. candidate at Kyoto University. Internship researcher at NICT.
 
 Natural Language Processing, Machine Translation
 
@@ -30,7 +30,7 @@ Education
 
 ### Kyoto University
 
-* Ph.D. student of Intelligence Science and Technology, October 2020-present
+* Ph.D. candidate of Intelligence Science and Technology, October 2020-present
 
 * Master student of Intelligence Science and Technology, October 2018-September 2020
 
