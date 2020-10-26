@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. candidate at Kyoto University. Internship researcher at NICT.
+Ph.D student at Kyoto University. Internship researcher at NICT.
 
-Natural Language Processing, Machine Translation
+Natural Language Processing and Machine Translation.
 
 **Email**: song@nlp.ist.i.kyoto-u.ac.jp
 
@@ -30,21 +30,21 @@ Education
 
 ### Kyoto University
 
-* Ph.D. candidate of Intelligence Science and Technology, October 2020-present
+* Ph.D student   of Intelligence Science and Technology, October 2020-present
 
 * Master student of Intelligence Science and Technology, October 2018-September 2020
 
-* Supervlsed by Professor [Kurohashi](http://nlp.ist.i.kyoto-u.ac.jp/member/kuro/index-j.html) at [Kurohashi-Muwaraki Lab](http://nlp.ist.i.kyoto-u.ac.jp/)
+* Supervised by Professor [Kurohashi](http://nlp.ist.i.kyoto-u.ac.jp/member/kuro/index-j.html) at [Kurohashi-Chu-Muwaraki Lab](http://nlp.ist.i.kyoto-u.ac.jp/)
 
 ### Shanghai Jiao Tong University
 
-* Bachelor of Computer Science and Technology, September 2014-July 2018
+* Bachelor student of Computer Science and Technology, September 2014-July 2018
 
 * Supervised by Professor [Li Jiang](http://www.cs.sjtu.edu.cn/~jiangli/) at [Advanced Computer Architecture Lab](http://acalab.sjtu.edu.cn/EN/Default.aspx)
 
 ### Nagoya University
 
-* Exchange program, October 2017-February 2018
+* Exchange student, October 2017-February 2018
 
 <br/>
 
@@ -133,9 +133,9 @@ In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmab
 
 - **Haiyue Song**, Raj Dabre, Atsushi Fujita ,Sadao Kurohashi.  
 Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning  
-言語処理学会第26回年次大会, pp.461-464, 茨城,  (**2020.3**). 
+言語処理学会第26回年次大会, pp.461-464, 茨城,  (2020.3). 
 
 - Zhuoyuan Mao, Raj Dabre, Fabien Cromieres, **Haiyue Song**, 中尾 亮太, 黒橋 禎夫.  
 ニューラル機械翻訳のための言語知識に基づくマルチタスク事前学習  
-言語処理学会第26回年次大会, pp.1061-1064, 茨城,  (**2020.3**). 
+言語処理学会第26回年次大会, pp.1061-1064, 茨城,  (2020.3). 
 
