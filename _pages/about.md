@@ -14,7 +14,7 @@ Natural Language Processing and Machine Translation.
 
 **Email**: song@nlp.ist.i.kyoto-u.ac.jp
 
-[**Publication list**](#pub)
+[**Publication**](#pub)
 <!-- **Looking for internship related to ML/NLP.** -->
 <!-- **Looking for internship.** -->
 
