@@ -55,7 +55,6 @@ Research
 * Natural language processing: low-resource/multilingual/multimodal machine translation, transfer learning, self-supervised learning, subword segmentation
 * Computer vision: image matting, semantic segmentation 
 * Computer architecture: DNN acceleration, efficiency
-
 <br/>
 
 ---
@@ -142,6 +141,6 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 
 # Miscellaneous
 
-- Mentor of AACL-SRW
+- Mentor of AACL2020-SRW
 
 - Second reviewer of EMNLP2020, IJCNLP2020, WAT2020
