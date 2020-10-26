@@ -32,7 +32,7 @@ Education
 
 #### Supervised by Professor [Kurohashi](http://nlp.ist.i.kyoto-u.ac.jp/member/kuro/index-j.html) at [Kurohashi-Chu-Muwaraki Lab](http://nlp.ist.i.kyoto-u.ac.jp/)
 
-* Ph.D student &nbsp;&nbsp;of Intelligence Science and Technology, October 2020-present
+* Ph.D student of Intelligence Science and Technology, October 2020-present
 
 * Master student of Intelligence Science and Technology, October 2018-September 2020
 
@@ -52,9 +52,9 @@ Education
 
 Research
 ======
-* Natural Language Processing: Machine Translation, Transfer Learning, Self-Supervised Learning, Word Segmentation
-* Computer Vision: Image Matting, Semantic Segmentation 
-* Computer Architecture: DNN Acceleration, Efficiency
+* Natural language processing: low-resource/multilingual/multimodal machine translation, transfer learning, self-supervised learning, subword segmentation
+* Computer vision: image matting, semantic segmentation 
+* Computer architecture: DNN acceleration, efficiency
 
 <br/>
 
@@ -63,17 +63,18 @@ Research
 Work experience
 ======
 
-### JSPS Research Fellowship
+### [JSPS Research Fellowship](https://www.jsps.go.jp/english/index.html)
 
 * Research Fellowships for Young Scientists (DC1), April 2021-
 
-### NICT
+### [NICT](https://www.nict.go.jp/)
+
+#### Supervised by [Fujita](http://paraphrasing.org/~fujita/index-en.html) and [Raj Dabre](https://www.linkedin.com/in/raj-dabre-b1202119/) at [ASTREC](http://att-astrec.nict.go.jp/)
 
 * Research internship, August 2020-present
 * Research internship, October 2019-November 2019
-* Supervised by [Fujita](http://paraphrasing.org/~fujita/index-en.html) and [Raj Dabre](https://www.linkedin.com/in/raj-dabre-b1202119/) at [ASTREC](http://att-astrec.nict.go.jp/)
 
-### LINE
+### [LINE](https://line.me/en/)
 
 * Internship at machine learning team, February 2019-March 2019
 * [Summary Report](https://engineering.linecorp.com/ja/blog/line-sticker-deep-learning/)
