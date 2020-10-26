@@ -140,3 +140,8 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 ニューラル機械翻訳のための言語知識に基づくマルチタスク事前学習  
 言語処理学会第26回年次大会, pp.1061-1064, 茨城,  (2020.3). 
 
+# Miscellaneous
+
+- Mentor of AACL-SRW
+
+- Second reviewer of EMNLP2020, IJCNLP2020, WAT2020
