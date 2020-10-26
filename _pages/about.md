@@ -30,17 +30,17 @@ Education
 
 ### Kyoto University
 
-* Ph.D student   of Intelligence Science and Technology, October 2020-present
+#### Supervised by Professor [Kurohashi](http://nlp.ist.i.kyoto-u.ac.jp/member/kuro/index-j.html) at [Kurohashi-Chu-Muwaraki Lab](http://nlp.ist.i.kyoto-u.ac.jp/)
+
+* Ph.D student &nbsp;&nbsp;of Intelligence Science and Technology, October 2020-present
 
 * Master student of Intelligence Science and Technology, October 2018-September 2020
 
-* Supervised by Professor [Kurohashi](http://nlp.ist.i.kyoto-u.ac.jp/member/kuro/index-j.html) at [Kurohashi-Chu-Muwaraki Lab](http://nlp.ist.i.kyoto-u.ac.jp/)
-
 ### Shanghai Jiao Tong University
 
-* Bachelor student of Computer Science and Technology, September 2014-July 2018
+#### Supervised by Professor [Li Jiang](http://www.cs.sjtu.edu.cn/~jiangli/) at [Advanced Computer Architecture Lab](http://acalab.sjtu.edu.cn/EN/Default.aspx)
 
-* Supervised by Professor [Li Jiang](http://www.cs.sjtu.edu.cn/~jiangli/) at [Advanced Computer Architecture Lab](http://acalab.sjtu.edu.cn/EN/Default.aspx)
+* Bachelor student of Computer Science and Technology, September 2014-July 2018
 
 ### Nagoya University
 
