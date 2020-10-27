@@ -141,6 +141,7 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 
 # Miscellaneous
 
-- Mentor of AACL2020-SRW
+<!-- Mentor of AACL2020-SRW -->
+
 
 - Second reviewer of EMNLP2020, IJCNLP2020, WAT2020
