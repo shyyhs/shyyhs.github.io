@@ -131,7 +131,15 @@ In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmab
 
 ## Domestic Conference (non peer-reviewed) 
 
-- **Haiyue Song**, Raj Dabre, Atsushi Fujita ,Sadao Kurohashi.  
+- **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi, and Eiichiro Sumita.
+Self-supervised Dynamic Programming Encoding for Neural Machine Translation
+言語処理学会 第27回年次大会, 北九州, (2021.3).
+
+- Weiqi Gu, **Haiyue Song**, Chenhui Chu, and Sadao Kurohashi.
+Video-guided Machine Translation with Spatial Hierarchical Attention Network Encoder
+言語処理学会 第27回年次大会, 北九州, (2021.3).
+
+- **Haiyue Song**, Raj Dabre, Atsushi Fujita, Sadao Kurohashi.  
 Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning  
 言語処理学会第26回年次大会, pp.461-464, 茨城,  (2020.3). 
 
