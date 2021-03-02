@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D student at Kyoto University. Internship researcher at NICT.
+Ph.D student at Kyoto University. Internship researcher at NICT. Research Fellowships for Young Scientists (DC1).
 
 Natural Language Processing and Machine Translation.
 
