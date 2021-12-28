@@ -97,6 +97,10 @@ ACM Transactions on Design Automation of Electronic Systems (**TODAES2019**), pp
 \[[paper](files/TODAES2019_Song_paper.pdf)\], \[[bib](files/TODAES2019_Song_bib.txt)\] 
 
 ## International Conference
+- Weiqi Gu, **Haiyue Song**, Chenhui Chu and Sadao Kurohashi.
+Video-guided Machine Translation with Spatial Hierarchical Attention Network
+Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Student Research Workshop, Online (2021, 8).
+\[[paper](https://aclanthology.org/2021.acl-srw.9/)\]
 
 - Akiko Aizawa, Frederic Bergeron, Junjie Chen, Fei Cheng, Katsuhiko Hayashi, Kentaro Inui, Hiroyoshi Ito, Daisuke Kawahara, Masaru Kitsuregawa, Hirokazu Kiyomaru, Masaki Kobayashi, Takashi Kodama, Sadao Kurohashi, Qianying Liu, Masaki Matsubara, Yusuke Miyao, Atsuyuki Morishima, Yugo Murawaki, Kazumasa Omura, **Haiyue Song**, Eiichiro Sumita, Shinji Suzuki, Ribeka Tanaka, Yu Tanaka, Masashi Toyoda, Nobuhiro Ueda, Honai Ueoka, Masao Utiyama, Ying Zhong (**in alphabetical order**).  
 A System for Worldwide COVID-19 Information Aggregation  
