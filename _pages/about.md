@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D student at Kyoto University. Internship researcher at NICT. Research Fellowships for Young Scientists (DC1).
+I am now a doctor candidate at Kyoto University, majoring in Intelligence Science and Technologyat Kurohashi-Chu-Murawaki's lab. 
 
-Natural Language Processing and Machine Translation.
+My research interests include natural language processing especially neural machine translation, multi-modality, and subword segmentation. 
 
 **Email**: song@nlp.ist.i.kyoto-u.ac.jp
 
@@ -87,7 +87,7 @@ Work experience
 Publication
 ======
 
-[**Google Scholar**](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en), [**DBLP**](https://dblp.org/pers/s/Song:Haiyue.html), [**Research Gate**](https://www.researchgate.net/profile/Haiyue_Song), and [**ACL**](https://www.aclweb.org/anthology/people/h/haiyue-song/) profile
+[**Google Scholar**](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en), [**DBLP**](https://dblp.org/pers/s/Song:Haiyue.html), [**Research Gate**](https://www.researchgate.net/profile/Haiyue_Song), and [**ACL profile**](https://www.aclweb.org/anthology/people/h/haiyue-song/)
 
 ## Journal
 
@@ -97,6 +97,16 @@ ACM Transactions on Design Automation of Electronic Systems (**TODAES2019**), pp
 \[[paper](files/TODAES2019_Song_paper.pdf)\], \[[bib](files/TODAES2019_Song_bib.txt)\] 
 
 ## International Conference
+
+- **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Chenhui Chu and Sadao Kurohashi
+BERTSeg: BERT Based Unsupervised Subword Segmentation for Neural Machine Translation
+Accepted to the main conference of AACL-IJCNLP 2022.
+
+- Zhuoyuan Mao, Chenhui Chu, Raj Dabre, **Haiyue Song**, Zhen Wan, Sadao Kurohashi.
+When do Contrastive Word Alignments Improve Many-to-many Neural Machine Translation?
+In Findings of the Association for Computational Linguistics: NAACL 2022, pages 1766–1775, Seattle, United States. Association for Computational Linguistics. (2022)
+\[[paper](https://aclanthology.org/2022.findings-naacl.134/)\]
+
 - Weiqi Gu, **Haiyue Song**, Chenhui Chu and Sadao Kurohashi.
 Video-guided Machine Translation with Spatial Hierarchical Attention Network
 Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Student Research Workshop, Online (2021, 8).
