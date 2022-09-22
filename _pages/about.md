@@ -145,6 +145,14 @@ In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmab
 
 ## Domestic Conference (non peer-reviewed) 
 
+- **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Chenhui Chu and Sadao Kurohashi
+Representative Data Selection for Sequence-to-Sequence Pre-training
+言語処理学会 第28回年次大会,  pp.1-5,  (2022.3)
+
+- Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, **Haiyue Song**, Sadao Kurohashi
+Improving Medical Relation Extraction with Distantly Supervised Pre-training,
+言語処理学会 第28回年次大会, 浜松,  (2022.3)
+
 - **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi, and Eiichiro Sumita.
 Self-supervised Dynamic Programming Encoding for Neural Machine Translation
 言語処理学会 第27回年次大会, 北九州, (2021.3).
@@ -163,7 +171,5 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 
 # Miscellaneous
 
-<!-- Mentor of AACL2020-SRW -->
-
-
-- Second reviewer of EMNLP2020, IJCNLP2020, WAT2020
+- Mentor of AACL2020-SRW
+- Reviewer of EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020
