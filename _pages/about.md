@@ -98,7 +98,7 @@ ACM Transactions on Design Automation of Electronic Systems (**TODAES2019**), pp
 
 ## International Conference
 
-- **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Chenhui Chu and Sadao Kurohashi
+- **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Chenhui Chu and Sadao Kurohashi.
 BERTSeg: BERT Based Unsupervised Subword Segmentation for Neural Machine Translation
 Accepted to the main conference of AACL-IJCNLP 2022.
 
@@ -145,11 +145,11 @@ In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmab
 
 ## Domestic Conference (non peer-reviewed) 
 
-- **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Chenhui Chu and Sadao Kurohashi
+- **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Chenhui Chu and Sadao Kurohashi.
 Representative Data Selection for Sequence-to-Sequence Pre-training
 言語処理学会 第28回年次大会,  pp.1-5,  (2022.3)
 
-- Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, **Haiyue Song**, Sadao Kurohashi
+- Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, **Haiyue Song**, Sadao Kurohashi.
 Improving Medical Relation Extraction with Distantly Supervised Pre-training,
 言語処理学会 第28回年次大会, 浜松,  (2022.3)
 
