@@ -170,7 +170,17 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 ニューラル機械翻訳のための言語知識に基づくマルチタスク事前学習  
 言語処理学会第26回年次大会, pp.1061-1064, 茨城,  (2020.3). 
 
+## Other Presentations
+
+- Presentation at 第14回入力メソッドワークショップ (IM 2022)
+\[[link](https://github.com/mamorlis/chaime/wiki/im2022)\]
+
+- Presentation at 2022年度 京都大学 情報学研究科 知能情報学専攻 シンポジウム
+
+- Lecture at 知能情報学演習
+
 # Miscellaneous
 
 - Mentor of AACL2020-SRW
 - Reviewer of EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020
+- One patent application in progress
