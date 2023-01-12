@@ -101,7 +101,7 @@ ACM Transactions on Design Automation of Electronic Systems (**TODAES2019**), pp
 - **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Chenhui Chu and Sadao Kurohashi.
 BERTSeg: BERT Based Unsupervised Subword Segmentation for Neural Machine Translation
 Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Volume 2: Short Papers), pages 85-94, Online. (2022)
-\[[paper]()https://aclanthology.org/2022.aacl-short.12/\], \[[poster]()http://lotus.kuee.kyoto-u.ac.jp/~song/publications/AACL_123_BERTSeg_poster.pdf\]
+\[[paper](https://aclanthology.org/2022.aacl-short.12/)\], \[[poster](http://lotus.kuee.kyoto-u.ac.jp/~song/publications/AACL_123_BERTSeg_poster.pdf)\]
 
 - Zhuoyuan Mao, Chenhui Chu, Raj Dabre, **Haiyue Song**, Zhen Wan, Sadao Kurohashi.
 When do Contrastive Word Alignments Improve Many-to-many Neural Machine Translation?
