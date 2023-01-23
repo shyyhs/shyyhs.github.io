@@ -98,6 +98,10 @@ ACM Transactions on Design Automation of Electronic Systems (**TODAES2019**), pp
 
 ## International Conference
 
+- Zhen Wan, Fei Cheng, Qianying Liu, Zhuoyuan Mao, **Haiyue Song** and Sadao Kurohashi.
+Relation Extraction with Weighted Contrastive Pre-training on Distant Supervision
+To be appear in EACL2023 (Findings)
+
 - **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Chenhui Chu and Sadao Kurohashi.
 BERTSeg: BERT Based Unsupervised Subword Segmentation for Neural Machine Translation
 Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Volume 2: Short Papers), pages 85-94, Online. (2022)
