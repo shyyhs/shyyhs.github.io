@@ -91,6 +91,10 @@ Publication
 
 ## Journal
 
+- Weiqi Gu, **Haiyue Song**, Chenhui Chu, Sadao Kurohashi.
+Spatial Hierarchical Attention Network Based Video-guided Machine Translation.
+Journal of Information Processing,  Vol.31,  (2023.5).
+
 - Li Jiang, Zhuoran Song, **Haiyue Song**, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, Xiaoyao Liang.  
 Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method  
 ACM Transactions on Design Automation of Electronic Systems (**TODAES2019**), pp.59:1-59:25, (2019.11)  
@@ -150,6 +154,10 @@ In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmab
 
 ## Domestic Conference (non peer-reviewed) 
 
+- **Haiyue Song**, Raj Dabre, Chenhui Chu and Sadao Kurohashi.
+Large Pre-trained Language Models with Multilingual Prompt for Japanese Natural Language Tasks
+言語処理学会 第29回年次大会,  沖縄,  (2023.3)
+
 - **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Chenhui Chu and Sadao Kurohashi.
 Representative Data Selection for Sequence-to-Sequence Pre-training
 言語処理学会 第28回年次大会,  pp.1-5,  (2022.3)
@@ -186,5 +194,5 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 # Miscellaneous
 
 - Mentor of AACL2020-SRW
-- Reviewer of EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020
+- Reviewer of ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020
 - One patent application in progress
