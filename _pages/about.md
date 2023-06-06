@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am now a doctor candidate at Kyoto University, majoring in Intelligence Science and Technologyat Kurohashi-Chu-Murawaki's lab. 
+I am a Ph.D. candidate at Kyoto University, majoring in Intelligence Science and Technology at Kurohashi lab. 
 
-My research interests include natural language processing especially neural machine translation, multi-modality, and subword segmentation. 
+My research interests include natural language processing especially machine translation, multi-modality, and subword segmentation. 
 
 **Email**: song@nlp.ist.i.kyoto-u.ac.jp
 
@@ -32,7 +32,7 @@ Education
 
 #### Supervised by Professor [Kurohashi](http://nlp.ist.i.kyoto-u.ac.jp/member/kuro/index-j.html) at [Kurohashi-Chu-Muwaraki Lab](http://nlp.ist.i.kyoto-u.ac.jp/)
 
-* Ph.D student of Intelligence Science and Technology, October 2020-present
+* Ph.D. student of Intelligence Science and Technology, October 2020-present
 
 * Master student of Intelligence Science and Technology, October 2018-September 2020
 
@@ -64,14 +64,14 @@ Work experience
 
 ### JSPS Research Fellowship
 
-* Research Fellowships for Young Scientists (DC1), April 2021-
+* Research Fellowships for Young Scientists (DC1), April 2021-June 2023
 
 ### NICT
 
 #### Supervised by [Fujita](http://paraphrasing.org/~fujita/index-en.html) and [Raj Dabre](https://www.linkedin.com/in/raj-dabre-b1202119/) at [ASTREC](http://att-astrec.nict.go.jp/)
 
-* Research internship, August 2020-present
-* Research internship, October 2019-November 2019
+* Researcher, July 2023-present
+* Research internship, October 2019-June 2023
 
 ### LINE
 
@@ -194,5 +194,6 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 # Miscellaneous
 
 - Mentor of AACL2020-SRW
-- Reviewer of ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020
+- Reviewer of ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020, TALLIP
 - One patent application in progress
+- Silver medal in National Olympiad in Informatics (NOI) 2013
