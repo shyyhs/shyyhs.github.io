@@ -70,7 +70,7 @@ Work experience
 
 #### Supervised by [Fujita](http://paraphrasing.org/~fujita/index-en.html) and [Raj Dabre](https://www.linkedin.com/in/raj-dabre-b1202119/) at [ASTREC](http://att-astrec.nict.go.jp/)
 
-* Researcher, July 2023-present
+* Technical Researcher, July 2023-present
 * Research internship, October 2019-June 2023
 
 ### LINE
