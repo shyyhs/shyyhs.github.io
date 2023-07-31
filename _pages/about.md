@@ -109,8 +109,8 @@ ACM Transactions on Design Automation of Electronic Systems (**TODAES2019**), pp
 Exploring the Impact of Layer Normalization for Zero-shot Neural Machine Translation.
 In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 1300–1316, Toronto, Canada. Association for Computational Linguistics. \[[paper](https://aclanthology.org/2023.acl-short.112/)\]
 
-- Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, **Haiyue Song**, Jiwei Li, Sadao Kurohashi
-GPT-RE: In-context Learning for Relation Extraction using Large Language Models
+- Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, **Haiyue Song**, Jiwei Li, Sadao Kurohashi.
+GPT-RE: In-context Learning for Relation Extraction using Large Language Models.
 ArXiv. \[[paper](https://arxiv.org/abs/2305.02105)\]
 
 - Zhuoyuan Mao, **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi.
@@ -122,7 +122,7 @@ Relation Extraction with Weighted Contrastive Pre-training on Distant Supervisio
 In Findings of the Association for Computational Linguistics: EACL 2023, pages 2580–2585, Dubrovnik, Croatia. Association for Computational Linguistics. \[[paper](https://aclanthology.org/2023.findings-eacl.195/)\]
 
 - **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Chenhui Chu and Sadao Kurohashi.
-BERTSeg: BERT Based Unsupervised Subword Segmentation for Neural Machine Translation
+BERTSeg: BERT Based Unsupervised Subword Segmentation for Neural Machine Translation.
 Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Volume 2: Short Papers), pages 85-94, Online. (2022)
 \[[paper](https://aclanthology.org/2022.aacl-short.12/)\], \[[poster](http://lotus.kuee.kyoto-u.ac.jp/~song/publications/AACL_123_BERTSeg_poster.pdf)\]
 
@@ -132,12 +132,12 @@ In Findings of the Association for Computational Linguistics: NAACL 2022, pages 
 \[[paper](https://aclanthology.org/2022.findings-naacl.134/)\]
 
 - Weiqi Gu, **Haiyue Song**, Chenhui Chu and Sadao Kurohashi.
-Video-guided Machine Translation with Spatial Hierarchical Attention Network
+Video-guided Machine Translation with Spatial Hierarchical Attention Network.
 Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Student Research Workshop, Online (2021, 8).
 \[[paper](https://aclanthology.org/2021.acl-srw.9/)\]
 
 - Akiko Aizawa, Frederic Bergeron, Junjie Chen, Fei Cheng, Katsuhiko Hayashi, Kentaro Inui, Hiroyoshi Ito, Daisuke Kawahara, Masaru Kitsuregawa, Hirokazu Kiyomaru, Masaki Kobayashi, Takashi Kodama, Sadao Kurohashi, Qianying Liu, Masaki Matsubara, Yusuke Miyao, Atsuyuki Morishima, Yugo Murawaki, Kazumasa Omura, **Haiyue Song**, Eiichiro Sumita, Shinji Suzuki, Ribeka Tanaka, Yu Tanaka, Masashi Toyoda, Nobuhiro Ueda, Honai Ueoka, Masao Utiyama, Ying Zhong (**in alphabetical order**).  
-A System for Worldwide COVID-19 Information Aggregation  
+A System for Worldwide COVID-19 Information Aggregation.
 **NLP-COVID19@ACL2020** and **NLP-COVID19 (part2)@EMNLP2020**
 \[[paper](https://www.aclweb.org/anthology/2020.nlpcovid19-2.13/)\], \[[website](http://lotus.kuee.kyoto-u.ac.jp/NLPforCOVID-19/)\], \[[code](https://github.com/NLPforCOVID-19)\], \[[dataset](https://github.com/NLPforCOVID-19/covid-19-dataset)\]
 
