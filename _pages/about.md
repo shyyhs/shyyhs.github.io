@@ -90,6 +90,9 @@ Publication
 [**Google Scholar**](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en), [**DBLP**](https://dblp.org/pers/s/Song:Haiyue.html), [**Research Gate**](https://www.researchgate.net/profile/Haiyue_Song), and [**ACL profile**](https://www.aclweb.org/anthology/people/h/haiyue-song/)
 
 ## Journal
+- **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi, and Eiichiro Sumita.
+SelfSeg: A Self-supervised Sub-word Segmentation Method for Neural Machine Translation.
+ACM Trans. Asian Low-Resour. Lang. Inf. Process. (2023.7). \[[paper](https://doi.org/10.1145/3610611)\]
 
 - Weiqi Gu, **Haiyue Song**, Chenhui Chu, Sadao Kurohashi.
 Spatial Hierarchical Attention Network Based Video-guided Machine Translation.
@@ -102,9 +105,21 @@ ACM Transactions on Design Automation of Electronic Systems (**TODAES2019**), pp
 
 ## International Conference
 
+- Zhuoyuan Mao, Raj Dabre, Qianying Liu, **Haiyue Song**, Chenhui Chu, and Sadao Kurohashi.
+Exploring the Impact of Layer Normalization for Zero-shot Neural Machine Translation.
+In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 1300–1316, Toronto, Canada. Association for Computational Linguistics. \[[paper](https://aclanthology.org/2023.acl-short.112/)\]
+
+- Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, **Haiyue Song**, Jiwei Li, Sadao Kurohashi
+GPT-RE: In-context Learning for Relation Extraction using Large Language Models
+ArXiv. \[[paper](https://arxiv.org/abs/2305.02105)\]
+
+- Zhuoyuan Mao, **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi.
+Variable-length Neural Interlingua Representations for Zero-shot Neural Machine Translation.
+Proceedings of the 1st International Workshop on Multilingual, Multimodal and Multitask Language Generation (Multi3Generation) held in conjection with EAMT 2023. \[[paper](https://arxiv.org/abs/2305.10190)\]
+
 - Zhen Wan, Fei Cheng, Qianying Liu, Zhuoyuan Mao, **Haiyue Song** and Sadao Kurohashi.
-Relation Extraction with Weighted Contrastive Pre-training on Distant Supervision 
-To be appear in EACL2023 (Findings).
+Relation Extraction with Weighted Contrastive Pre-training on Distant Supervision.
+In Findings of the Association for Computational Linguistics: EACL 2023, pages 2580–2585, Dubrovnik, Croatia. Association for Computational Linguistics. \[[paper](https://aclanthology.org/2023.findings-eacl.195/)\]
 
 - **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Chenhui Chu and Sadao Kurohashi.
 BERTSeg: BERT Based Unsupervised Subword Segmentation for Neural Machine Translation
@@ -194,6 +209,6 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 # Miscellaneous
 
 - Mentor of AACL2020-SRW
-- Reviewer of ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020, TALLIP
+- Reviewer of TALLIP 2023, ARR 2023, APSIPA ASC 2023, EMNLP2023, ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020.
 - One patent application in progress
 - Silver medal in National Olympiad in Informatics (NOI) 2013
