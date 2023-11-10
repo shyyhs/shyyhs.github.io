@@ -63,7 +63,7 @@ Work experience
 
 ### NICT
 
-#### Supervised by [Utiyama Masao](https://www2.nict.go.jp/astrec-att/member/mutiyama/), [Hideki Tanaka](https://jp.linkedin.com/in/hideki-tanaka-9a95a6219) and [Raj Dabre](https://www.linkedin.com/in/raj-dabre-b1202119/) at [ASTREC](http://att-astrec.nict.go.jp/)
+#### Supervised by [Masao Utiyama](https://www2.nict.go.jp/astrec-att/member/mutiyama/), [Hideki Tanaka](https://jp.linkedin.com/in/hideki-tanaka-9a95a6219) and [Raj Dabre](https://www.linkedin.com/in/raj-dabre-b1202119/) at [ASTREC](http://att-astrec.nict.go.jp/)
 
 * Technical researcher, July 2023-present
 * Research internship, October 2019-June 2023
