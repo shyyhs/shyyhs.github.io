@@ -7,16 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!---I am a Ph.D. candidate at Kyoto University, majoring in Intelligence Science and Technology at Kurohashi lab. I am also working as a technical researcher at [Advanced Translation Technology Laboratory](https://att-astrec.nict.go.jp/en/) in National Institute of Information and Communications Technology ([NICT](https://www.nict.go.jp/)).-->
+I am a Ph.D. candidate at Kyoto University and a technical researcher at [NICT](https://www.nict.go.jp/en).
 
-I am a Ph.D. candidate at Kyoto University, majoring in Intelligence Science and Technology at Kurohashi lab. 
-
-My research interests include natural language processing especially machine translation, multi-modality, and subword segmentation. 
+My research interests include natural language processing, focusing on machine translation, subword segmentation, and decoding algorithm.
 
 **Email**: song@nlp.ist.i.kyoto-u.ac.jp
 
 [**Publication**](#pub)
-<!-- **Looking for internship related to ML/NLP.** -->
-<!-- **Looking for internship.** -->
 
 
 <br/>
@@ -52,9 +50,9 @@ Education
 
 Research
 ======
-* Natural language processing: low-resource/multilingual/multimodal machine translation, transfer learning, self-supervised learning, subword segmentation
+* Natural language processing: low-resource/multilingual/multimodal machine translation, transfer learning, self-supervised learning, subword segmentation, decoding algorithm
 * Computer vision: image matting, semantic segmentation 
-* Computer architecture: DNN acceleration, efficiency
+* Computer architecture (long time ago): DNN acceleration, efficiency
 <br/>
 
 ---
@@ -62,16 +60,17 @@ Research
 Work experience
 ======
 
-### JSPS Research Fellowship
-
-* Research Fellowships for Young Scientists (DC1), April 2021-June 2023
 
 ### NICT
 
-#### Supervised by [Fujita](http://paraphrasing.org/~fujita/index-en.html) and [Raj Dabre](https://www.linkedin.com/in/raj-dabre-b1202119/) at [ASTREC](http://att-astrec.nict.go.jp/)
+#### Supervised by [Utiyama Masao](https://www2.nict.go.jp/astrec-att/member/mutiyama/), [Hideki Tanaka](https://jp.linkedin.com/in/hideki-tanaka-9a95a6219) and [Raj Dabre](https://www.linkedin.com/in/raj-dabre-b1202119/) at [ASTREC](http://att-astrec.nict.go.jp/)
 
-* Technical Researcher, July 2023-present
+* Technical researcher, July 2023-present
 * Research internship, October 2019-June 2023
+
+### JSPS Research Fellowship
+
+* Research Fellowships for Young Scientists (DC1), April 2021-June 2023
 
 ### LINE
 
@@ -105,35 +104,35 @@ ACM Transactions on Design Automation of Electronic Systems (**TODAES2019**), pp
 
 ## International Conference
 
-- Zhuoyuan Mao, Raj Dabre, Qianying Liu, **Haiyue Song**, Chenhui Chu, and Sadao Kurohashi.
-Exploring the Impact of Layer Normalization for Zero-shot Neural Machine Translation.
-In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 1300–1316, Toronto, Canada. Association for Computational Linguistics. \[[paper](https://aclanthology.org/2023.acl-short.112/)\]
-
 - Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, **Haiyue Song**, Jiwei Li, Sadao Kurohashi.
 GPT-RE: In-context Learning for Relation Extraction using Large Language Models.
-ArXiv. \[[paper](https://arxiv.org/abs/2305.02105)\]
+Accepted to **EMNLP2024**. \[[paper](https://arxiv.org/abs/2305.02105)\]
+
+- Zhuoyuan Mao, Raj Dabre, Qianying Liu, **Haiyue Song**, Chenhui Chu, and Sadao Kurohashi.
+Exploring the Impact of Layer Normalization for Zero-shot Neural Machine Translation.
+In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 1300–1316, Toronto, Canada. Association for Computational Linguistics. (**ACL2023**) \[[paper](https://aclanthology.org/2023.acl-short.112/)\]
 
 - Zhuoyuan Mao, **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi.
 Variable-length Neural Interlingua Representations for Zero-shot Neural Machine Translation.
-Proceedings of the 1st International Workshop on Multilingual, Multimodal and Multitask Language Generation (Multi3Generation) held in conjection with EAMT 2023. \[[paper](https://arxiv.org/abs/2305.10190)\]
+Proceedings of the 1st International Workshop on Multilingual, Multimodal and Multitask Language Generation (Multi3Generation) held in conjection with **EAMT2023**. \[[paper](https://arxiv.org/abs/2305.10190)\]
 
 - Zhen Wan, Fei Cheng, Qianying Liu, Zhuoyuan Mao, **Haiyue Song** and Sadao Kurohashi.
 Relation Extraction with Weighted Contrastive Pre-training on Distant Supervision.
-In Findings of the Association for Computational Linguistics: EACL 2023, pages 2580–2585, Dubrovnik, Croatia. Association for Computational Linguistics. \[[paper](https://aclanthology.org/2023.findings-eacl.195/)\]
+In Findings of the Association for Computational Linguistics: **EACL2023**, pages 2580–2585, Dubrovnik, Croatia. Association for Computational Linguistics. \[[paper](https://aclanthology.org/2023.findings-eacl.195/)\]
 
 - **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Chenhui Chu and Sadao Kurohashi.
 BERTSeg: BERT Based Unsupervised Subword Segmentation for Neural Machine Translation.
-Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Volume 2: Short Papers), pages 85-94, Online. (2022)
+Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Volume 2: Short Papers), pages 85-94, Online. (**AACL2022**)
 \[[paper](https://aclanthology.org/2022.aacl-short.12/)\], \[[poster](http://lotus.kuee.kyoto-u.ac.jp/~song/publications/AACL_123_BERTSeg_poster.pdf)\]
 
 - Zhuoyuan Mao, Chenhui Chu, Raj Dabre, **Haiyue Song**, Zhen Wan, Sadao Kurohashi.
 When do Contrastive Word Alignments Improve Many-to-many Neural Machine Translation?
-In Findings of the Association for Computational Linguistics: NAACL 2022, pages 1766–1775, Seattle, United States. Association for Computational Linguistics. (2022)
+In Findings of the Association for Computational Linguistics: **NAACL2022**, pages 1766–1775, Seattle, United States. Association for Computational Linguistics. (2022)
 \[[paper](https://aclanthology.org/2022.findings-naacl.134/)\]
 
 - Weiqi Gu, **Haiyue Song**, Chenhui Chu and Sadao Kurohashi.
 Video-guided Machine Translation with Spatial Hierarchical Attention Network.
-Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Student Research Workshop, Online (2021, 8).
+Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Student Research Workshop, Online (**ACL2021 Student Workshop**).
 \[[paper](https://aclanthology.org/2021.acl-srw.9/)\]
 
 - Akiko Aizawa, Frederic Bergeron, Junjie Chen, Fei Cheng, Katsuhiko Hayashi, Kentaro Inui, Hiroyoshi Ito, Daisuke Kawahara, Masaru Kitsuregawa, Hirokazu Kiyomaru, Masaki Kobayashi, Takashi Kodama, Sadao Kurohashi, Qianying Liu, Masaki Matsubara, Yusuke Miyao, Atsuyuki Morishima, Yugo Murawaki, Kazumasa Omura, **Haiyue Song**, Eiichiro Sumita, Shinji Suzuki, Ribeka Tanaka, Yu Tanaka, Masashi Toyoda, Nobuhiro Ueda, Honai Ueoka, Masao Utiyama, Ying Zhong (**in alphabetical order**).  
@@ -208,7 +207,7 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 
 # Miscellaneous
 
-- Mentor of AACL2020-SRW
 - Reviewer of TALLIP 2023, ARR 2023, APSIPA ASC 2023, EMNLP2023, ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020.
-- One patent application in progress
-- Silver medal in National Olympiad in Informatics (NOI) 2013
+- One patent application in progress.
+- Mentor of AACL2020-SRW.
+- Silver medal in National Olympiad in Informatics (NOI) 2013.
