@@ -211,3 +211,4 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 - One patent application in progress.
 - Mentor of AACL2020-SRW.
 - Silver medal in National Olympiad in Informatics (NOI) 2013.
+- Japanese Language Proficiency Test N1
