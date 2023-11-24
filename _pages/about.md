@@ -91,11 +91,11 @@ Publication
 ## Journal
 - **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi, and Eiichiro Sumita.
 SelfSeg: A Self-supervised Sub-word Segmentation Method for Neural Machine Translation.
-ACM Trans. Asian Low-Resour. Lang. Inf. Process. (2023.7). \[[paper](https://doi.org/10.1145/3610611)\]
+ACM Trans. Asian Low-Resour. Lang. Inf. Process. (2023.7). (**TALLIP**) \[[paper](https://doi.org/10.1145/3610611)\], \[[bib](files/TALLIP2023_1_bib.txt)\]
 
 - Weiqi Gu, **Haiyue Song**, Chenhui Chu, Sadao Kurohashi.
 Spatial Hierarchical Attention Network Based Video-guided Machine Translation.
-Journal of Information Processing,  Vol.31,  (2023.5).
+Journal of Information Processing,  Vol.31,  (2023.5). (**JIP**) \[[paper](https://www.jstage.jst.go.jp/article/ipsjjip/31/0/31_299/_article/-char/ja/)\], \[[bib](files/JIP2023_1_bib.txt)\]
 
 - Li Jiang, Zhuoran Song, **Haiyue Song**, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, Xiaoyao Liang.  
 Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method  

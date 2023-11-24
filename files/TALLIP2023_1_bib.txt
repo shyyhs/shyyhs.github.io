@@ -1,0 +1,18 @@
+@article{10.1145/3610611,
+author = {Song, Haiyue and Dabre, Raj and Chu, Chenhui and Kurohashi, Sadao and Sumita, Eiichiro},
+title = {SelfSeg: A Self-Supervised Sub-Word Segmentation Method for Neural Machine Translation},
+year = {2023},
+issue_date = {August 2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {22},
+number = {8},
+issn = {2375-4699},
+url = {https://doi.org/10.1145/3610611},
+doi = {10.1145/3610611},
+journal = {ACM Trans. Asian Low-Resour. Lang. Inf. Process.},
+month = {aug},
+articleno = {215},
+numpages = {24},
+keywords = {Subword segmentation, machine translation, subword regularization, self-supervised learning, efficient NLP}
+}
