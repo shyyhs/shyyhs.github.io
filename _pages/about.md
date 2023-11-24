@@ -210,7 +210,7 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 ### Japanese
 
 - Minor in Japanese, School of Foreign Languages, Shanghai Jiao Tong University, 2015--2018.
-- Passed Japanese Language Proficiency Test (JLPT) N1 (the highest level) in 2017.
+- Passed Japanese Language Proficiency Test N1 (the highest level) in 2017.
 
 ### Jogging and Hiking
 
