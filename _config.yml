@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Haiyue Song"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate at Kyoto University."
-  location         : #"Kyoto, Japan"
+  bio              : #"Ph.D. candidate at Kyoto University."
+  location         : "Kyoto, Japan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en"
