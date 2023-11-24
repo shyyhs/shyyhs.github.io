@@ -138,7 +138,7 @@ Proceedings of the 59th Annual Meeting of the Association for Computational Ling
 - Akiko Aizawa, Frederic Bergeron, Junjie Chen, Fei Cheng, Katsuhiko Hayashi, Kentaro Inui, Hiroyoshi Ito, Daisuke Kawahara, Masaru Kitsuregawa, Hirokazu Kiyomaru, Masaki Kobayashi, Takashi Kodama, Sadao Kurohashi, Qianying Liu, Masaki Matsubara, Yusuke Miyao, Atsuyuki Morishima, Yugo Murawaki, Kazumasa Omura, **Haiyue Song**, Eiichiro Sumita, Shinji Suzuki, Ribeka Tanaka, Yu Tanaka, Masashi Toyoda, Nobuhiro Ueda, Honai Ueoka, Masao Utiyama, Ying Zhong (**in alphabetical order**).  
 A System for Worldwide COVID-19 Information Aggregation.
 **NLP-COVID19@ACL2020** and **NLP-COVID19 (part2)@EMNLP2020**
-\[[paper](https://www.aclweb.org/anthology/2020.nlpcovid19-2.13/)\], \[[website](http://lotus.kuee.kyoto-u.ac.jp/NLPforCOVID-19/)\], \[[code](https://github.com/NLPforCOVID-19)\], \[[dataset](https://github.com/NLPforCOVID-19/covid-19-dataset)\]
+\[[paper](https://www.aclweb.org/anthology/2020.nlpcovid19-2.13/)\], \[[code](https://github.com/NLPforCOVID-19)\], \[[dataset](https://github.com/NLPforCOVID-19/covid-19-dataset)\]
 
 - **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Fei Cheng, Sadao Kurohashi and Eiichiro Sumita.  
 Pre-training via Leveraging Assisting Languages for Neural Machine Translation  
