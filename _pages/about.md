@@ -208,9 +208,11 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 - Atcoder 2 Kyu [shyyhs](https://atcoder.jp/users/shyyhs)
 
 ## Japanese
+
 - Majored in Japanese in Shanghai Jiao Tong University, 2015--2018.
 - Passed Japanese Language Proficiency Test (JLPT) N1, the highest level, in 2017.
 
 ## Jogging and Hiking
+
 - Finisher of the full course of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html).
 - Hiked [Mount Kita](https://en.wikipedia.org/wiki/Mount_Kita), [Mount Yake](https://en.wikipedia.org/wiki/Mount_Yake) and some other famous mountains in Japan.
