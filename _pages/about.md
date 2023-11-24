@@ -10,7 +10,7 @@ redirect_from:
 <!---I am a Ph.D. candidate at Kyoto University, majoring in Intelligence Science and Technology at Kurohashi lab. I am also working as a technical researcher at [Advanced Translation Technology Laboratory](https://att-astrec.nict.go.jp/en/) in National Institute of Information and Communications Technology ([NICT](https://www.nict.go.jp/)).-->
 I am a Ph.D. candidate at Kyoto University and a technical researcher at [NICT](https://www.nict.go.jp/en).
 
-My research interests include natural language processing, focusing on machine translation, subword segmentation, and decoding algorithm.
+My research interests include machine translation, large language model (LLM), subword segmentation, and decoding algorithm.
 
 **Email**: song at nlp.ist.i.kyoto-u.ac.jp
 
@@ -92,7 +92,7 @@ Work Experience
 Publication
 ======
 
-\[[**Google Scholar**](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en)\], \[[**DBLP**](https://dblp.org/pers/s/Song:Haiyue.html)\], \[[**Research Gate**](https://www.researchgate.net/profile/Haiyue_Song)\], \[[**ACL profile**](https://www.aclweb.org/anthology/people/h/haiyue-song/)\]
+\[[**Google Scholar**](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en)\], \[[**DBLP**](https://dblp.org/pers/s/Song:Haiyue.html)\], \[[**Research Gate**](https://www.researchgate.net/profile/Haiyue_Song)\], \[[**ACL Profile**](https://www.aclweb.org/anthology/people/h/haiyue-song/)\]
 
 ## Journal
 - **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi, and Eiichiro Sumita.
@@ -109,7 +109,7 @@ Journal of Information Processing,  Vol.31,  (2023.5). (**JIP**) \[[paper](https
 
 - Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, **Haiyue Song**, Jiwei Li, Sadao Kurohashi.
 GPT-RE: In-context Learning for Relation Extraction using Large Language Models.
-Accepted to **EMNLP2023**. \[[version paper](https://arxiv.org/abs/2305.02105)\], \[[bib](files/EMNLP2023_1_bib.txt)\]
+Accepted to **EMNLP2023**. \[[paper](https://arxiv.org/abs/2305.02105)\], \[[bib](files/EMNLP2023_1_bib.txt)\]
 
 - Zhuoyuan Mao, Raj Dabre, Qianying Liu, **Haiyue Song**, Chenhui Chu, and Sadao Kurohashi.
 Exploring the Impact of Layer Normalization for Zero-shot Neural Machine Translation.
