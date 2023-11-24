@@ -1,0 +1,6 @@
+@article{wan2023gpt,
+  title={Gpt-re: In-context learning for relation extraction using large language models},
+  author={Wan, Zhen and Cheng, Fei and Mao, Zhuoyuan and Liu, Qianying and Song, Haiyue and Li, Jiwei and Kurohashi, Sadao},
+  journal={arXiv preprint arXiv:2305.02105},
+  year={2023}
+}

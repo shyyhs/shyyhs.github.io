@@ -106,7 +106,7 @@ ACM Transactions on Design Automation of Electronic Systems (**TODAES2019**), pp
 
 - Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, **Haiyue Song**, Jiwei Li, Sadao Kurohashi.
 GPT-RE: In-context Learning for Relation Extraction using Large Language Models.
-Accepted to **EMNLP2023**. \[[paper](https://arxiv.org/abs/2305.02105)\]
+Accepted to **EMNLP2023**. \[[arXiv version paper](https://arxiv.org/abs/2305.02105)\], \[[bib](files/EMNLP2023_1_bib.txt)\]
 
 - Zhuoyuan Mao, Raj Dabre, Qianying Liu, **Haiyue Song**, Chenhui Chu, and Sadao Kurohashi.
 Exploring the Impact of Layer Normalization for Zero-shot Neural Machine Translation.
