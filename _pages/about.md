@@ -213,4 +213,4 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 
 ## Jogging and Hiking
 - Finisher of the full course of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html).
-- Hiked [Mount Kita](https://en.wikipedia.org/wiki/Mount_Kita) and [Mount Yake](https://en.wikipedia.org/wiki/Mount_Yake) in Japan.
+- Hiked [Mount Kita](https://en.wikipedia.org/wiki/Mount_Kita), [Mount Yake](https://en.wikipedia.org/wiki/Mount_Yake) and some other famous mountains in Japan.
