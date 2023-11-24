@@ -103,7 +103,7 @@ ACM Trans. Asian Low-Resour. Lang. Inf. Process. (2023.7). (**TALLIP**) \[[paper
 Spatial Hierarchical Attention Network Based Video-guided Machine Translation.
 Journal of Information Processing,  Vol.31,  (2023.5). (**JIP**) \[[paper](https://www.jstage.jst.go.jp/article/ipsjjip/31/0/31_299/_article/-char/ja/)\], \[[bib](files/JIP2023_1_bib.txt)\]
 
-- Li Jiang, Zhuoran Song, **Haiyue Song**, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, Xiaoyao Liang. Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method. ACM Transactions on Design Automation of Electronic Systems (**TODAES**), pp.59:1-59:25, (2019.11) \[[paper](files/TODAES2019_Song_paper.pdf)\], \[[bib](files/TODAES2019_Song_bib.txt)\] 
+- Li Jiang, Zhuoran Song, **Haiyue Song**, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, Xiaoyao Liang. Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method. ACM Transactions on Design Automation of Electronic Systems (**TODAES**), pp.59:1-59:25, (2019.11). \[[paper](files/TODAES2019_Song_paper.pdf)\], \[[bib](files/TODAES2019_Song_bib.txt)\] 
 
 ## International Conference
 
@@ -196,7 +196,21 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 # Miscellaneous
 
 - Reviewer of TALLIP 2023, ARR 2023, APSIPA ASC 2023, EMNLP2023, ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020.
-- One patent application in progress.
 - Mentor of AACL2020-SRW.
-- Silver medal in National Olympiad in Informatics (NOI) 2013.
-- Japanese Language Proficiency Test N1
+- One patent application in progress.
+
+# Hobbies
+
+## Competitive Programming
+
+- Silver medal in National Olympiad in Informatics (NOI) 2013, Chengdu, China.
+- Bronze medal in Asia-Pacific Informatics Olympiad (APIO) 2013, Taipei, Taiwan.
+- Atcoder 2 Kyu [shyyhs](https://atcoder.jp/users/shyyhs)
+
+## Japanese
+- Majored in Japanese in Shanghai Jiao Tong University, 2015--2018.
+- Passed Japanese Language Proficiency Test (JLPT) N1, the highest level, in 2017.
+
+## Jogging and Hiking
+- Finisher of the full course of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html).
+- Hiked [Mount Kita](https://en.wikipedia.org/wiki/Mount_Kita) and [Mount Yake](https://en.wikipedia.org/wiki/Mount_Yake) in Japan.
