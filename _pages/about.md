@@ -48,6 +48,7 @@ Education
 
 ---
 
+<!---
 Research
 ======
 * Natural language processing: low-resource/multilingual/multimodal machine translation, transfer learning, self-supervised learning, subword segmentation, decoding algorithm
@@ -56,6 +57,7 @@ Research
 <br/>
 
 ---
+-->
 
 Work Experience
 ======
