@@ -1,0 +1,21 @@
+@inproceedings{song-etal-2022-bertseg,
+    title = "{BERTS}eg: {BERT} Based Unsupervised Subword Segmentation for Neural Machine Translation",
+    author = "Song, Haiyue  and
+      Dabre, Raj  and
+      Mao, Zhuoyuan  and
+      Chu, Chenhui  and
+      Kurohashi, Sadao",
+    editor = "He, Yulan  and
+      Ji, Heng  and
+      Li, Sujian  and
+      Liu, Yang  and
+      Chang, Chua-Hui",
+    booktitle = "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Volume 2: Short Papers)",
+    month = nov,
+    year = "2022",
+    address = "Online only",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.aacl-short.12",
+    pages = "85--94",
+    abstract = "Existing subword segmenters are either 1) frequency-based without semantics information or 2) neural-based but trained on parallel corpora. To address this, we present BERTSeg, an unsupervised neural subword segmenter for neural machine translation, which utilizes the contextualized semantic embeddings of words from characterBERT and maximizes the generation probability of subword segmentations. Furthermore, we propose a generation probability-based regularization method that enables BERTSeg to produce multiple segmentations for one word to improve the robustness of neural machine translation. Experimental results show that BERTSeg with regularization achieves up to 8 BLEU points improvement in 9 translation directions on ALT, IWSLT15 Vi-{\textgreater}En, WMT16 Ro-{\textgreater}En, and WMT15 Fi-{\textgreater}En datasets compared with BPE. In addition, BERTSeg is efficient, needing up to 5 minutes for training.",
+}

@@ -57,7 +57,7 @@ Research
 
 ---
 
-Work experience
+Work Experience
 ======
 
 
@@ -106,39 +106,39 @@ ACM Transactions on Design Automation of Electronic Systems (**TODAES2019**), pp
 
 - Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, **Haiyue Song**, Jiwei Li, Sadao Kurohashi.
 GPT-RE: In-context Learning for Relation Extraction using Large Language Models.
-Accepted to **EMNLP2023**. \[[arXiv version paper](https://arxiv.org/abs/2305.02105)\], \[[bib](files/EMNLP2023_1_bib.txt)\]
+Accepted to **EMNLP2023**. \[[version paper](https://arxiv.org/abs/2305.02105)\], \[[bib](files/EMNLP2023_1_bib.txt)\]
 
 - Zhuoyuan Mao, Raj Dabre, Qianying Liu, **Haiyue Song**, Chenhui Chu, and Sadao Kurohashi.
 Exploring the Impact of Layer Normalization for Zero-shot Neural Machine Translation.
-In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 1300–1316, Toronto, Canada. Association for Computational Linguistics. (**ACL2023**) \[[paper](https://aclanthology.org/2023.acl-short.112/)\]
+In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 1300–1316, Toronto, Canada. Association for Computational Linguistics. (**ACL2023**) \[[paper](https://aclanthology.org/2023.acl-short.112/)\], \[[bib](files/ACL2023_1_bib.txt)\]
 
 - Zhuoyuan Mao, **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi.
 Variable-length Neural Interlingua Representations for Zero-shot Neural Machine Translation.
-Proceedings of the 1st International Workshop on Multilingual, Multimodal and Multitask Language Generation (Multi3Generation) held in conjection with **EAMT2023**. \[[paper](https://arxiv.org/abs/2305.10190)\]
+Proceedings of the 1st International Workshop on Multilingual, Multimodal and Multitask Language Generation (Multi3Generation) held in conjection with **EAMT2023**. \[[paper](https://arxiv.org/abs/2305.10190)\], \[[bib](files/EAMT2023_1_bib.txt)\]
 
 - Zhen Wan, Fei Cheng, Qianying Liu, Zhuoyuan Mao, **Haiyue Song** and Sadao Kurohashi.
 Relation Extraction with Weighted Contrastive Pre-training on Distant Supervision.
-In Findings of the Association for Computational Linguistics: **EACL2023**, pages 2580–2585, Dubrovnik, Croatia. Association for Computational Linguistics. \[[paper](https://aclanthology.org/2023.findings-eacl.195/)\]
+In Findings of the Association for Computational Linguistics: **EACL2023**, pages 2580–2585, Dubrovnik, Croatia. Association for Computational Linguistics. \[[paper](https://aclanthology.org/2023.findings-eacl.195/)\], \[[bib](files/EACL2023_1_bib.txt)\]
 
 - **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Chenhui Chu and Sadao Kurohashi.
 BERTSeg: BERT Based Unsupervised Subword Segmentation for Neural Machine Translation.
 Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Volume 2: Short Papers), pages 85-94, Online. (**AACL2022**)
-\[[paper](https://aclanthology.org/2022.aacl-short.12/)\], \[[poster](http://lotus.kuee.kyoto-u.ac.jp/~song/publications/AACL_123_BERTSeg_poster.pdf)\]
+\[[paper](https://aclanthology.org/2022.aacl-short.12/)\], \[[poster](http://lotus.kuee.kyoto-u.ac.jp/~song/publications/AACL_123_BERTSeg_poster.pdf)\], \[[bib](files/AACL2022_1_bib.txt)\]
 
 - Zhuoyuan Mao, Chenhui Chu, Raj Dabre, **Haiyue Song**, Zhen Wan, Sadao Kurohashi.
 When do Contrastive Word Alignments Improve Many-to-many Neural Machine Translation?
 In Findings of the Association for Computational Linguistics: **NAACL2022**, pages 1766–1775, Seattle, United States. Association for Computational Linguistics. (2022)
-\[[paper](https://aclanthology.org/2022.findings-naacl.134/)\]
+\[[paper](https://aclanthology.org/2022.findings-naacl.134/)\], \[[bib](files/NAACL2022_1_bib.txt)\]
 
 - Weiqi Gu, **Haiyue Song**, Chenhui Chu and Sadao Kurohashi.
 Video-guided Machine Translation with Spatial Hierarchical Attention Network.
 Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Student Research Workshop, Online (**ACL2021 Student Workshop**).
-\[[paper](https://aclanthology.org/2021.acl-srw.9/)\]
+\[[paper](https://aclanthology.org/2021.acl-srw.9/)\], \[[bib](files/ACL2021_1_bib.txt)\]
 
 - Akiko Aizawa, Frederic Bergeron, Junjie Chen, Fei Cheng, Katsuhiko Hayashi, Kentaro Inui, Hiroyoshi Ito, Daisuke Kawahara, Masaru Kitsuregawa, Hirokazu Kiyomaru, Masaki Kobayashi, Takashi Kodama, Sadao Kurohashi, Qianying Liu, Masaki Matsubara, Yusuke Miyao, Atsuyuki Morishima, Yugo Murawaki, Kazumasa Omura, **Haiyue Song**, Eiichiro Sumita, Shinji Suzuki, Ribeka Tanaka, Yu Tanaka, Masashi Toyoda, Nobuhiro Ueda, Honai Ueoka, Masao Utiyama, Ying Zhong (**in alphabetical order**).  
 A System for Worldwide COVID-19 Information Aggregation.
 **NLP-COVID19@ACL2020** and **NLP-COVID19 (part2)@EMNLP2020**
-\[[paper](https://www.aclweb.org/anthology/2020.nlpcovid19-2.13/)\], \[[code](https://github.com/NLPforCOVID-19)\], \[[dataset](https://github.com/NLPforCOVID-19/covid-19-dataset)\]
+\[[paper](https://www.aclweb.org/anthology/2020.nlpcovid19-2.13/)\], \[[code](https://github.com/NLPforCOVID-19)\], \[[dataset](https://github.com/NLPforCOVID-19/covid-19-dataset)\], \[[bib](files/ACL2020_1_bib.txt)\]
 
 - **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Fei Cheng, Sadao Kurohashi and Eiichiro Sumita.  
 Pre-training via Leveraging Assisting Languages for Neural Machine Translation  
