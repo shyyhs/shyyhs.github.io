@@ -204,13 +204,13 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 ## Competitive Programming
 
 - Silver medal in National Olympiad in Informatics (NOI) 2013, Chengdu, China.
-- Bronze medal in Asia-Pacific Informatics Olympiad (APIO) 2013, Taipei, Taiwan.
-- Atcoder 2 Kyu [shyyhs](https://atcoder.jp/users/shyyhs)
+- Bronze medal in Asia-Pacific Informatics Olympiad (APIO) 2013.
+- Atcoder 2 Kyu level [profile](https://atcoder.jp/users/shyyhs)
 
 ## Japanese
 
-- Majored in Japanese in Shanghai Jiao Tong University, 2015--2018.
-- Passed Japanese Language Proficiency Test (JLPT) N1, the highest level, in 2017.
+- Minor in Japanese, School of Foreign Languages, Shanghai Jiao Tong University, 2015--2018.
+- Passed Japanese Language Proficiency Test (JLPT) N1 (the highest level) in 2017.
 
 ## Jogging and Hiking
 
