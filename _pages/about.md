@@ -201,18 +201,18 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 
 # Hobbies
 
-## Competitive Programming
+### Competitive Programming
 
 - Silver medal in National Olympiad in Informatics (NOI) 2013, Chengdu, China.
 - Bronze medal in Asia-Pacific Informatics Olympiad (APIO) 2013.
 - Atcoder 2 Kyu level [profile](https://atcoder.jp/users/shyyhs)
 
-## Japanese
+### Japanese
 
 - Minor in Japanese, School of Foreign Languages, Shanghai Jiao Tong University, 2015--2018.
 - Passed Japanese Language Proficiency Test (JLPT) N1 (the highest level) in 2017.
 
-## Jogging and Hiking
+### Jogging and Hiking
 
 - Finisher of the full course of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html).
 - Hiked [Mount Kita](https://en.wikipedia.org/wiki/Mount_Kita), [Mount Yake](https://en.wikipedia.org/wiki/Mount_Yake) and some other famous mountains in Japan.
