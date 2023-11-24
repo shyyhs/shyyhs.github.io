@@ -12,9 +12,9 @@ I am a Ph.D. candidate at Kyoto University and a technical researcher at [NICT](
 
 My research interests include natural language processing, focusing on machine translation, subword segmentation, and decoding algorithm.
 
-**Email**: song@nlp.ist.i.kyoto-u.ac.jp
+**Email**: song at nlp.ist.i.kyoto-u.ac.jp
 
-[**Publication**](#pub)
+\[[**Publication**]\](#pub)
 
 
 <br/>
