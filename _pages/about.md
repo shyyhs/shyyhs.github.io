@@ -30,7 +30,7 @@ Education
 
 #### Supervised by Professor [Kurohashi](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/) at [Language Media Processing Lab](https://nlp.ist.i.kyoto-u.ac.jp/EN/)
 
-* **Ph.D. student* of Intelligence Science and Technology**, October 2020-present
+* **Ph.D. student of Intelligence Science and Technology**, October 2020-present
 
 * **Master of Intelligence Science and Technology**, October 2018-September 2020
 
