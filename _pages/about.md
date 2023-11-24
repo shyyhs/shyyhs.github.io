@@ -30,15 +30,15 @@ Education
 
 #### Supervised by Professor [Kurohashi](http://nlp.ist.i.kyoto-u.ac.jp/member/kuro/index-j.html) at [Kurohashi-Chu-Muwaraki Lab](http://nlp.ist.i.kyoto-u.ac.jp/)
 
-* Ph.D. student of Intelligence Science and Technology, October 2020-present
+* **Ph.D. student* of Intelligence Science and Technology**, October 2020-present
 
-* Master student of Intelligence Science and Technology, October 2018-September 2020
+* **Master of Intelligence Science and Technology**, October 2018-September 2020
 
 ### Shanghai Jiao Tong University
 
 #### Supervised by Professor [Li Jiang](http://www.cs.sjtu.edu.cn/~jiangli/) at [Advanced Computer Architecture Lab](http://acalab.sjtu.edu.cn/EN/Default.aspx)
 
-* Bachelor student of Computer Science and Technology, September 2014-July 2018
+* **Bachelor of Computer Science and Technology**, September 2014-July 2018
 
 ### Nagoya University
 
@@ -86,7 +86,7 @@ Work Experience
 Publication
 ======
 
-\[[**Google Scholar**](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en)\], \[[**DBLP**](https://dblp.org/pers/s/Song:Haiyue.html)\], \[[**Research Gate**](https://www.researchgate.net/profile/Haiyue_Song)\], and \[[**ACL profile**](https://www.aclweb.org/anthology/people/h/haiyue-song/)\]
+\[[**Google Scholar**](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en)\], \[[**DBLP**](https://dblp.org/pers/s/Song:Haiyue.html)\], \[[**Research Gate**](https://www.researchgate.net/profile/Haiyue_Song)\], \[[**ACL profile**](https://www.aclweb.org/anthology/people/h/haiyue-song/)\]
 
 ## Journal
 - **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi, and Eiichiro Sumita.
