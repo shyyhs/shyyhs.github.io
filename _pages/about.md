@@ -51,8 +51,8 @@ Education
 Research
 ======
 * Natural language processing: low-resource/multilingual/multimodal machine translation, transfer learning, self-supervised learning, subword segmentation, decoding algorithm
-* Computer vision: image matting, semantic segmentation 
-* Computer architecture (long time ago): DNN acceleration, efficiency
+* Computer vision (long time ago): image matting, semantic segmentation 
+* Computer architecture (long long time ago): DNN acceleration, efficiency
 <br/>
 
 ---
