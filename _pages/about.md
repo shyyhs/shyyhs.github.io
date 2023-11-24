@@ -30,19 +30,19 @@ Education
 
 #### Supervised by Professor [Sadao Kurohashi](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/) and [Chenhui Chu](https://researchmap.jp/chu/?lang=english) at [Language Media Processing Lab](https://nlp.ist.i.kyoto-u.ac.jp/EN/)
 
-* **Ph.D. student of Intelligence Science and Technology**, October 2020-present
+* **Ph.D. student of Intelligence Science and Technology**, *October 2020--present*
 
-* **Master of Intelligence Science and Technology**, October 2018-September 2020
+* **Master of Intelligence Science and Technology**, *October 2018--September 2020*
 
 ### Shanghai Jiao Tong University
 
 #### Supervised by Professor [Li Jiang](http://www.cs.sjtu.edu.cn/~jiangli/) at [Advanced Computer Architecture Lab](http://acalab.sjtu.edu.cn/EN/Default.aspx)
 
-* **Bachelor of Computer Science and Technology**, September 2014-July 2018
+* **Bachelor of Computer Science and Technology**, *September 2014--July 2018*
 
 ### Nagoya University
 
-* Exchange student, October 2017-February 2018
+* Exchange student, *October 2017--February 2018*
 
 <br/>
 
@@ -65,16 +65,20 @@ Work Experience
 
 #### Supervised by [Masao Utiyama](https://www2.nict.go.jp/astrec-att/member/mutiyama/), [Hideki Tanaka](https://jp.linkedin.com/in/hideki-tanaka-9a95a6219) and [Raj Dabre](https://www.linkedin.com/in/raj-dabre-b1202119/) at [ASTREC](http://att-astrec.nict.go.jp/)
 
-* Technical researcher, July 2023-present
-* Research internship, October 2019-June 2023
+* Technical researcher, *July 2023--present*
+* Research internship, *October 2019-=June 2023*
 
 ### JSPS Research Fellowship
 
-* Research Fellowships for Young Scientists (DC1), April 2021-June 2023
+* (Research Fellowships for Young Scientists)[https://www.jsps.go.jp/english/e-pd/] DC1, *April 2021--June 2023*
+
+### Kyoto University
+
+* Research assistant at Kyoto University, *November 2020--March 2021*
 
 ### LINE
 
-* Internship at machine learning team, February 2019-March 2019
+* Internship at machine learning team, *February 2019--March 2019*
 * [Summary Report](https://engineering.linecorp.com/ja/blog/line-sticker-deep-learning/)
 
 <br/>
