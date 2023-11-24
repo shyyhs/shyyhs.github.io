@@ -86,7 +86,7 @@ Work Experience
 Publication
 ======
 
-[**Google Scholar**](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en), [**DBLP**](https://dblp.org/pers/s/Song:Haiyue.html), [**Research Gate**](https://www.researchgate.net/profile/Haiyue_Song), and [**ACL profile**](https://www.aclweb.org/anthology/people/h/haiyue-song/)
+\[[**Google Scholar**](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en)\], \[[**DBLP**](https://dblp.org/pers/s/Song:Haiyue.html)\], \[[**Research Gate**](https://www.researchgate.net/profile/Haiyue_Song)\], and \[[**ACL profile**](https://www.aclweb.org/anthology/people/h/haiyue-song/)\]
 
 ## Journal
 - **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi, and Eiichiro Sumita.
