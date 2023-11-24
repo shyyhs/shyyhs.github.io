@@ -28,7 +28,7 @@ Education
 
 ### Kyoto University
 
-#### Supervised by Professor [Kurohashi](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/) at [Language Media Processing Lab](https://nlp.ist.i.kyoto-u.ac.jp/EN/)
+#### Supervised by Professor [Sadao Kurohashi](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/) and [Chenhui Chu](https://researchmap.jp/chu/?lang=english) at [Language Media Processing Lab](https://nlp.ist.i.kyoto-u.ac.jp/EN/)
 
 * **Ph.D. student of Intelligence Science and Technology**, October 2020-present
 
@@ -97,7 +97,7 @@ ACM Trans. Asian Low-Resour. Lang. Inf. Process. (2023.7). (**TALLIP**) \[[paper
 Spatial Hierarchical Attention Network Based Video-guided Machine Translation.
 Journal of Information Processing,  Vol.31,  (2023.5). (**JIP**) \[[paper](https://www.jstage.jst.go.jp/article/ipsjjip/31/0/31_299/_article/-char/ja/)\], \[[bib](files/JIP2023_1_bib.txt)\]
 
-- Li Jiang, Zhuoran Song, **Haiyue Song**, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, Xiaoyao Liang. Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method. ACM Transactions on Design Automation of Electronic Systems (**TODAES2019**), pp.59:1-59:25, (2019.11) \[[paper](files/TODAES2019_Song_paper.pdf)\], \[[bib](files/TODAES2019_Song_bib.txt)\] 
+- Li Jiang, Zhuoran Song, **Haiyue Song**, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, Xiaoyao Liang. Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method. ACM Transactions on Design Automation of Electronic Systems (**TODAES**), pp.59:1-59:25, (2019.11) \[[paper](files/TODAES2019_Song_paper.pdf)\], \[[bib](files/TODAES2019_Song_bib.txt)\] 
 
 ## International Conference
 
