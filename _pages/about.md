@@ -28,7 +28,7 @@ Education
 
 ### Kyoto University
 
-#### Supervised by Professor [Kurohashi](http://nlp.ist.i.kyoto-u.ac.jp/member/kuro/index-j.html) at [Kurohashi-Chu-Muwaraki Lab](http://nlp.ist.i.kyoto-u.ac.jp/)
+#### Supervised by Professor [Kurohashi](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/) at [Language Media Processing Lab](https://nlp.ist.i.kyoto-u.ac.jp/EN/)
 
 * **Ph.D. student* of Intelligence Science and Technology**, October 2020-present
 
