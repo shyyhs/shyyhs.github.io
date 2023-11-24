@@ -14,7 +14,7 @@ My research interests include natural language processing, focusing on machine t
 
 **Email**: song at nlp.ist.i.kyoto-u.ac.jp
 
-\[[**Publication**]\](#pub)
+\[[**Publication**](#pub)\]
 
 
 <br/>
