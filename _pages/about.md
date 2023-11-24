@@ -68,11 +68,11 @@ Work Experience
 #### Supervised by [Masao Utiyama](https://www2.nict.go.jp/astrec-att/member/mutiyama/), [Hideki Tanaka](https://jp.linkedin.com/in/hideki-tanaka-9a95a6219) and [Raj Dabre](https://www.linkedin.com/in/raj-dabre-b1202119/) at [ASTREC](http://att-astrec.nict.go.jp/)
 
 * Technical researcher, *July 2023--present*
-* Research internship, *October 2019-=June 2023*
+* Research internship, *October 2019--June 2023*
 
 ### JSPS Research Fellowship
 
-* (Research Fellowships for Young Scientists)[https://www.jsps.go.jp/english/e-pd/] DC1, *April 2021--June 2023*
+* [Research Fellowships for Young Scientists](https://www.jsps.go.jp/english/e-pd/) DC1, *April 2021--June 2023*
 
 ### Kyoto University
 
