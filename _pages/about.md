@@ -95,6 +95,10 @@ Publication
 [\[**Google Scholar**](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en), [\[**DBLP**](https://dblp.org/pers/s/Song:Haiyue.html), [\[**Research Gate**](https://www.researchgate.net/profile/Haiyue_Song), [\[**ACL Profile**](https://www.aclweb.org/anthology/people/h/haiyue-song/)
 
 ## Journal
+- **Haiyue Song**, Zhuoyuan Mao, Raj Dabre, Chenhui Chu, and Sadao Kurohashi.
+DiverSeg: Leveraging Diverse Segmentations with Cross-granularity Alignment for Neural Machine Translation.
+Journal of Natural Language Processing. To be appear 2024.3.
+
 - **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi, and Eiichiro Sumita.
 SelfSeg: A Self-supervised Sub-word Segmentation Method for Neural Machine Translation.
 ACM Trans. Asian Low-Resour. Lang. Inf. Process. (2023.7). (**TALLIP**) [\[paper](https://doi.org/10.1145/3610611), [\[bib](files/TALLIP2023_1_bib.txt)
