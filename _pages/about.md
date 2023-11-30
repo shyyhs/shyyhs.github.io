@@ -14,7 +14,7 @@ My research interests include machine translation, large language model (LLM), s
 
 **Email**: song at nlp.ist.i.kyoto-u.ac.jp
 
-[\[**Publication**\]](#pub)
+[\[**Publication**](#pub)
 
 
 <br/>
@@ -92,66 +92,66 @@ Work Experience
 Publication
 ======
 
-[\[**Google Scholar**](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en)\], [\[**DBLP**](https://dblp.org/pers/s/Song:Haiyue.html)\], [\[**Research Gate**](https://www.researchgate.net/profile/Haiyue_Song)\], [\[**ACL Profile**](https://www.aclweb.org/anthology/people/h/haiyue-song/)\]
+[\[**Google Scholar**](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en), [\[**DBLP**](https://dblp.org/pers/s/Song:Haiyue.html), [\[**Research Gate**](https://www.researchgate.net/profile/Haiyue_Song), [\[**ACL Profile**](https://www.aclweb.org/anthology/people/h/haiyue-song/)
 
 ## Journal
 - **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi, and Eiichiro Sumita.
 SelfSeg: A Self-supervised Sub-word Segmentation Method for Neural Machine Translation.
-ACM Trans. Asian Low-Resour. Lang. Inf. Process. (2023.7). (**TALLIP**) [\[paper](https://doi.org/10.1145/3610611)\], [\[bib](files/TALLIP2023_1_bib.txt)\]
+ACM Trans. Asian Low-Resour. Lang. Inf. Process. (2023.7). (**TALLIP**) [\[paper](https://doi.org/10.1145/3610611), [\[bib](files/TALLIP2023_1_bib.txt)
 
 - Weiqi Gu, **Haiyue Song**, Chenhui Chu, Sadao Kurohashi.
 Spatial Hierarchical Attention Network Based Video-guided Machine Translation.
-Journal of Information Processing,  Vol.31,  (2023.5). (**JIP**) [\[paper](https://www.jstage.jst.go.jp/article/ipsjjip/31/0/31_299/_article/-char/ja/)\], [\[bib](files/JIP2023_1_bib.txt)\]
+Journal of Information Processing,  Vol.31,  (2023.5). (**JIP**) [\[paper](https://www.jstage.jst.go.jp/article/ipsjjip/31/0/31_299/_article/-char/ja/), [\[bib](files/JIP2023_1_bib.txt)
 
-- Li Jiang, Zhuoran Song, **Haiyue Song**, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, Xiaoyao Liang. Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method. ACM Transactions on Design Automation of Electronic Systems (**TODAES**), pp.59:1-59:25, (2019.11). [\[paper](files/TODAES2019_Song_paper.pdf)\], [\[bib](files/TODAES2019_Song_bib.txt)\] 
+- Li Jiang, Zhuoran Song, **Haiyue Song**, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, Xiaoyao Liang. Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method. ACM Transactions on Design Automation of Electronic Systems (**TODAES**), pp.59:1-59:25, (2019.11). [\[paper](files/TODAES2019_Song_paper.pdf), [\[bib](files/TODAES2019_Song_bib.txt) 
 
 ## International Conference
 
 - Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, **Haiyue Song**, Jiwei Li, Sadao Kurohashi.
 GPT-RE: In-context Learning for Relation Extraction using Large Language Models.
-Accepted to **EMNLP2023**. [\[paper](https://arxiv.org/abs/2305.02105)\], [\[bib](files/EMNLP2023_1_bib.txt)\]
+Accepted to **EMNLP2023**. [\[paper\]](https://arxiv.org/abs/2305.02105), [\[bib\]](files/EMNLP2023_1_bib.txt)
 
 - Zhuoyuan Mao, Raj Dabre, Qianying Liu, **Haiyue Song**, Chenhui Chu, and Sadao Kurohashi.
 Exploring the Impact of Layer Normalization for Zero-shot Neural Machine Translation.
-In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 1300–1316, Toronto, Canada. Association for Computational Linguistics. (**ACL2023**) [\[paper](https://aclanthology.org/2023.acl-short.112/)\], [\[bib](files/ACL2023_1_bib.txt)\]
+In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 1300–1316, Toronto, Canada. Association for Computational Linguistics. (**ACL2023**) [\[paper\]](https://aclanthology.org/2023.acl-short.112/), [\[bib\]](files/ACL2023_1_bib.txt)
 
 - Zhuoyuan Mao, **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi.
 Variable-length Neural Interlingua Representations for Zero-shot Neural Machine Translation.
-Proceedings of the 1st International Workshop on Multilingual, Multimodal and Multitask Language Generation (Multi3Generation) held in conjection with **EAMT2023**. [\[paper](https://arxiv.org/abs/2305.10190)\], [\[bib](files/EAMT2023_1_bib.txt)\]
+Proceedings of the 1st International Workshop on Multilingual, Multimodal and Multitask Language Generation (Multi3Generation) held in conjection with **EAMT2023**. [\[paper\]](https://arxiv.org/abs/2305.10190), [\[bib\]](files/EAMT2023_1_bib.txt)
 
 - Zhen Wan, Fei Cheng, Qianying Liu, Zhuoyuan Mao, **Haiyue Song** and Sadao Kurohashi.
 Relation Extraction with Weighted Contrastive Pre-training on Distant Supervision.
-In Findings of the Association for Computational Linguistics: **EACL2023**, pages 2580–2585, Dubrovnik, Croatia. Association for Computational Linguistics. [\[paper](https://aclanthology.org/2023.findings-eacl.195/)\], [\[bib](files/EACL2023_1_bib.txt)\]
+In Findings of the Association for Computational Linguistics: **EACL2023**, pages 2580–2585, Dubrovnik, Croatia. Association for Computational Linguistics. [\[paper\]](https://aclanthology.org/2023.findings-eacl.195/), [\[bib\]](files/EACL2023_1_bib.txt)
 
 - **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Chenhui Chu and Sadao Kurohashi.
 BERTSeg: BERT Based Unsupervised Subword Segmentation for Neural Machine Translation.
 Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Volume 2: Short Papers), pages 85-94, Online. (**AACL2022**)
-[\[paper](https://aclanthology.org/2022.aacl-short.12/)\], [\[poster](http://lotus.kuee.kyoto-u.ac.jp/~song/publications/AACL_123_BERTSeg_poster.pdf)\], [\[bib](files/AACL2022_1_bib.txt)\]
+[\[paper\]](https://aclanthology.org/2022.aacl-short.12/), [\[poster\]](http://lotus.kuee.kyoto-u.ac.jp/~song/publications/AACL_123_BERTSeg_poster.pdf), [\[bib\]](files/AACL2022_1_bib.txt)
 
 - Zhuoyuan Mao, Chenhui Chu, Raj Dabre, **Haiyue Song**, Zhen Wan, Sadao Kurohashi.
 When do Contrastive Word Alignments Improve Many-to-many Neural Machine Translation?
 In Findings of the Association for Computational Linguistics: **NAACL2022**, pages 1766–1775, Seattle, United States. Association for Computational Linguistics. (2022)
-[\[paper](https://aclanthology.org/2022.findings-naacl.134/)\], [\[bib](files/NAACL2022_1_bib.txt)\]
+[\[paper\]](https://aclanthology.org/2022.findings-naacl.134/), [\[bib\]](files/NAACL2022_1_bib.txt)
 
 - Weiqi Gu, **Haiyue Song**, Chenhui Chu and Sadao Kurohashi.
 Video-guided Machine Translation with Spatial Hierarchical Attention Network.
 Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Student Research Workshop, Online (**ACL2021 Student Workshop**).
-[\[paper](https://aclanthology.org/2021.acl-srw.9/)\], [\[bib](files/ACL2021_1_bib.txt)\]
+[\[paper\]](https://aclanthology.org/2021.acl-srw.9/), [\[bib\]](files/ACL2021_1_bib.txt)
 
 - Akiko Aizawa, Frederic Bergeron, Junjie Chen, Fei Cheng, Katsuhiko Hayashi, Kentaro Inui, Hiroyoshi Ito, Daisuke Kawahara, Masaru Kitsuregawa, Hirokazu Kiyomaru, Masaki Kobayashi, Takashi Kodama, Sadao Kurohashi, Qianying Liu, Masaki Matsubara, Yusuke Miyao, Atsuyuki Morishima, Yugo Murawaki, Kazumasa Omura, **Haiyue Song**, Eiichiro Sumita, Shinji Suzuki, Ribeka Tanaka, Yu Tanaka, Masashi Toyoda, Nobuhiro Ueda, Honai Ueoka, Masao Utiyama, Ying Zhong (**in alphabetical order**).  
 A System for Worldwide COVID-19 Information Aggregation.
 **NLP-COVID19@ACL2020** and **NLP-COVID19 (part2)@EMNLP2020**
-[\[paper](https://www.aclweb.org/anthology/2020.nlpcovid19-2.13/)\], [\[code](https://github.com/NLPforCOVID-19)\], [\[dataset](https://github.com/NLPforCOVID-19/covid-19-dataset)\], [\[bib](files/ACL2020_1_bib.txt)\]
+[\[paper\]](https://www.aclweb.org/anthology/2020.nlpcovid19-2.13/), [\[code\]](https://github.com/NLPforCOVID-19), [\[dataset\]](https://github.com/NLPforCOVID-19/covid-19-dataset), [\[bib\]](files/ACL2020_1_bib.txt)
 
-- **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Fei Cheng, Sadao Kurohashi and Eiichiro Sumita.  Pre-training via Leveraging Assisting Languages for Neural Machine Translation. Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop, pp.279-285, Seattle, Washington, United States, (2020, 7). (**ACL2020SRW**) [\[paper](files/ACL2020SRW_Song_paper.pdf)\], [\[arXiv version paper](files/ACL2020SRW_Song_paper_arxiv_version.pdf)\], [\[slides](files/ACL2020SRW_Song_slides.pdf)\], [\[bib](files/ACL2020SRW_Song_bib.txt)\]
+- **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Fei Cheng, Sadao Kurohashi and Eiichiro Sumita.  Pre-training via Leveraging Assisting Languages for Neural Machine Translation. Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop, pp.279-285, Seattle, Washington, United States, (2020, 7). (**ACL2020SRW**) [\[paper\]](files/ACL2020SRW_Song_paper.pdf), [\[arXiv version paper\]](files/ACL2020SRW_Song_paper_arxiv_version.pdf), [\[slides\]](files/ACL2020SRW_Song_slides.pdf), [\[bib\]](files/ACL2020SRW_Song_bib.txt)
 
-- **Haiyue Song**, Raj Dabre, Atsushi Fujita and Sadao Kurohashi. Coursera Corpus Mining and Multistage Fine-Tuning for Improving Lectures Translation. Proceedings of the 12th International Conference on Language Resources and Evaluation, pp.3640‑3649, Marseille, France, (2020.5). (**LREC2020**) [\[code](https://github.com/shyyhs/CourseraParallelCorpusMining)\], [\[paper](files/LREC2020_Song_paper_fromLREC.pdf)\], [\[bib](files/LREC2020_Song_bib.txt)\]
+- **Haiyue Song**, Raj Dabre, Atsushi Fujita and Sadao Kurohashi. Coursera Corpus Mining and Multistage Fine-Tuning for Improving Lectures Translation. Proceedings of the 12th International Conference on Language Resources and Evaluation, pp.3640‑3649, Marseille, France, (2020.5). (**LREC2020**) [\[code\]](https://github.com/shyyhs/CourseraParallelCorpusMining), [\[paper\]](files/LREC2020_Song_paper_fromLREC.pdf), [\[bib\]](files/LREC2020_Song_bib.txt)
 
-- Zhuoyuan Mao, Fabien Cromieres, Raj Dabre, **Haiyue Song** and Sadao Kurohashi. JASS: Japanese-specific Sequence to Sequence Pre-training for Neural Machine Translation. Proceedings of the 12th International Conference on Language Resources and Evaluation, pp.3683‑3691, Marseille, France, (2020.5). (**LREC2020**) [\[paper](files/LREC2020_Mao_paper.pdf)\], [\[bib](files/LREC2020_Mao_bib.txt)\]
+- Zhuoyuan Mao, Fabien Cromieres, Raj Dabre, **Haiyue Song** and Sadao Kurohashi. JASS: Japanese-specific Sequence to Sequence Pre-training for Neural Machine Translation. Proceedings of the 12th International Conference on Language Resources and Evaluation, pp.3683‑3691, Marseille, France, (2020.5). (**LREC2020**) [\[paper\]](files/LREC2020_Mao_paper.pdf), [\[bib\]](files/LREC2020_Mao_bib.txt)
 
-- **Haiyue Song**, Chengwen Xu, Qiang Xu, Zhuoran Song, Naifeng Jing, Xiaoyao Liang, Li Jiang.  Invocation-driven neural approximate computing with a multiclass-classifier and multiple approximators. In Proceedings of the International Conference on Computer-Aided Design, pp.50, San Diego, CA, USA, (2018.11). (**ICCAD2018**) [\[paper](files/ICCAD2018_Song_paper.pdf)\], [\[slides](files/ICCAD2018_Song_slides.pdf)\], [\[bib](files/ICCAD2018_Song_bib.txt)\]
+- **Haiyue Song**, Chengwen Xu, Qiang Xu, Zhuoran Song, Naifeng Jing, Xiaoyao Liang, Li Jiang.  Invocation-driven neural approximate computing with a multiclass-classifier and multiple approximators. In Proceedings of the International Conference on Computer-Aided Design, pp.50, San Diego, CA, USA, (2018.11). (**ICCAD2018**) [\[paper\]](files/ICCAD2018_Song_paper.pdf), [\[slides\]](files/ICCAD2018_Song_slides.pdf), [\[bib\]](files/ICCAD2018_Song_bib.txt)
 
-- **Haiyue Song**, Xiang Song, Tianjian Li, Hao Dong, Naifeng Jing, Xiaoyao Liang, Li Jiang. A FPGA Friendly Approximate Computing Framework with Hybrid Neural Networks (Abstract Only). In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, pp.286, Monterey, CA, USA, (2018.2). (**FPGA2018**) [\[abstract](https://dl.acm.org/doi/10.1145/3174243.3174965)\], [\[poster](files/FPGA2018_Song_poster.pdf)\], [\[bib](files/FPGA2018_Song_bib.txt)\]
+- **Haiyue Song**, Xiang Song, Tianjian Li, Hao Dong, Naifeng Jing, Xiaoyao Liang, Li Jiang. A FPGA Friendly Approximate Computing Framework with Hybrid Neural Networks (Abstract Only). In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, pp.286, Monterey, CA, USA, (2018.2). (**FPGA2018**) [\[abstract\]](https://dl.acm.org/doi/10.1145/3174243.3174965), [\[poster\]](files/FPGA2018_Song_poster.pdf), [\[bib\]](files/FPGA2018_Song_bib.txt)
 
 
 ## Domestic Conference (non peer-reviewed) 
@@ -187,7 +187,7 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 ## Other Presentations
 
 - Presentation at 第14回入力メソッドワークショップ (IM 2022)
-[\[link](https://github.com/mamorlis/chaime/wiki/im2022)\]
+[\[link\]](https://github.com/mamorlis/chaime/wiki/im2022)
 
 - Presentation at 2022年度 京都大学 情報学研究科 知能情報学専攻 シンポジウム
 
@@ -205,7 +205,7 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 
 - Silver medal in National Olympiad in Informatics (NOI) 2013, Chengdu, China.
 - Bronze medal in Asia-Pacific Informatics Olympiad (APIO) 2013.
-- Atcoder 2 Kyu level [profile](https://atcoder.jp/users/shyyhs)
+- Atcoder 2 Kyu level, [\[profile\]](https://atcoder.jp/users/shyyhs)
 
 ### Japanese
 
