@@ -97,7 +97,7 @@ Publication
 ## Journal
 - **Haiyue Song**, Zhuoyuan Mao, Raj Dabre, Chenhui Chu, and Sadao Kurohashi.
 DiverSeg: Leveraging Diverse Segmentations with Cross-granularity Alignment for Neural Machine Translation.
-Journal of Natural Language Processing. To be appear 2024.3.
+Journal of Natural Language Processing. To be appear in 2024.3.
 
 - **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi, and Eiichiro Sumita.
 SelfSeg: A Self-supervised Sub-word Segmentation Method for Neural Machine Translation.
