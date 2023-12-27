@@ -113,7 +113,7 @@ Journal of Information Processing,  Vol.31,  (2023.5). (**JIP**) [\[paper\]](htt
 
 - Yahui Fu, **Haiyue Song**, Tianyu Zhao, Tatsuya Kawahara.
 Enhancing Personality Recognition in Dialogue by Data Augmentation and Heterogeneous Conversational Graph Networks
-Accepted to The 14th International Workshop on Spoken Dialogue Systems Technology (IWSDS2024), Sapporo, Japan. (Oral)
+Accepted to The 14th International Workshop on Spoken Dialogue Systems Technology (**IWSDS2024**), Sapporo, Japan. (Oral)
 
 - Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, **Haiyue Song**, Jiwei Li, Sadao Kurohashi.
 GPT-RE: In-context Learning for Relation Extraction using Large Language Models.
