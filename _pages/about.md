@@ -111,9 +111,13 @@ Journal of Information Processing,  Vol.31,  (2023.5). (**JIP**) [\[paper\]](htt
 
 ## International Conference
 
+- Francois Meyer, **Haiyue Song**, Abhisek Chakrabarty, Jan Buys, Raj Dabre and Hideki Tanaka.
+NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages
+Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING 2024**).
+
 - Yahui Fu, **Haiyue Song**, Tianyu Zhao, Tatsuya Kawahara.
 Enhancing Personality Recognition in Dialogue by Data Augmentation and Heterogeneous Conversational Graph Networks
-Accepted to The 14th International Workshop on Spoken Dialogue Systems Technology (**IWSDS2024**), Sapporo, Japan. (Oral)
+The 14th International Workshop on Spoken Dialogue Systems Technology (**IWSDS2024**), Sapporo, Japan. (Oral)
 
 - Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, **Haiyue Song**, Jiwei Li, Sadao Kurohashi.
 GPT-RE: In-context Learning for Relation Extraction using Large Language Models.
@@ -163,6 +167,10 @@ A System for Worldwide COVID-19 Information Aggregation.
 
 
 ## Domestic Conference (non peer-reviewed) 
+
+- Hour Kaing, Chenchen Ding, **Haiyue Song**, Jiannan Mao, Hideki Tanaka, and Masao Utiyama.
+Robust Neural Machine Translation for Abugidas by Glyph Perturbation
+言語処理学会 第30回年次大会,  (2024.3).
 
 - **Haiyue Song**, Raj Dabre, Chenhui Chu and Sadao Kurohashi.
 Large Pre-trained Language Models with Multilingual Prompt for Japanese Natural Language Tasks
@@ -220,7 +228,8 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 - Minor in Japanese, School of Foreign Languages, Shanghai Jiao Tong University, 2015--2018.
 - Passed Japanese Language Proficiency Test N1 (the highest level) in 2017.
 
-### Jogging and Hiking
+### Jogging/Hiking/Ski
 
-- Finisher of the full course of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html).
-- Hiked [Mount Kita](https://en.wikipedia.org/wiki/Mount_Kita), [Mount Yake](https://en.wikipedia.org/wiki/Mount_Yake) and some other famous mountains in Japan.
+- Finisher of the full course of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html) and [Biwako Marathon 2024](https://biwako-marathon.com/)
+- Hiking include [Mount Kita](https://en.wikipedia.org/wiki/Mount_Kita), [Mount Yake](https://en.wikipedia.org/wiki/Mount_Yake) and some other famous mountains in Japan.
+- Ski. I only went to some famous ski resorts in Japan such as [Shiga kogen](https://shigakogen-ski.or.jp/english/index.html) and [Niseko](https://www.niseko.ne.jp/en/). And I hope to go to Alps someday.
