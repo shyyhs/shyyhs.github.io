@@ -12,7 +12,7 @@ I am now a technical researcher at [NICT](https://www.nict.go.jp/en).
 
 I completed my Ph.D. in Intelligence Science and Technology from Kyoto University.
 
-My research interests include machine translation (MT) and large language models (LLMs). I recently focus on low-resource MT, subword segmentation, decoding algorithm, and LLMs for MT.
+My research interests include machine translation (MT) and large language models (LLMs). Recently I focus on low-resource MT, subword segmentation, decoding algorithm, and LLMs for MT.
 
 **Email**: haiyue.song at nict.go.jp
 
