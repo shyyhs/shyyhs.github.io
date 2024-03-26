@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Haiyue SONG"
+title: "Haiyue Song"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 <!---I am a Ph.D. candidate at Kyoto University, majoring in Intelligence Science and Technology at Kurohashi lab. I am also working as a technical researcher at [Advanced Translation Technology Laboratory](https://att-astrec.nict.go.jp/en/) in National Institute of Information and Communications Technology ([NICT](https://www.nict.go.jp/)).-->
-I am a Ph.D. candidate at Kyoto University and a technical researcher at [NICT](https://www.nict.go.jp/en).
+I am now a technical researcher at [NICT](https://www.nict.go.jp/en).
 
-My research interests include machine translation, large language model (LLM), subword segmentation, and decoding algorithm.
+I completed my Ph.D. in Intelligence Science and Technology from Kyoto University.
 
-**Email**: song at nlp.ist.i.kyoto-u.ac.jp
+My research interests include machine translation (MT) and large language models (LLMs). I recently focus on low-resource MT, subword segmentation, decoding algorithm, and LLMs for MT.
+
+**Email**: haiyue.song at nict.go.jp
 
 [\[**Publication**\]](#pub)
 
@@ -30,7 +32,7 @@ Education
 
 #### Supervised by Professor [Sadao Kurohashi](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/) and [Chenhui Chu](https://researchmap.jp/chu/?lang=english) at [Language Media Processing Lab](https://nlp.ist.i.kyoto-u.ac.jp/EN/)
 
-* **Ph.D. student of Intelligence Science and Technology**, *October 2020--present*
+* **Ph.D. of Intelligence Science and Technology**, *October 2020--March 2024*
 
 * **Master of Intelligence Science and Technology**, *October 2018--September 2020*
 
@@ -39,6 +41,8 @@ Education
 #### Supervised by Professor [Li Jiang](http://www.cs.sjtu.edu.cn/~jiangli/) at [Advanced Computer Architecture Lab](http://acalab.sjtu.edu.cn/EN/Default.aspx)
 
 * **Bachelor of Computer Science and Technology**, *September 2014--July 2018*
+
+* Minor in Japanese, School of Foreign Languages, *February 2015--July 2018*.
 
 ### Nagoya University
 
@@ -73,6 +77,10 @@ Work Experience
 ### JSPS Research Fellowship
 
 * [Research Fellowships for Young Scientists](https://www.jsps.go.jp/english/e-pd/) DC1, *April 2021--June 2023*
+
+### SenseTime Japan
+
+* Internship at autonomous driving team, *August 2022--September2022*
 
 ### Kyoto University
 
@@ -225,7 +233,6 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 
 ### Japanese
 
-- Minor in Japanese, School of Foreign Languages, Shanghai Jiao Tong University, 2015--2018.
 - Passed Japanese Language Proficiency Test N1 (the highest level) in 2017.
 
 ### Jogging/Hiking/Ski
