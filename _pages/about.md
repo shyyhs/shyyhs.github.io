@@ -219,7 +219,7 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 
 # Miscellaneous
 
-- Reviewer of TALLIP 2023, ARR 2023, APSIPA ASC 2023, EMNLP2023, ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020.
+- Reviewer of ARR2024, TALLIP2024, TALLIP2023, ARR2023, APSIPA ASC2023, EMNLP2023, ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020.
 - Mentor of AACL2020-SRW.
 - One patent application in progress.
 
