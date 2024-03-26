@@ -80,7 +80,7 @@ Work Experience
 
 ### SenseTime Japan
 
-* Internship at autonomous driving team, *August 2022--September2022*
+* Internship at autonomous driving team, *August 2022--September 2022*
 
 ### Kyoto University
 
@@ -105,7 +105,7 @@ Publication
 ## Journal
 - **Haiyue Song**, Zhuoyuan Mao, Raj Dabre, Chenhui Chu, and Sadao Kurohashi.
 DiverSeg: Leveraging Diverse Segmentations with Cross-granularity Alignment for Neural Machine Translation.
-Journal of Natural Language Processing. To be appear in 2024.3.
+Journal of Natural Language Processing. 2024 Volume 31 Issue 1 Pages 155--188. (**JIP**) [\[paper\]](https://www.jstage.jst.go.jp/article/jnlp/31/1/31_155/_article/-char/en)
 
 - **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi, and Eiichiro Sumita.
 SelfSeg: A Self-supervised Sub-word Segmentation Method for Neural Machine Translation.
