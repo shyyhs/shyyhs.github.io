@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 <!---I am a Ph.D. candidate at Kyoto University, majoring in Intelligence Science and Technology at Kurohashi lab. I am also working as a technical researcher at [Advanced Translation Technology Laboratory](https://att-astrec.nict.go.jp/en/) in National Institute of Information and Communications Technology ([NICT](https://www.nict.go.jp/)).-->
-I am now a technical researcher at [NICT](https://www.nict.go.jp/en).
+I am currently a technical researcher at [NICT](https://www.nict.go.jp/en).
 
-I completed my Ph.D. in Intelligence Science and Technology from Kyoto University.
+I obtained my Ph.D. in Intelligence Science and Technology from Kyoto University.
 
-My research interests include machine translation (MT) and large language models (LLMs). Recently I focus on low-resource MT, subword segmentation, decoding algorithm, and LLMs for MT.
+My research interests include machine translation (MT) and large language models (LLMs). Recently I focus on low-resource MT, subword segmentation, decoding algorithms, and LLMs for MT.
 
 **Email**: haiyue.song at nict.go.jp
 
@@ -219,7 +219,7 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 
 # Miscellaneous
 
-- Reviewer of ARR2024, TALLIP2024, TALLIP2023, ARR2023, APSIPA ASC2023, EMNLP2023, ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020.
+- Reviewer of TASLP2024, ARR2024, TALLIP2024, TALLIP2023, ARR2023, APSIPA ASC2023, EMNLP2023, ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020.
 - Mentor of AACL2020-SRW.
 - One patent application in progress.
 
