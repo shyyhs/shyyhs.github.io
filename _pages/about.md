@@ -105,7 +105,7 @@ Publication
 ## Journal
 - **Haiyue Song**, Zhuoyuan Mao, Raj Dabre, Chenhui Chu, and Sadao Kurohashi.
 DiverSeg: Leveraging Diverse Segmentations with Cross-granularity Alignment for Neural Machine Translation.
-Journal of Natural Language Processing. 2024 Volume 31 Issue 1 Pages 155--188. (**JIP**) [\[paper\]](https://www.jstage.jst.go.jp/article/jnlp/31/1/31_155/_article/-char/en)
+Journal of Natural Language Processing. 2024 Volume 31 Issue 1 Pages 155--188. (**JNLP**) [\[paper\]](https://www.jstage.jst.go.jp/article/jnlp/31/1/31_155/_article/-char/en)
 
 - **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi, and Eiichiro Sumita.
 SelfSeg: A Self-supervised Sub-word Segmentation Method for Neural Machine Translation.
@@ -120,19 +120,19 @@ Journal of Information Processing,  Vol.31,  (2023.5). (**JIP**) [\[paper\]](htt
 ## International Conference
 
 - **Haiyue Song**, Francois Meyer, Raj Dabre, Hideki Tanaka, Chenhui Chu, and Sadao Kurohashi. 
-SubMerge: Merging Equivalent Subword Tokenizations for Subword Regularized Models in Neural Machine Translation
+SubMerge: Merging Equivalent Subword Tokenizations for Subword Regularized Models in Neural Machine Translation.
 Accepted to The 25th Annual Conference of the European Association for Machine Translation (**EAMT 2024**).
 
 - **Haiyue Song**, Hour Kaing,and Raj Dabre.
-Linguistically Motivated Neural Machine Translation
+Linguistically Motivated Neural Machine Translation.
 Accepted to The 25th Annual Conference of the European Association for Machine Translation (**EAMT 2024**).
 
 - Francois Meyer, **Haiyue Song**, Abhisek Chakrabarty, Jan Buys, Raj Dabre and Hideki Tanaka.
-NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages
+NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages.
 Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING 2024**).
 
 - Yahui Fu, **Haiyue Song**, Tianyu Zhao, Tatsuya Kawahara.
-Enhancing Personality Recognition in Dialogue by Data Augmentation and Heterogeneous Conversational Graph Networks
+Enhancing Personality Recognition in Dialogue by Data Augmentation and Heterogeneous Conversational Graph Networks.
 The 14th International Workshop on Spoken Dialogue Systems Technology (**IWSDS2024**), Sapporo, Japan. (Oral)
 
 - Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, **Haiyue Song**, Jiwei Li, Sadao Kurohashi.
