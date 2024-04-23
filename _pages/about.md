@@ -42,7 +42,7 @@ Education
 
 * **Bachelor of Computer Science and Technology**, *September 2014--July 2018*
 
-* Minor in Japanese, School of Foreign Languages, *February 2015--July 2018*.
+* Minor in Japanese, School of Foreign Languages, *February 2015--July 2018*
 
 ### Nagoya University
 
@@ -111,13 +111,21 @@ Journal of Natural Language Processing. 2024 Volume 31 Issue 1 Pages 155--188. (
 SelfSeg: A Self-supervised Sub-word Segmentation Method for Neural Machine Translation.
 ACM Trans. Asian Low-Resour. Lang. Inf. Process. (2023.7). (**TALLIP**) [\[paper\]](https://doi.org/10.1145/3610611), [\[bib\]](files/TALLIP2023_1_bib.txt)
 
-- Weiqi Gu, **Haiyue Song**, Chenhui Chu, Sadao Kurohashi.
+- Weiqi Gu, **Haiyue Song**, Chenhui Chu, and Sadao Kurohashi.
 Spatial Hierarchical Attention Network Based Video-guided Machine Translation.
 Journal of Information Processing,  Vol.31,  (2023.5). (**JIP**) [\[paper\]](https://www.jstage.jst.go.jp/article/ipsjjip/31/0/31_299/_article/-char/ja/), [\[bib\]](files/JIP2023_1_bib.txt)
 
-- Li Jiang, Zhuoran Song, **Haiyue Song**, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, Xiaoyao Liang. Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method. ACM Transactions on Design Automation of Electronic Systems (**TODAES**), pp.59:1-59:25, (2019.11). [\[paper\]](files/TODAES2019_Song_paper.pdf), [\[bib\]](files/TODAES2019_Song_bib.txt) 
+- Li Jiang, Zhuoran Song, **Haiyue Song**, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, and Xiaoyao Liang. Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method. ACM Transactions on Design Automation of Electronic Systems (**TODAES**), pp.59:1-59:25, (2019.11). [\[paper\]](files/TODAES2019_Song_paper.pdf), [\[bib\]](files/TODAES2019_Song_bib.txt) 
 
 ## International Conference
+
+- **Haiyue Song**, Francois Meyer, Raj Dabre, Hideki Tanaka, Chenhui Chu, and Sadao Kurohashi. 
+SubMerge: Merging Equivalent Subword Tokenizations for Subword Regularized Models in Neural Machine Translation
+Accepted to The 25th Annual Conference of the European Association for Machine Translation (**EAMT 2024**).
+
+- **Haiyue Song**, Hour Kaing,and Raj Dabre.
+Linguistically Motivated Neural Machine Translation
+Accepted to The 25th Annual Conference of the European Association for Machine Translation (**EAMT 2024**).
 
 - Francois Meyer, **Haiyue Song**, Abhisek Chakrabarty, Jan Buys, Raj Dabre and Hideki Tanaka.
 NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages
