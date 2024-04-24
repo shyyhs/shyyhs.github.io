@@ -133,7 +133,7 @@ Proceedings of the 2024 Joint International Conference on Computational Linguist
 
 - Yahui Fu, **Haiyue Song**, Tianyu Zhao, Tatsuya Kawahara.
 Enhancing Personality Recognition in Dialogue by Data Augmentation and Heterogeneous Conversational Graph Networks.
-The 14th International Workshop on Spoken Dialogue Systems Technology (**IWSDS2024**), Sapporo, Japan. (Oral)
+The 14th International Workshop on Spoken Dialogue Systems Technology (**IWSDS2024**), Sapporo, Japan. [\[paper\]](https://arxiv.org/abs/2401.05871), [\[code\]](https://github.com/fuyahuii/Personality-Recognition-on-RealPersonaChat),
 
 - Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, **Haiyue Song**, Jiwei Li, Sadao Kurohashi.
 GPT-RE: In-context Learning for Relation Extraction using Large Language Models.
