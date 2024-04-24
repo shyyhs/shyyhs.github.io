@@ -67,7 +67,7 @@ Work Experience
 ======
 
 
-### NICT
+### National Institute of Information and Communications Technology
 
 #### Supervised by [Masao Utiyama](https://www2.nict.go.jp/astrec-att/member/mutiyama/), [Hideki Tanaka](https://jp.linkedin.com/in/hideki-tanaka-9a95a6219) and [Raj Dabre](https://www.linkedin.com/in/raj-dabre-b1202119/) at [ASTREC](http://att-astrec.nict.go.jp/)
 
@@ -105,7 +105,7 @@ Publication
 ## Journal
 - **Haiyue Song**, Zhuoyuan Mao, Raj Dabre, Chenhui Chu, and Sadao Kurohashi.
 DiverSeg: Leveraging Diverse Segmentations with Cross-granularity Alignment for Neural Machine Translation.
-Journal of Natural Language Processing. 2024 Volume 31 Issue 1 Pages 155--188. (**JNLP**) [\[paper\]](https://www.jstage.jst.go.jp/article/jnlp/31/1/31_155/_article/-char/en)
+Journal of Natural Language Processing. 2024 Volume 31 Issue 1 Pages 155--188. (**JNLP**) [\[paper\]](https://www.jstage.jst.go.jp/article/jnlp/31/1/31_155/_article/-char/en), [\[bib\]](files/JNLP2024_1_bib.txt)
 
 - **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi, and Eiichiro Sumita.
 SelfSeg: A Self-supervised Sub-word Segmentation Method for Neural Machine Translation.
@@ -123,8 +123,8 @@ Journal of Information Processing,  Vol.31,  (2023.5). (**JIP**) [\[paper\]](htt
 SubMerge: Merging Equivalent Subword Tokenizations for Subword Regularized Models in Neural Machine Translation.
 Accepted to The 25th Annual Conference of the European Association for Machine Translation (**EAMT 2024**).
 
-- **Haiyue Song**, Hour Kaing,and Raj Dabre.
-Linguistically Motivated Neural Machine Translation.
+- **Haiyue Song**, Hour Kaing, and Raj Dabre.
+Linguistically Motivated Neural Machine Translation. (Tutorial)
 Accepted to The 25th Annual Conference of the European Association for Machine Translation (**EAMT 2024**).
 
 - Francois Meyer, **Haiyue Song**, Abhisek Chakrabarty, Jan Buys, Raj Dabre and Hideki Tanaka.
