@@ -30,7 +30,7 @@ Education
 
 ### Kyoto University
 
-#### Supervised by Professor [Sadao Kurohashi](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/) and [Chenhui Chu](https://researchmap.jp/chu/?lang=english) at [Language Media Processing Lab](https://nlp.ist.i.kyoto-u.ac.jp/EN/)
+#### Supervised by Professor [Sadao Kurohashi](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/) and Professor [Chenhui Chu](https://researchmap.jp/chu/?lang=english) at [Language Media Processing Lab](https://nlp.ist.i.kyoto-u.ac.jp/EN/)
 
 * **Ph.D. of Intelligence Science and Technology**, *October 2020--March 2024*
 
