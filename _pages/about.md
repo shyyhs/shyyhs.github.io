@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <!---I am a Ph.D. candidate at Kyoto University, majoring in Intelligence Science and Technology at Kurohashi lab. I am also working as a technical researcher at [Advanced Translation Technology Laboratory](https://att-astrec.nict.go.jp/en/) in National Institute of Information and Communications Technology ([NICT](https://www.nict.go.jp/)).-->
-I am currently a technical researcher at [NICT](https://www.nict.go.jp/en).
+I am currently a technical researcher at National Institute of Information and Communications Technology ([NICT](https://www.nict.go.jp/en)).
 
 I obtained my Ph.D. in Intelligence Science and Technology from Kyoto University.
 
