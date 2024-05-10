@@ -103,6 +103,10 @@ Publication
 [\[**Google Scholar**\]](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en), [\[**DBLP**\]](https://dblp.org/pers/s/Song:Haiyue.html), [\[**Research Gate**\]](https://www.researchgate.net/profile/Haiyue_Song), [\[**ACL Profile**\]](https://www.aclweb.org/anthology/people/h/haiyue-song/)
 
 ## Journal
+- **Haiyue Song**, Raj Dabre, Chenhui Chu, Atsushi Fujita, and Sadao Kurohashi.
+Bilingual Corpus Mining and Multistage Fine-Tuning for Improving Machine Translation of Lecture Transcripts.
+Accepted to Journal of Information Processing.
+
 - **Haiyue Song**, Zhuoyuan Mao, Raj Dabre, Chenhui Chu, and Sadao Kurohashi.
 DiverSeg: Leveraging Diverse Segmentations with Cross-granularity Alignment for Neural Machine Translation.
 Journal of Natural Language Processing. 2024 Volume 31 Issue 1 Pages 155--188. (**JNLP**) [\[paper\]](https://www.jstage.jst.go.jp/article/jnlp/31/1/31_155/_article/-char/en), [\[bib\]](files/JNLP2024_1_bib.txt)
