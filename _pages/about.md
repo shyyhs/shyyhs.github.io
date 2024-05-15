@@ -133,7 +133,7 @@ Accepted to The 25th Annual Conference of the European Association for Machine T
 
 - Francois Meyer, **Haiyue Song**, Abhisek Chakrabarty, Jan Buys, Raj Dabre and Hideki Tanaka.
 NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages.
-Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING 2024**).
+Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING 2024**). Also won the best paper award at [AfricaNLP 2024](https://sites.google.com/view/africanlp2024/home). 
 
 - Yahui Fu, **Haiyue Song**, Tianyu Zhao, Tatsuya Kawahara.
 Enhancing Personality Recognition in Dialogue by Data Augmentation and Heterogeneous Conversational Graph Networks.
