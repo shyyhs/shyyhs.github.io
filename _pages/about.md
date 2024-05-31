@@ -131,6 +131,10 @@ Accepted to The 25th Annual Conference of the European Association for Machine T
 Linguistically Motivated Neural Machine Translation. (Tutorial)
 Accepted to The 25th Annual Conference of the European Association for Machine Translation (**EAMT 2024**).
 
+- Abhisek Chakrabarty, **Haiyue Song**, Raj Dabre, Hideki Tanaka, Masao Utiyama.
+Incorporating Hypernym Features for Improving Low-resource Neural Machine Translation.
+Accepted to First Workshop on Knowledge-Enhanced Machine Translation (**KEMT 2024**) which is co-located EAMT 2024.
+
 - Francois Meyer, **Haiyue Song**, Abhisek Chakrabarty, Jan Buys, Raj Dabre and Hideki Tanaka.
 NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages.
 Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING 2024**). Also won the best paper award at [AfricaNLP 2024](https://sites.google.com/view/africanlp2024/home). 
@@ -247,8 +251,9 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 
 - Passed Japanese Language Proficiency Test N1 (the highest level) in 2017.
 
-### Jogging/Hiking/Ski
+### Sports
 
-- Finisher of the full course of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html) and [Biwako Marathon 2024](https://biwako-marathon.com/)
-- Hiking include [Mount Kita](https://en.wikipedia.org/wiki/Mount_Kita), [Mount Yake](https://en.wikipedia.org/wiki/Mount_Yake) and some other famous mountains in Japan.
-- Ski. I only went to some famous ski resorts in Japan such as [Shiga kogen](https://shigakogen-ski.or.jp/english/index.html) and [Niseko](https://www.niseko.ne.jp/en/). And I hope to go to Alps someday.
+- Marathon. Finisher of the full course of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html) and [Biwako Marathon 2024](https://biwako-marathon.com/)
+- Mountain Climbing. [Mount Kita](https://en.wikipedia.org/wiki/Mount_Kita), [Mount Yake](https://en.wikipedia.org/wiki/Mount_Yake) and some famous mountains in Japan.
+- Ski. Favorite ski resorts in Japan such as [Shiga kogen](https://shigakogen-ski.or.jp/english/index.html) and [Niseko](https://www.niseko.ne.jp/en/). Hope to go to Alps someday.
+- Powerlifting.
