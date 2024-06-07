@@ -123,6 +123,11 @@ Journal of Information Processing,  Vol.31,  (2023.5). (**JIP**) [\[paper\]](htt
 
 ## International Conference
 
+- Raj Dabre, **Haiyue Song** (equal contribution). 
+ NICT's Cascaded and End-To-End Speech Translation Systems using
+Whisper and IndicTrans2 for the Indic Task.
+Accepted to The International Conference on Spoken Language Translation (**IWSLT 2024**).
+
 - **Haiyue Song**, Francois Meyer, Raj Dabre, Hideki Tanaka, Chenhui Chu, and Sadao Kurohashi. 
 SubMerge: Merging Equivalent Subword Tokenizations for Subword Regularized Models in Neural Machine Translation.
 Accepted to The 25th Annual Conference of the European Association for Machine Translation (**EAMT 2024**).
