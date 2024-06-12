@@ -121,6 +121,11 @@ Journal of Information Processing,  Vol.31,  (2023.5). (**JIP**) [\[paper\]](htt
 
 - Li Jiang, Zhuoran Song, **Haiyue Song**, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, and Xiaoyao Liang. Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method. ACM Transactions on Design Automation of Electronic Systems (**TODAES**), pp.59:1-59:25, (2019.11). [\[paper\]](files/TODAES2019_Song_paper.pdf), [\[bib\]](files/TODAES2019_Song_bib.txt) 
 
+## arXiv
+- David Romero ... **Haiyue Song** ... et al.
+CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark.
+[\[paper\]](https://arxiv.org/abs/2406.05967), [\[web\]](https://cvqa-benchmark.org/), [\[data\]](https://huggingface.co/datasets/afaji/cvqa)
+
 ## International Conference
 
 - Raj Dabre, **Haiyue Song** (equal contribution). 
