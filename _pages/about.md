@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 <!---I am a Ph.D. candidate at Kyoto University, majoring in Intelligence Science and Technology at Kurohashi lab. I am also working as a technical researcher at [Advanced Translation Technology Laboratory](https://att-astrec.nict.go.jp/en/) in National Institute of Information and Communications Technology ([NICT](https://www.nict.go.jp/)).-->
-I am currently a technical researcher at National Institute of Information and Communications Technology ([NICT](https://www.nict.go.jp/en)).
+I am a technical researcher at National Institute of Information and Communications Technology ([NICT](https://www.nict.go.jp/en)).
 
 I obtained my Ph.D. in Intelligence Science and Technology from Kyoto University.
 
-My research interests include machine translation (MT) and large language models (LLMs). Recently I focus on low-resource MT, subword segmentation, decoding algorithms, and LLMs for MT.
+My research focus on 1) machine translation (MT) including low-resource MT, domain adaptation in MT, multi-modal MT, linguistically motivated MT, and LLMs for MT, and 2) subword, including subword segmentation, encoding, and decoding.
 
 **Email**: haiyue.song at nict.go.jp
 
-[\[**Publication**\]](#pub)
+[\[**résumé**\]](files/Haiyue_Song_CV_0621.pdf) [\[**Publication**\]](#pub)
 
 
 <br/>
