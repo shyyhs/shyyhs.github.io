@@ -16,7 +16,7 @@ My research focus on 1) machine translation (MT) including low-resource MT, doma
 
 **Email**: haiyue.song at nict.go.jp
 
-[\[**résumé**\]](files/Haiyue_Song_CV_0621.pdf) [\[**Publication**\]](#pub)
+\[[**Résumé**]\](files/Haiyue_Song_CV_0621.pdf) [\[**Publication**\]](#pub)
 
 
 <br/>
