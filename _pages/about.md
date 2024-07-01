@@ -139,7 +139,7 @@ Accepted to The 25th Annual Conference of the European Association for Machine T
 
 - **Haiyue Song**, Hour Kaing, and Raj Dabre.
 Linguistically Motivated Neural Machine Translation. (Tutorial)
-Accepted to The 25th Annual Conference of the European Association for Machine Translation (**EAMT 2024**).
+Accepted to The 25th Annual Conference of the European Association for Machine Translation (**EAMT 2024**). [\[repo\]](https://github.com/prajdabre/eamt24-linguistic-mt)
 
 - Abhisek Chakrabarty, **Haiyue Song**, Raj Dabre, Hideki Tanaka, Masao Utiyama.
 Incorporating Hypernym Features for Improving Low-resource Neural Machine Translation.
