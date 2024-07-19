@@ -78,9 +78,11 @@ Work Experience
 
 * [Research Fellowships for Young Scientists](https://www.jsps.go.jp/english/e-pd/) DC1, *April 2021--June 2023*
 
+<!---
 ### SenseTime Japan
 
 * Internship at autonomous driving team, *August 2022--September 2022*
+-->
 
 ### Kyoto University
 
@@ -266,4 +268,3 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 - Marathon. Finisher of the full course of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html) and [Biwako Marathon 2024](https://biwako-marathon.com/)
 - Mountain Climbing. [Mount Kita](https://en.wikipedia.org/wiki/Mount_Kita), [Mount Yake](https://en.wikipedia.org/wiki/Mount_Yake) and some famous mountains in Japan.
 - Ski. Favorite ski resorts in Japan: [Shiga kogen](https://shigakogen-ski.or.jp/english/index.html) and [Niseko](https://www.niseko.ne.jp/en/). Hope to go to Alps someday.
-- Powerlifting.
