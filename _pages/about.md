@@ -135,6 +135,11 @@ NICT's Cascaded and End-To-End Speech Translation Systems using
 Whisper and IndicTrans2 for the Indic Task.
 Accepted to The International Conference on Spoken Language Translation (**IWSLT 2024**).
 
+- Raj Dabre, **Haiyue Song** (equal contribution). 
+NICT's Cascaded and End-To-End Speech Translation Systems using
+Whisper and IndicTrans2 for the Indic Task.
+Accepted to The International Conference on Spoken Language Translation (**IWSLT 2024**).
+
 - **Haiyue Song**, Francois Meyer, Raj Dabre, Hideki Tanaka, Chenhui Chu, and Sadao Kurohashi. 
 SubMerge: Merging Equivalent Subword Tokenizations for Subword Regularized Models in Neural Machine Translation.
 Accepted to The 25th Annual Conference of the European Association for Machine Translation (**EAMT 2024**).
@@ -248,6 +253,7 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 # Miscellaneous
 
 - Reviewer of TASLP2024, ARR2024, TALLIP2024, TALLIP2023, ARR2023, APSIPA ASC2023, EMNLP2023, ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020.
+- Co-organizer of [WAT2024](https://lotus.kuee.kyoto-u.ac.jp/WAT).
 - Mentor of AACL2020-SRW.
 - One patent application in progress.
 
