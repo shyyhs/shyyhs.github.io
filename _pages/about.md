@@ -130,10 +130,9 @@ CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark.
 
 ## International Conference
 
-- Raj Dabre, **Haiyue Song** (equal contribution). 
-NICT's Cascaded and End-To-End Speech Translation Systems using
-Whisper and IndicTrans2 for the Indic Task.
-Accepted to The International Conference on Spoken Language Translation (**IWSLT 2024**).
+- Raj Dabre, **Haiyue Song** (equal contribution), Miriam Exel, Bianka Buschbec, Johannes Eschbach-Dymanus, Hideki Tanaka.
+How Effective is Synthetic Data and Instruction Fine-tuning for Translation with Markup using LLMs?
+Accepted to The Conference of the Association for Machine Translation in the Americas 2024 (**AMTA2024**).
 
 - Raj Dabre, **Haiyue Song** (equal contribution). 
 NICT's Cascaded and End-To-End Speech Translation Systems using
