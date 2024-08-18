@@ -107,7 +107,7 @@ Publication
 ## Journal
 - **Haiyue Song**, Raj Dabre, Chenhui Chu, Atsushi Fujita, and Sadao Kurohashi.
 Bilingual Corpus Mining and Multistage Fine-Tuning for Improving Machine Translation of Lecture Transcripts.
-Journal of Information Processing. 2024 Volumn 32 Pages 628--640. (**JIP**) [\[paper\]](https://www.jstage.jst.go.jp/article/ipsjjip/32/0/32_628/_article), [\[bib\]](https://www.jstage.jst.go.jp/AF06S010ShoshJkuDld?sryCd=ipsjjip&noVol=32&noIssue=0&kijiCd=32_628&kijiLangKrke=en&kijiToolIdHkwtsh=AT0073&request_locale=EN)
+Journal of Information Processing. 2024 Volumn 32 Pages 628--640. (**JIP**) [\[paper\]](https://www.jstage.jst.go.jp/article/ipsjjip/32/0/32_628/_article)
 
 - **Haiyue Song**, Zhuoyuan Mao, Raj Dabre, Chenhui Chu, and Sadao Kurohashi.
 DiverSeg: Leveraging Diverse Segmentations with Cross-granularity Alignment for Neural Machine Translation.
