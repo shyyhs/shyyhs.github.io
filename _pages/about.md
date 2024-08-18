@@ -1,4 +1,4 @@
----
+g--
 permalink: /
 title: "Haiyue Song"
 excerpt: "About me"
@@ -107,7 +107,7 @@ Publication
 ## Journal
 - **Haiyue Song**, Raj Dabre, Chenhui Chu, Atsushi Fujita, and Sadao Kurohashi.
 Bilingual Corpus Mining and Multistage Fine-Tuning for Improving Machine Translation of Lecture Transcripts.
-Accepted to Journal of Information Processing (**JIP**).
+Journal of Information Processing. 2024 Volumn 32 Pages 628--640. (**JIP**) [\[paper\]](https://www.jstage.jst.go.jp/article/ipsjjip/32/0/32_628/_article), [\[bib\]](https://www.jstage.jst.go.jp/AF06S010ShoshJkuDld?sryCd=ipsjjip&noVol=32&noIssue=0&kijiCd=32_628&kijiLangKrke=en&kijiToolIdHkwtsh=AT0073&request_locale=EN)
 
 - **Haiyue Song**, Zhuoyuan Mao, Raj Dabre, Chenhui Chu, and Sadao Kurohashi.
 DiverSeg: Leveraging Diverse Segmentations with Cross-granularity Alignment for Neural Machine Translation.
@@ -137,7 +137,7 @@ Accepted to The Conference of the Association for Machine Translation in the Ame
 - Raj Dabre, **Haiyue Song** (equal contribution). 
 NICT's Cascaded and End-To-End Speech Translation Systems using
 Whisper and IndicTrans2 for the Indic Task.
-Accepted to The International Conference on Spoken Language Translation (**IWSLT 2024**).
+Accepted to The International Conference on Spoken Language Translation (**IWSLT 2024**). Ranked 1st out of 4 teams.
 
 - **Haiyue Song**, Francois Meyer, Raj Dabre, Hideki Tanaka, Chenhui Chu, and Sadao Kurohashi. 
 SubMerge: Merging Equivalent Subword Tokenizations for Subword Regularized Models in Neural Machine Translation.
