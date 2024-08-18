@@ -12,7 +12,7 @@ I am a technical researcher at National Institute of Information and Communicati
 
 I obtained my Ph.D. in Intelligence Science and Technology from Kyoto University.
 
-My research focus on 1) machine translation (MT) including low-resource MT, domain adaptation in MT, multi-modal MT, linguistically motivated MT, and LLMs for MT, and 2) subword, including subword segmentation, encoding, and decoding.
+My research focuses on 1) machine translation (MT) including low-resource MT, domain adaptation in MT, multi-modal MT, linguistically motivated MT, and LLMs for MT, and 2) subword, including subword segmentation, encoding, and decoding.
 
 **Email**: haiyue.song at nict.go.jp
 
@@ -32,9 +32,9 @@ Education
 
 #### Supervised by Professor [Sadao Kurohashi](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/) and Professor [Chenhui Chu](https://researchmap.jp/chu/?lang=english) at [Language Media Processing Lab](https://nlp.ist.i.kyoto-u.ac.jp/EN/)
 
-* **Ph.D. of Intelligence Science and Technology**, *October 2020--March 2024*
+* **Ph.D. in Intelligence Science and Technology**, *October 2020--March 2024*
 
-* **Master of Intelligence Science and Technology**, *October 2018--September 2020*
+* **Master in Intelligence Science and Technology**, *October 2018--September 2020*
 
 ### Shanghai Jiao Tong University
 
@@ -72,7 +72,7 @@ Work Experience
 #### Supervised by [Masao Utiyama](https://www2.nict.go.jp/astrec-att/member/mutiyama/), [Hideki Tanaka](https://jp.linkedin.com/in/hideki-tanaka-9a95a6219) and [Raj Dabre](https://www.linkedin.com/in/raj-dabre-b1202119/) at [ASTREC](http://att-astrec.nict.go.jp/)
 
 * Technical researcher, *July 2023--present*
-* Research internship, *October 2019--June 2023*
+* Research intern, *October 2019--June 2023*
 
 ### JSPS Research Fellowship
 
@@ -107,7 +107,7 @@ Publication
 ## Journal
 - **Haiyue Song**, Raj Dabre, Chenhui Chu, Atsushi Fujita, and Sadao Kurohashi.
 Bilingual Corpus Mining and Multistage Fine-Tuning for Improving Machine Translation of Lecture Transcripts.
-Journal of Information Processing. 2024 Volumn 32 Pages 628--640. (**JIP**) [\[paper\]](https://doi.org/10.2197/ipsjjip.32.628)
+Journal of Information Processing. 2024 Volume 32 Pages 628--640. (**JIP**) [\[paper\]](https://doi.org/10.2197/ipsjjip.32.628)
 
 - **Haiyue Song**, Zhuoyuan Mao, Raj Dabre, Chenhui Chu, and Sadao Kurohashi.
 DiverSeg: Leveraging Diverse Segmentations with Cross-granularity Alignment for Neural Machine Translation.
@@ -249,7 +249,7 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 
 - Lecture at 知能情報学演習
 
-# Miscellaneous
+# Other Activities 
 
 - Reviewer of TASLP2024, ARR2024, TALLIP2024, TALLIP2023, ARR2023, APSIPA ASC2023, EMNLP2023, ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020.
 - Co-organizer of [WAT2024](https://lotus.kuee.kyoto-u.ac.jp/WAT).
