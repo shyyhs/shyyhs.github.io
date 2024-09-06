@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 <!---I am a Ph.D. candidate at Kyoto University, majoring in Intelligence Science and Technology at Kurohashi lab. I am also working as a technical researcher at [Advanced Translation Technology Laboratory](https://att-astrec.nict.go.jp/en/) in National Institute of Information and Communications Technology ([NICT](https://www.nict.go.jp/)).-->
-I am a technical researcher at National Institute of Information and Communications Technology ([NICT](https://www.nict.go.jp/en)).
+I am a technical researcher at National Institute of Information and Communications Technology ([NICT](https://www.nict.go.jp/en)). I obtained my Ph.D. in Intelligence Science and Technology from Kyoto University.
 
-I obtained my Ph.D. in Intelligence Science and Technology from Kyoto University.
-
-My research focuses on 1) machine translation (MT) including low-resource MT, domain adaptation in MT, multi-modal MT, linguistically motivated MT, and LLMs for MT, and 2) subword, including subword segmentation, encoding, and decoding.
+My research focuses on machine translation and subword segmentation.
 
 **Email**: haiyue.song at nict.go.jp
 
@@ -129,6 +127,8 @@ CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark.
 [\[paper\]](https://arxiv.org/abs/2406.05967), [\[web\]](https://cvqa-benchmark.org/), [\[data\]](https://huggingface.co/datasets/afaji/cvqa)
 
 ## International Conference
+- Aditya Joshi, Diptesh Kanojia, Heather Lent, Hour Kaing, and **Haiyue Song**. (Tutorial) Connecting Ideas in 'Lower-Resource' Scenarios: NLP for National Varieties, Creoles, and Other Low-resource Scenarios. Accepted to COLING 2025.
+
 
 - Raj Dabre, **Haiyue Song** (equal contribution), Miriam Exel, Bianka Buschbec, Johannes Eschbach-Dymanus, Hideki Tanaka.
 How Effective is Synthetic Data and Instruction Fine-tuning for Translation with Markup using LLMs?
