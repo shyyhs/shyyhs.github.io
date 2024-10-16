@@ -121,14 +121,12 @@ Journal of Information Processing,  Vol.31,  (2023.5). (**JIP**) [\[paper\]](htt
 
 - Li Jiang, Zhuoran Song, **Haiyue Song**, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, and Xiaoyao Liang. Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method. ACM Transactions on Design Automation of Electronic Systems (**TODAES**), pp.59:1-59:25, (2019.11). [\[paper\]](files/TODAES2019_Song_paper.pdf), [\[bib\]](files/TODAES2019_Song_bib.txt) 
 
-## arXiv
+## International Conference
 - David Romero ... **Haiyue Song** ... et al.
-CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark.
+CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark. Accepted to NeurIPS 2024 (Oral).
 [\[paper\]](https://arxiv.org/abs/2406.05967), [\[web\]](https://cvqa-benchmark.org/), [\[data\]](https://huggingface.co/datasets/afaji/cvqa)
 
-## International Conference
-- Aditya Joshi, Diptesh Kanojia, Heather Lent, Hour Kaing, and **Haiyue Song**. (Tutorial) Connecting Ideas in 'Lower-Resource' Scenarios: NLP for National Varieties, Creoles, and Other Low-resource Scenarios. Accepted to COLING 2025.
-
+- Aditya Joshi, Diptesh Kanojia, Heather Lent, Hour Kaing, and **Haiyue Song**. (Tutorial) Connecting Ideas in 'Lower-Resource' Scenarios: NLP for National Varieties, Creoles, and Other Low-resource Scenarios. Accepted to COLING 2025. [\[paper\]](https://www.arxiv.org/abs/2409.12683)
 
 - Raj Dabre, **Haiyue Song** (equal contribution), Miriam Exel, Bianka Buschbec, Johannes Eschbach-Dymanus, Hideki Tanaka.
 How Effective is Synthetic Data and Instruction Fine-tuning for Translation with Markup using LLMs?
@@ -245,6 +243,9 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 - Presentation at 第14回入力メソッドワークショップ (IM 2022)
 [\[link\]](https://github.com/mamorlis/chaime/wiki/im2022)
 
+- Presentation at CJNLP 2024
+[\[link\]](https://www.ics.nara-wu.ac.jp/~sudoh/cjnlp2024/index.html)
+
 - Presentation at 2022年度 京都大学 情報学研究科 知能情報学専攻 シンポジウム
 
 - Lecture at 知能情報学演習
@@ -271,5 +272,5 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 ### Sports
 
 - Marathon. Finisher of the full course of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html) and [Biwako Marathon 2024](https://biwako-marathon.com/)
-- Mountain Climbing. [Mount Kita](https://en.wikipedia.org/wiki/Mount_Kita), [Mount Yake](https://en.wikipedia.org/wiki/Mount_Yake) and some famous mountains in Japan.
+- Mountain Climbing. [Mount Shirouma](https://en.wikipedia.org/wiki/Mount_Shirouma), [Mount Kita](https://en.wikipedia.org/wiki/Mount_Kita), [Mount Yake](https://en.wikipedia.org/wiki/Mount_Yake) and some famous mountains in Japan.
 - Ski. This winter (24--25) you can find me in [Takasu Mountains](https://www.takasumountains.com/). Last year: [Shiga kogen](https://shigakogen-ski.or.jp/english/index.html) and [Niseko](https://www.niseko.ne.jp/en/). 
