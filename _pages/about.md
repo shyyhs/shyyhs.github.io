@@ -252,8 +252,9 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 
 # Other Activities 
 
-- Reviewer of TASLP2024, ARR2024, TALLIP2024, TALLIP2023, ARR2023, APSIPA ASC2023, EMNLP2023, ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020.
+- Website chair of EMNLP2025.
 - Co-organizer of [WAT2024](https://lotus.kuee.kyoto-u.ac.jp/WAT).
+- Reviewer of TASLP2024, ARR2024, TALLIP2024, TALLIP2023, ARR2023, APSIPA ASC2023, EMNLP2023, ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020.
 - Mentor of AACL2020-SRW.
 - One patent application in progress.
 
