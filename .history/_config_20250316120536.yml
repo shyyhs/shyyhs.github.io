@@ -95,7 +95,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "profile.php?id=100010667164778"
+  facebook         : #"profile.php?id=100010667164778"
   foursquare       :
   github           : "shyyhs"
   google_plus      :
@@ -103,14 +103,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "haiyue-song-844a74186"
-  orcid            : "http://orcid.org/0000-0003-1159-0918"
+  linkedin         : #"haiyue-song-844a74186"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "shyoyhs"
+  twitter          : #"shyoyhs"
   vine             :
   weibo            :
   xing             :
