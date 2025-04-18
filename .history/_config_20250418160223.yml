@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "ja-JP"
-title                    : "Haiyue Song/宋海越"
+title                    : "Haiyue SONG/宋海越"
 title_separator          : "-"
-name                     : &name "Haiyue Song"
-description              : &description "Homepage of Haiyue Song (宋海越)."
+name                     : &name "Haiyue SONG"
+description              : &description "Homepage of Haiyue SONG (宋海越)."
 url                      : https://shyyhs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shyyhs.github.io"
@@ -67,7 +67,7 @@ yandex_site_verification :
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type: "Person"                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
@@ -95,7 +95,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "profile.php?id=100010667164778"
+  facebook         : #"profile.php?id=100010667164778"
   foursquare       :
   github           : "shyyhs"
   google_plus      :
@@ -104,13 +104,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "haiyue-song-844a74186"
-  orcid            : "http://orcid.org/0000-0003-1159-0918"
+  orcid            : #"http://orcid.org/0000-0003-1159-0918"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"shyoyhs"
+  twitter          : "shyoyhs"
   vine             :
   weibo            :
   xing             :
