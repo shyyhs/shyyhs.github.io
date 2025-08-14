@@ -142,6 +142,9 @@ Journal of Information Processing,  Vol.31,  (2023.5). (**JIP**) [\[paper\]](htt
 
 ## International Conference
 
+- Raj Dabre, Hour Kaing, Haiyue Song
+BYTF: How Good Are Byte Level N-Gram F-Scores for Automatic Machine Translation Evaluation? MT Summit 2025. [\[paper\]](https://aclanthology.org/anthology-files/pdf/mtsummit/2025.mtsummit-1.29.pdf)
+
 - Hour Kaing, Raj Dabre, **Haiyue Song**, Van-Hien Tran, Hideki Tanaka, Masao Utiyama.
 PrahokBART: A Pre-trained Sequence-to-Sequence Model for Khmer Natural Language Generation. COLING 2025. [\[paper\]](https://aclanthology.org/2025.coling-main.87/)
 
