@@ -67,9 +67,9 @@ yandex_site_verification :
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type: "Person"                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type: "Person"                   # Person or Organization (defaults to Person)
+  name: "Haiyue Song"                   # If the user or organization name differs from the site's name
+  links: [] # An array of links to social media profiles
 
 
 # Analytics
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Haiyue Song"
-  avatar           : "profile.png"
+  avatar           : "20251023middle.png"
   bio              : #"Ph.D. candidate at Kyoto University."
   location         : "Kyoto, Japan"
   employer         :
