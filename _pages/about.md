@@ -313,7 +313,7 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 - Area chair of ARR 2025.
 - Website chair of EMNLP2025.
 - Co-organizer of [WAT2024](https://lotus.kuee.kyoto-u.ac.jp/WAT), [English-Indic Language Document Translation Task](https://sites.google.com/view/indic-doc/) in [WAT2025](http://orchid.kuee.kyoto-u.ac.jp/WAT/WAT2025/index.html).
-- Reviewer of EMNLP2025, ACL2025, TASLP2024, ARR2024, TALLIP2024, TALLIP2023, ARR2023, APSIPA ASC2023, EMNLP2023, ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020.
+- Reviewer of LREC2026, JNLP2026, EMNLP2025, ACL2025, TASLP2024, ARR2024, TALLIP2024, TALLIP2023, ARR2023, APSIPA ASC2023, EMNLP2023, ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020, etc.
 - Mentor of AACL2020-SRW.
 - One patent application in progress.
 
