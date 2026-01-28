@@ -158,7 +158,7 @@ Multilingual Iterative Model Pruning: What Matters? IJCNLP-AACL 2025 Main (Accep
 
 - Emilio Villa-Cueva, Sholpan Bolatzhanova, ... **Haiyue Song** ... et al.
 Cammt: Benchmarking culturally aware multimodal machine translation. EMNLP 2025 Findings.
-[\[arxiv\]](https://arxiv.org/abs/2505.24456)
+[\[paper\]](https://aclanthology.org/2025.findings-emnlp.1220/)
 
 - Raj Dabre, Hour Kaing, **Haiyue Song**
 BYTF: How Good Are Byte Level N-Gram F-Scores for Automatic Machine Translation Evaluation? MT Summit 2025. [\[paper\]](https://aclanthology.org/anthology-files/pdf/mtsummit/2025.mtsummit-1.29.pdf)
