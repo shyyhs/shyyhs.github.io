@@ -145,16 +145,16 @@ Journal of Information Processing,  Vol.31,  (2023.5). (**JIP**) [\[paper\]](htt
 ## International Conference
 
 - Hour Kaing, Jiannan Mao, **Haiyue Song**, Chenchen Ding, Hideki Tanaka, Masao Utiyama.
-ImageTra: Real-Time Translation for Texts in Image and Video. IJCNLP-AACL 2025 Demo.
+ImageTra: Real-Time Translation for Texts in Image and Video. IJCNLP-AACL 2025 Demo. [\[paper\]](https://aclanthology.org/2025.ijcnlp-demo.1/)
 
 - **Haiyue Song**, Johannes Eschbach-Dymanus, Hour Kaing, Sumire Honda, Hideki Tanaka, Bianka Buschbeck, Masao Utiyama.
-Structured Document Translation via Format Reinforcement Learning. IJCNLP-AACL 2025 Main.
+Structured Document Translation via Format Reinforcement Learning. IJCNLP-AACL 2025 Main (Acceptance Rate=19\%) Oral. [\[paper\]](https://aclanthology.org/2025.ijcnlp-long.38/)
 
 - Sanjay Suryanarayanan, **Haiyue Song**, Mohammed Safi Ur Rahman Khan, Anoop Kunchukuttan, Raj Dabre.
-PRALEKHA: Cross-Lingual Document Alignment for Indic Languages. IJCNLP-AACL 2025 Main.
+PRALEKHA: Cross-Lingual Document Alignment for Indic Languages. IJCNLP-AACL 2025 Main. (Acceptance Rate=19\%). [\[paper\]](https://aclanthology.org/2025.ijcnlp-long.37/)
 
 - Haryo Akbarianto Wibowo, **Haiyue Song**, Hideki Tanaka, Masao Utiyama, Alham Fikri Aji, Raj Dabre.
-Multilingual Iterative Model Pruning: What Matters? IJCNLP-AACL 2025 Main.
+Multilingual Iterative Model Pruning: What Matters? IJCNLP-AACL 2025 Main (Acceptance Rate=19\%). [\[paper\]](https://aclanthology.org/2025.ijcnlp-long.32/)
 
 - Emilio Villa-Cueva, Sholpan Bolatzhanova, ... **Haiyue Song** ... et al.
 Cammt: Benchmarking culturally aware multimodal machine translation. EMNLP 2025 Findings.
@@ -313,7 +313,7 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 - Area chair of ARR 2025.
 - Website chair of EMNLP2025.
 - Co-organizer of [WAT2024](https://lotus.kuee.kyoto-u.ac.jp/WAT), [English-Indic Language Document Translation Task](https://sites.google.com/view/indic-doc/) in [WAT2025](http://orchid.kuee.kyoto-u.ac.jp/WAT/WAT2025/index.html).
-- Reviewer of LREC2026, JNLP2026, EMNLP2025, ACL2025, TASLP2024, ARR2024, TALLIP2024, TALLIP2023, ARR2023, APSIPA ASC2023, EMNLP2023, ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020, etc.
+- Reviewer of IEICE2026, ARR2026 January, ANLP2026 (Award Committee Member), LREC2026, JNLP2026, IJCNLP-AACL2025, WAT2025, EMNLP2025, ACL2025, TASLP2024, ARR2024, TALLIP2024, TALLIP2023, ARR2023, APSIPA ASC2023, EMNLP2023, ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020, etc.
 - Mentor of AACL2020-SRW.
 - One patent application in progress.
 
