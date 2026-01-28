@@ -148,13 +148,13 @@ Journal of Information Processing,  Vol.31,  (2023.5). (**JIP**) [\[paper\]](htt
 ImageTra: Real-Time Translation for Texts in Image and Video. IJCNLP-AACL 2025 Demo. [\[paper\]](https://aclanthology.org/2025.ijcnlp-demo.1/)
 
 - **Haiyue Song**, Johannes Eschbach-Dymanus, Hour Kaing, Sumire Honda, Hideki Tanaka, Bianka Buschbeck, Masao Utiyama.
-Structured Document Translation via Format Reinforcement Learning. IJCNLP-AACL 2025 Main (Acceptance Rate=19\%) Oral. [\[paper\]](https://aclanthology.org/2025.ijcnlp-long.38/)
+Structured Document Translation via Format Reinforcement Learning. IJCNLP-AACL 2025 Main (Acceptance Rate=19%) Oral. [\[paper\]](https://aclanthology.org/2025.ijcnlp-long.38/)
 
 - Sanjay Suryanarayanan, **Haiyue Song**, Mohammed Safi Ur Rahman Khan, Anoop Kunchukuttan, Raj Dabre.
-PRALEKHA: Cross-Lingual Document Alignment for Indic Languages. IJCNLP-AACL 2025 Main. (Acceptance Rate=19\%). [\[paper\]](https://aclanthology.org/2025.ijcnlp-long.37/)
+PRALEKHA: Cross-Lingual Document Alignment for Indic Languages. IJCNLP-AACL 2025 Main. (Acceptance Rate=19%). [\[paper\]](https://aclanthology.org/2025.ijcnlp-long.37/)
 
 - Haryo Akbarianto Wibowo, **Haiyue Song**, Hideki Tanaka, Masao Utiyama, Alham Fikri Aji, Raj Dabre.
-Multilingual Iterative Model Pruning: What Matters? IJCNLP-AACL 2025 Main (Acceptance Rate=19\%). [\[paper\]](https://aclanthology.org/2025.ijcnlp-long.32/)
+Multilingual Iterative Model Pruning: What Matters? IJCNLP-AACL 2025 Main (Acceptance Rate=19%). [\[paper\]](https://aclanthology.org/2025.ijcnlp-long.32/)
 
 - Emilio Villa-Cueva, Sholpan Bolatzhanova, ... **Haiyue Song** ... et al.
 Cammt: Benchmarking culturally aware multimodal machine translation. EMNLP 2025 Findings.
