@@ -7,17 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!---I am a Ph.D. candidate at Kyoto University, majoring in Intelligence Science and Technology at Kurohashi lab. I am also working as a technical researcher at [Advanced Translation Technology Laboratory](https://att-astrec.nict.go.jp/en/) in National Institute of Information and Communications Technology ([NICT](https://www.nict.go.jp/)).-->
-<!--- I am a technical researcher at National Institute of Information and Communications Technology ([NICT](https://www.nict.go.jp/en)). I obtained my Ph.D. in Intelligence Science and Technology from Kyoto University. 
-My research interests include large language models, machine translation, and subword.-->
 
-Technical Researcher
+LLM Engineer
 
-Advanced Translation Technology Laboratory
+Preferred Networks
 
-National Institute of Information and Communications Technology
-
-haiyue.song at nict.go.jp
+haiyuesong at preferred.jp
 
 <!---[\[**Résumé**\]](files/Haiyue_Song_CV_0621.pdf) [\[**Publication**\]](#pub)-->
 [\[**Publication**\]](#pub)
@@ -87,10 +82,13 @@ Research
 Work Experience
 ======
 
+### National Institute of Information and Communications Technology
+
+* Engineer, *April 2026--present*
 
 ### National Institute of Information and Communications Technology
 
-* Technical researcher, *July 2023--present*
+* Technical researcher, *July 2023--March 2026*
 * Research internship, *October 2019--June 2023*
 
 ### JSPS Research Fellowship
@@ -122,6 +120,11 @@ Publication
 ======
 
 [\[**Google Scholar**\]](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en), [\[**DBLP**\]](https://dblp.org/pers/s/Song:Haiyue.html), [\[**Research Gate**\]](https://www.researchgate.net/profile/Haiyue_Song), [\[**ACL Profile**\]](https://www.aclweb.org/anthology/people/h/haiyue-song/)
+
+## Preprint
+- **Haiyue Song** and Masao Utiyama.
+OptiMer: Optimal Distribution Vector Merging Is Better than Data Mixing for Continual Pre-Training [\[arXiv\]](https://arxiv.org/abs/2603.28858)
+
 
 ## Journal
 - **Haiyue Song**, Raj Dabre, Chenhui Chu, Atsushi Fujita, and Sadao Kurohashi.
@@ -292,7 +295,7 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 
 ## Grants
 
-- 2025〜 Grant-in-Aid for Early-Career Scientists (若手研究). Improving Large Language Models for Low-Resource Languages with Diverse Writing Systems
+- 2025〜2026 Grant-in-Aid for Early-Career Scientists (若手研究). Improving Large Language Models for Low-Resource Languages with Diverse Writing Systems
 
 - 2021〜2023 Research Fellowships for Young Scientists (DC1). [Multilingual Corpus Construction and Domain Adaptation for Low-Resource Machine Translation](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22KJ1724/)
 
