@@ -125,6 +125,11 @@ Publication
 - **Haiyue Song** and Masao Utiyama.
 OptiMer: Optimal Distribution Vector Merging Is Better than Data Mixing for Continual Pre-Training [\[arXiv\]](https://arxiv.org/abs/2603.28858)
 
+- Boxuan Lyu, **Haiyue Song**, Zhi Qu.
+Is Human Annotation Necessary? Iterative MBR Distillation for Error Span Detection in Machine Translation [\[arXiv\]](https://arxiv.org/abs/2603.12983)
+
+- Boxuan Lyu, **Haiyue Song**, Hidetaka Kamigaito, Chenchen Ding, Hideki Tanaka, Masao Utiyama, Kotaro Funakoshi, Manabu Okumura. Minimum Bayes Risk Decoding for Error Span Detection in Reference-Free Automatic Machine Translation Evaluation [\[arXiv\]](https://arxiv.org/abs/2512.07540)
+
 
 ## Journal
 - **Haiyue Song**, Raj Dabre, Chenhui Chu, Atsushi Fujita, and Sadao Kurohashi.
@@ -255,6 +260,10 @@ A System for Worldwide COVID-19 Information Aggregation.
 
 
 ## Domestic Conference (non peer-reviewed) 
+
+-  **宋 海越** (NICT), Johannes Eschbach-Dymanus (SAP), Hour Kaing (NICT), Sumire Honda (SAP), 田中 英輝 (NICT), Bianka Buschbeck (SAP), 内山 将夫 (NICT). 	FormatRL: Format Reinforcement Learning for Structured Document Translation. 言語処理学会第32回年次大会（NLP2026）, 宇都宮,(2026.3).
+
+- Haotian Ye (LMU), **○◊宋 海越**, Hour Kaing, 丁 塵辰, 田中 英輝, 内山 将夫 (NICT). Profanity as a cue: when LLMs mistake toxicity for hate. 言語処理学会第32回年次大会（NLP2026）, 宇都宮,(2026.3).
 
 - 呂 博軒 (Science Tokyo), **宋 海越** (NICT), 上垣外 英剛 (NAIST), 田中 英輝 (NICT), 内山 将夫 (NICT), 船越 孝太郎 (Science Tokyo), 奥村 学 (Science Tokyo). 生成型自動評価指標のための最小ベイズリスク復号. 第20回言語処理若手シンポジウム(YANS2025).
 
