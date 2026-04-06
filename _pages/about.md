@@ -130,6 +130,8 @@ Is Human Annotation Necessary? Iterative MBR Distillation for Error Span Detecti
 
 - Boxuan Lyu, **Haiyue Song**, Hidetaka Kamigaito, Chenchen Ding, Hideki Tanaka, Masao Utiyama, Kotaro Funakoshi, Manabu Okumura. Minimum Bayes Risk Decoding for Error Span Detection in Reference-Free Automatic Machine Translation Evaluation [\[arXiv\]](https://arxiv.org/abs/2512.07540)
 
+- Ahmed Elshabrawy, Hour Kaing, **Haiyue Song**, Alham Fikri Aji, Hideki Tanaka, Masao Utiyama, Raj Dabre. When Alignment Hurts: Decoupling Representational Spaces in Multilingual Models  [\[arXiv\]](https://arxiv.org/abs/2508.12803)
+
 
 ## Journal
 - **Haiyue Song**, Raj Dabre, Chenhui Chu, Atsushi Fujita, and Sadao Kurohashi.
