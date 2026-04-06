@@ -82,7 +82,7 @@ Research
 Work Experience
 ======
 
-### National Institute of Information and Communications Technology
+### Preferred Networks
 
 * Engineer, *April 2026--present*
 
