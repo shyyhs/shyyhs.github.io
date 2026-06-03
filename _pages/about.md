@@ -324,12 +324,13 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 
 # Other Activities 
 
-- Area chair of ARR 2025, ARR 2026.
-- Candidate for KAKENHI Review Committee Member 2026.
+- Area chair of ARR 2025, ARR 2026 March.
 - Website chair of EMNLP2025.
+- Candidate for KAKENHI Review Committee Member 2026.
 - Co-organizer of [WAT2024](https://lotus.kuee.kyoto-u.ac.jp/WAT), [English-Indic Language Document Translation Task](https://sites.google.com/view/indic-doc/) in [WAT2025](http://orchid.kuee.kyoto-u.ac.jp/WAT/WAT2025/index.html).
-- Reviewer of EAMT2026, TALLIP2026, IEICE2026, ARR2026 January, ANLP2026 (Award Committee Member), LREC2026, JNLP2026, IJCNLP-AACL2025, WAT2025, EMNLP2025, ACL2025, TASLP2024, ARR2024, TALLIP2024, TALLIP2023, ARR2023, APSIPA ASC2023, EMNLP2023, ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020, etc.
 - Mentor of AACL2020-SRW.
+- Award Selection Committee for ANLP (in Japan) 2026.
+- Reviewer of JNLP2026, EAMT2026, TALLIP2026, IEICE2026, ARR2026 January, LREC2026, JNLP2026, IJCNLP-AACL2025, WAT2025, EMNLP2025, ACL2025, COLING2025, NLPCC2024, TASLP2024, AMTA2024, LREC-COLING2024, Four rounds of ARR2024, TALLIP2024, TASLP2023, TALLIP2023, ARR2023, APSIPA ASC2023, EMNLP2023, ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020, etc.
 - One patent application in progress.
 
 # Hobbies
@@ -349,4 +350,3 @@ Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning
 - Ski (current focus). Ski Association of Japan (SAJ) [Badge Test](https://snowjapanlicence.com/5-1test/) Level-2. This winter (25--26) my home ski resort will be [Takasu Mountains](https://www.takasumountains.com/), and I'll also go to [Hakuba](https://www.hakubavalley.com/) and [Shiga kogen](https://shigakogen-ski.or.jp/english/index.html).
 - Marathon. Finisher of the full course of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html) and [Biwako Marathon 2024](https://biwako-marathon.com/)
 - Mountain climbing. [Mt. Shirouma](https://en.wikipedia.org/wiki/Mount_Shirouma), [Mt. Kita](https://en.wikipedia.org/wiki/Mount_Kita), [Mt. Yake](https://en.wikipedia.org/wiki/Mount_Yake), Mt. Fuji, etc.
-- Strength training. Best lifts: squat 1.85×, bench press 1.20× bodyweight. Powerlifting beginner.
