@@ -76,6 +76,17 @@ html[data-theme="dark"] .contact-icons {
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.22);
 }
 
+// Coauthor links in publication author lines: keep the normal text color (the
+// dashed underline color lives in _base.scss), so author lists are not a wall
+// of green. Theme color appears on hover only.
+.publications .author a {
+  color: var(--global-text-color);
+  text-decoration: none;
+}
+.publications .author a:hover {
+  color: var(--global-theme-color);
+}
+
 // Card-style sections on the about page (Education, Work Experience, ...),
 // with the section title in the theme color.
 .about-card {
