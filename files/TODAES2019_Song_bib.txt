@@ -1,0 +1,18 @@
+@article{10.1145/3342239,
+author = {Jiang, Li and Song, Zhuoran and Song, Haiyue and Xu, Chengwen and Xu, Qiang and Jing, Naifeng and Zhang, Weifeng and Liang, Xiaoyao},
+title = {Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method},
+year = {2019},
+issue_date = {November 2019},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {24},
+number = {6},
+issn = {1084-4309},
+url = {https://doi.org/10.1145/3342239},
+doi = {10.1145/3342239},
+journal = {ACM Trans. Des. Autom. Electron. Syst.},
+month = aug,
+articleno = {59},
+numpages = {25},
+keywords = {error control, Approximate computing}
+}

@@ -1,0 +1,6 @@
+@article{mao2023variable,
+  title={Variable-length Neural Interlingua Representations for Zero-shot Neural Machine Translation},
+  author={Mao, Zhuoyuan and Song, Haiyue and Dabre, Raj and Chu, Chenhui and Kurohashi, Sadao},
+  journal={arXiv preprint arXiv:2305.10190},
+  year={2023}
+}

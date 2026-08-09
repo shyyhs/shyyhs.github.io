@@ -1,0 +1,9 @@
+@article{Weiqi Gu2023,
+  title={Spatial Hierarchical Attention Network Based Video-guided Machine Translation},
+  author={Weiqi Gu and Haiyue Song and Chenhui Chu and Sadao Kurohashi},
+  journal={Journal of Information Processing},
+  volume={31},
+  pages={299-307},
+  year={2023},
+  doi={10.2197/ipsjjip.31.299}
+}

@@ -1,0 +1,10 @@
+@article{Haiyue Song2024,
+  title={DiverSeg: Leveraging Diverse Segmentations with Cross-granularity Alignment for Neural Machine Translation},
+  author={Haiyue Song and Zhuoyuan Mao and Raj Dabre and Chenhui Chu and Sadao Kurohashi},
+  journal={Journal of Natural Language Processing},
+  volume={31},
+  number={1},
+  pages={155-188},
+  year={2024},
+  doi={10.5715/jnlp.31.155}
+}

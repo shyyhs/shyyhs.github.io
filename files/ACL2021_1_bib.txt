@@ -1,0 +1,20 @@
+@inproceedings{gu-etal-2021-video,
+    title = "Video-guided Machine Translation with Spatial Hierarchical Attention Network",
+    author = "Gu, Weiqi  and
+      Song, Haiyue  and
+      Chu, Chenhui  and
+      Kurohashi, Sadao",
+    editor = "Kabbara, Jad  and
+      Lin, Haitao  and
+      Paullada, Amandalynne  and
+      Vamvas, Jannis",
+    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Student Research Workshop",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.acl-srw.9",
+    doi = "10.18653/v1/2021.acl-srw.9",
+    pages = "87--92",
+    abstract = "Video-guided machine translation, as one type of multimodal machine translations, aims to engage video contents as auxiliary information to address the word sense ambiguity problem in machine translation. Previous studies only use features from pretrained action detection models as motion representations of the video to solve the verb sense ambiguity, leaving the noun sense ambiguity a problem. To address this problem, we propose a video-guided machine translation system by using both spatial and motion representations in videos. For spatial features, we propose a hierarchical attention network to model the spatial information from object-level to video-level. Experiments on the VATEX dataset show that our system achieves 35.86 BLEU-4 score, which is 0.51 score higher than the single model of the SOTA method.",
+}

@@ -1,0 +1,20 @@
+@inproceedings{wan-etal-2023-relation,
+    title = "Relation Extraction with Weighted Contrastive Pre-training on Distant Supervision",
+    author = "Wan, Zhen  and
+      Cheng, Fei  and
+      Liu, Qianying  and
+      Mao, Zhuoyuan  and
+      Song, Haiyue  and
+      Kurohashi, Sadao",
+    editor = "Vlachos, Andreas  and
+      Augenstein, Isabelle",
+    booktitle = "Findings of the Association for Computational Linguistics: EACL 2023",
+    month = may,
+    year = "2023",
+    address = "Dubrovnik, Croatia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-eacl.195",
+    doi = "10.18653/v1/2023.findings-eacl.195",
+    pages = "2580--2585",
+    abstract = "Contrastive pre-training on distant supervision has shown remarkable effectiveness in improving supervised relation extraction tasks. However, the existing methods ignore the intrinsic noise of distant supervision during the pre-training stage. In this paper, we propose a weighted contrastive learning method by leveraging the supervised data to estimate the reliability of pre-training instances and explicitly reduce the effect of noise. Experimental results on three supervised datasets demonstrate the advantages of our proposed weighted contrastive learning approach compared to two state-of-the-art non-weighted baselines. Our code and models are available at: \url{https://github.com/YukinoWan/WCL}.",
+}
