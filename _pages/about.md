@@ -1,352 +1,140 @@
 ---
+layout: about
+title: About
 permalink: /
-title: "Haiyue Song"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: '宋海越 · LLM Engineer at <a href="https://www.preferred.jp/en/">Preferred Networks</a>'
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>haiyuesong at preferred.jp</p>
+
+selected_papers: false # rendered manually in the page body below to keep the section order
+social: false # social icons are rendered manually near the top of the page instead
+
+announcements:
+  enabled: false # rendered manually in the page body below to keep the section order
+  scrollable: true
+  limit:
+
+latest_posts:
+  enabled: false # blog is disabled
 ---
 
-LLM Engineer
+<style>
+  .post article h4 {
+    font-size: 1.15rem;
+  }
+</style>
 
-Preferred Networks
+<div class="social" style="margin: 0.2rem 0 1.2rem 0;">
+  <div class="contact-icons" style="font-size: 2.3rem;">{% social_links %}</div>
+</div>
 
-haiyuesong at preferred.jp
+I am an LLM engineer at Preferred Networks, working on post-training. Before that, I
+was a technical researcher at [NICT](https://www.nict.go.jp/en/), working on machine
+translation. I received my Ph.D. from Kyoto University in 2024, advised by
+Prof. [Sadao Kurohashi](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/) and
+Prof. [Chenhui Chu](https://researchmap.jp/chu/?lang=english).
 
-<!---[\[**Résumé**\]](files/Haiyue_Song_CV_0621.pdf) [\[**Publication**\]](#pub)-->
-[\[**Publication**\]](#pub)
+My research interests center on large language models, including agent harness, long-context,
+reinforcement learning, and continual pre-training. Previously, I worked on machine
+translation, especially in low-resource, multilingual, and multimodal scenarios.
 
-<br/>
-
-<a name='edu'></a>
-
----
-
-News
-======
-
-- Four papers are accepted to **IJCNLP-AACL 2025** (Three Main, one Demo)!
-- Organizing the [English-Indic Language Document Translation Task](https://sites.google.com/view/indic-doc/) in [WAT 2025](http://orchid.kuee.kyoto-u.ac.jp/WAT/WAT2025/index.html).
-- One paper is accepted to **EMNLP 2025 Findings**!
-- Serving as Website Chair for [EMNLP 2025](https://2025.emnlp.org/).
-- Obtained **Grant-in-Aid for Early-Career Scientists (若手研究)**.
-- Presented [a tutorial](https://github.com/surrey-nlp/COLING-Tutorial-LowResScene-2025) in COLING2025.
-
-<br/>
+<a href="/publications/" style="text-decoration: underline;"><b>[Publications]</b></a>
 
 ---
 
-Education
-======
+## News
 
-### Kyoto University
+{% include news.liquid %}
+
+---
+
+## Education
+
+#### Kyoto University
 
 Supervised by Prof. [Sadao Kurohashi](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/) and Prof. [Chenhui Chu](https://researchmap.jp/chu/?lang=english).
 
-<!---at [Language Media Processing Lab](https://nlp.ist.i.kyoto-u.ac.jp/EN/)-->
+- Ph.D. in Intelligence Science and Technology, _October 2020 - March 2024_
+- Master in Intelligence Science and Technology, _October 2018 - September 2020_
 
-* Ph.D. in Intelligence Science and Technology, *October 2020--March 2024*
-
-* Master in Intelligence Science and Technology, *October 2018--September 2020*
-
-### Shanghai Jiao Tong University
+#### Shanghai Jiao Tong University
 
 Supervised by Prof. [Li Jiang](http://www.cs.sjtu.edu.cn/~jiangli/).
 
-<!---at [Advanced Computer Architecture Lab](http://acalab.sjtu.edu.cn/EN/Default.aspx)-->
+- Bachelor of Computer Science and Technology, _September 2014 - July 2018_
+- Minor in Japanese, School of Foreign Languages, _February 2015 - July 2018_
 
-* Bachelor of Computer Science and Technology, *September 2014--July 2018*
+#### Nagoya University
 
-* Minor in Japanese, School of Foreign Languages, *February 2015--July 2018*
-
-### Nagoya University
-
-* Exchange student, *October 2017--February 2018*
-
-<br/>
+- Exchange student, _October 2017 - February 2018_
 
 ---
 
-<!---
-Research
-======
-* Natural language processing: low-resource/multilingual/multimodal machine translation, transfer learning, self-supervised learning, subword segmentation, decoding algorithm
-* Computer vision (long time ago): image matting, semantic segmentation 
-* Computer architecture (long long time ago): DNN acceleration, efficiency
-<br/>
+## Work Experience
 
----
--->
+#### Preferred Networks
 
-Work Experience
-======
+- Engineer, _April 2026 - present_
 
-### Preferred Networks
+#### National Institute of Information and Communications Technology (NICT)
 
-* Engineer, *April 2026--present*
+- Technical researcher, _July 2023 - March 2026_
+- Research internship, _October 2019 - June 2023_
 
-### National Institute of Information and Communications Technology
+#### JSPS
 
-* Technical researcher, *July 2023--March 2026*
-* Research internship, *October 2019--June 2023*
+- [Research Fellowship for Young Scientists](https://www.jsps.go.jp/english/e-pd/) (DC1), _April 2021 - June 2023_
 
-### JSPS Research Fellowship
+#### Kyoto University
 
-* [Research Fellowships for Young Scientists](https://www.jsps.go.jp/english/e-pd/) DC1, *April 2021--June 2023*
+- Research assistant, _November 2020 - March 2021_
 
-<!---
-### SenseTime Japan
+#### LINE
 
-* Internship at autonomous driving team, *August 2022--September 2022*
--->
-
-### Kyoto University
-
-* Research assistant at Kyoto University, *November 2020--March 2021*
-
-### LINE
-
-* Internship at machine learning team, *February 2019--March 2019*
-* [Summary Report](https://engineering.linecorp.com/ja/blog/line-sticker-deep-learning/)
-
-<br/>
-
-<a name='pub'></a>
+- Internship, machine learning team, _February 2019 - March 2019_ ([summary report](https://engineering.linecorp.com/ja/blog/line-sticker-deep-learning/))
 
 ---
 
-Publication
-======
+## Selected Publications
 
-[\[**Google Scholar**\]](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en), [\[**DBLP**\]](https://dblp.org/pers/s/Song:Haiyue.html), [\[**Research Gate**\]](https://www.researchgate.net/profile/Haiyue_Song), [\[**ACL Profile**\]](https://www.aclweb.org/anthology/people/h/haiyue-song/)
+{% include selected_papers.liquid %}
 
-## Preprint
-- **Haiyue Song** and Masao Utiyama.
-OptiMer: Optimal Distribution Vector Merging Is Better than Data Mixing for Continual Pre-Training [\[arXiv\]](https://arxiv.org/abs/2603.28858)
+**[Full publication list](/publications/)**
 
-- Boxuan Lyu, **Haiyue Song**, Zhi Qu.
-Is Human Annotation Necessary? Iterative MBR Distillation for Error Span Detection in Machine Translation [\[arXiv\]](https://arxiv.org/abs/2603.12983)
+---
 
-- Boxuan Lyu, **Haiyue Song**, Hidetaka Kamigaito, Chenchen Ding, Hideki Tanaka, Masao Utiyama, Kotaro Funakoshi, Manabu Okumura. Minimum Bayes Risk Decoding for Error Span Detection in Reference-Free Automatic Machine Translation Evaluation [\[arXiv\]](https://arxiv.org/abs/2512.07540)
+## Academic Service
 
-- Ahmed Elshabrawy, Hour Kaing, **Haiyue Song**, Alham Fikri Aji, Hideki Tanaka, Masao Utiyama, Raj Dabre. When Alignment Hurts: Decoupling Representational Spaces in Multilingual Models  [\[arXiv\]](https://arxiv.org/abs/2508.12803)
-
-
-## Journal
-- **Haiyue Song**, Raj Dabre, Chenhui Chu, Atsushi Fujita, and Sadao Kurohashi.
-Bilingual Corpus Mining and Multistage Fine-Tuning for Improving Machine Translation of Lecture Transcripts.
-Journal of Information Processing. 2024 Volume 32 Pages 628--640. (**JIP**) [\[paper\]](https://doi.org/10.2197/ipsjjip.32.628)
-
-- **Haiyue Song**, Zhuoyuan Mao, Raj Dabre, Chenhui Chu, and Sadao Kurohashi.
-DiverSeg: Leveraging Diverse Segmentations with Cross-granularity Alignment for Neural Machine Translation.
-Journal of Natural Language Processing. 2024 Volume 31 Issue 1 Pages 155--188. (**JNLP**) [\[paper\]](https://www.jstage.jst.go.jp/article/jnlp/31/1/31_155/_article/-char/en), [\[bib\]](files/JNLP2024_1_bib.txt)
-
-- **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi, and Eiichiro Sumita.
-SelfSeg: A Self-supervised Sub-word Segmentation Method for Neural Machine Translation.
-ACM Trans. Asian Low-Resour. Lang. Inf. Process. (2023.7). (**TALLIP**) [\[paper\]](https://doi.org/10.1145/3610611), [\[bib\]](files/TALLIP2023_1_bib.txt)
-
-- Weiqi Gu, **Haiyue Song**, Chenhui Chu, and Sadao Kurohashi.
-Spatial Hierarchical Attention Network Based Video-guided Machine Translation.
-Journal of Information Processing,  Vol.31,  (2023.5). (**JIP**) [\[paper\]](https://www.jstage.jst.go.jp/article/ipsjjip/31/0/31_299/_article/-char/ja/), [\[bib\]](files/JIP2023_1_bib.txt)
-
-- Li Jiang, Zhuoran Song, **Haiyue Song**, Chengwen Xu, Qiang Xu, Naifeng Jing, Weifeng Zhang, and Xiaoyao Liang. Energy-Efficient and Quality-Assured Approximate Computing Framework Using a Co-Training Method. ACM Transactions on Design Automation of Electronic Systems (**TODAES**), pp.59:1-59:25, (2019.11). [\[paper\]](files/TODAES2019_Song_paper.pdf), [\[bib\]](files/TODAES2019_Song_bib.txt) 
-
-## International Conference
-
-- Hour Kaing, Jiannan Mao, **Haiyue Song**, Chenchen Ding, Hideki Tanaka, Masao Utiyama.
-ImageTra: Real-Time Translation for Texts in Image and Video. IJCNLP-AACL 2025 Demo. [\[paper\]](https://aclanthology.org/2025.ijcnlp-demo.1/)
-
-- **Haiyue Song**, Johannes Eschbach-Dymanus, Hour Kaing, Sumire Honda, Hideki Tanaka, Bianka Buschbeck, Masao Utiyama.
-Structured Document Translation via Format Reinforcement Learning. IJCNLP-AACL 2025 Main (Acceptance Rate=19%) Oral. [\[paper\]](https://aclanthology.org/2025.ijcnlp-long.38/)
-
-- Sanjay Suryanarayanan, **Haiyue Song**, Mohammed Safi Ur Rahman Khan, Anoop Kunchukuttan, Raj Dabre.
-PRALEKHA: Cross-Lingual Document Alignment for Indic Languages. IJCNLP-AACL 2025 Main. (Acceptance Rate=19%). [\[paper\]](https://aclanthology.org/2025.ijcnlp-long.37/)
-
-- Haryo Akbarianto Wibowo, **Haiyue Song**, Hideki Tanaka, Masao Utiyama, Alham Fikri Aji, Raj Dabre.
-Multilingual Iterative Model Pruning: What Matters? IJCNLP-AACL 2025 Main (Acceptance Rate=19%). [\[paper\]](https://aclanthology.org/2025.ijcnlp-long.32/)
-
-- Emilio Villa-Cueva, Sholpan Bolatzhanova, ... **Haiyue Song** ... et al.
-Cammt: Benchmarking culturally aware multimodal machine translation. EMNLP 2025 Findings.
-[\[paper\]](https://aclanthology.org/2025.findings-emnlp.1220/)
-
-- Raj Dabre, Hour Kaing, **Haiyue Song**
-BYTF: How Good Are Byte Level N-Gram F-Scores for Automatic Machine Translation Evaluation? MT Summit 2025. [\[paper\]](https://aclanthology.org/anthology-files/pdf/mtsummit/2025.mtsummit-1.29.pdf)
-
-- Hour Kaing, Raj Dabre, **Haiyue Song**, Van-Hien Tran, Hideki Tanaka, Masao Utiyama.
-PrahokBART: A Pre-trained Sequence-to-Sequence Model for Khmer Natural Language Generation. COLING 2025. [\[paper\]](https://aclanthology.org/2025.coling-main.87/)
-
-- Van-Hien Tran, Raj Dabre, Hour Kaing, **Haiyue Song**, Hideki Tanaka, Masao Utiyama.
-Exploiting Word Sense Disambiguation in Large Language Models for Machine Translation. The First Workshop on Language Models for Low-Resource Languages in COLING 2025. [\[paper\]](https://aclanthology.org/2025.loreslm-1.10/)
-
-- Aditya Joshi, Diptesh Kanojia, Heather Lent, Hour Kaing, and **Haiyue Song**. (Tutorial) Connecting Ideas in 'Lower-Resource' Scenarios: NLP for National Varieties, Creoles, and Other Low-resource Scenarios. COLING 2025. [\[paper\]](https://www.arxiv.org/abs/2409.12683)
-
-- David Romero ... **Haiyue Song** ... et al.
-CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark. NeurIPS 2024 (Oral).
-[\[paper\]](https://arxiv.org/abs/2406.05967), [\[web\]](https://cvqa-benchmark.org/), [\[data\]](https://huggingface.co/datasets/afaji/cvqa)
-
-- Raj Dabre, **Haiyue Song**, Miriam Exel, Bianka Buschbec, Johannes Eschbach-Dymanus, Hideki Tanaka.
-How Effective is Synthetic Data and Instruction Fine-tuning for Translation with Markup using LLMs?
-The Conference of the Association for Machine Translation in the Americas 2024 (**AMTA2024**).
-
-- Raj Dabre, **Haiyue Song**. 
-NICT's Cascaded and End-To-End Speech Translation Systems using
-Whisper and IndicTrans2 for the Indic Task.
-The International Conference on Spoken Language Translation (**IWSLT 2024**). Ranked 1st out of 4 teams.
-
-- **Haiyue Song**, Francois Meyer, Raj Dabre, Hideki Tanaka, Chenhui Chu, and Sadao Kurohashi. 
-SubMerge: Merging Equivalent Subword Tokenizations for Subword Regularized Models in Neural Machine Translation.
-The 25th Annual Conference of the European Association for Machine Translation (**EAMT 2024**).
-
-- **Haiyue Song**, Hour Kaing, and Raj Dabre.
-Linguistically Motivated Neural Machine Translation. (Tutorial)
-The 25th Annual Conference of the European Association for Machine Translation (**EAMT 2024**). [\[repo\]](https://github.com/prajdabre/eamt24-linguistic-mt), [\[paper\]](files/EAMT24_tutorial.pdf)
-
-- Abhisek Chakrabarty, **Haiyue Song**, Raj Dabre, Hideki Tanaka, Masao Utiyama.
-Incorporating Hypernym Features for Improving Low-resource Neural Machine Translation.
-First Workshop on Knowledge-Enhanced Machine Translation (**KEMT 2024**) which is co-located EAMT 2024.
-
-- Francois Meyer, **Haiyue Song**, Abhisek Chakrabarty, Jan Buys, Raj Dabre and Hideki Tanaka.
-NGLUEni: Benchmarking and Adapting Pretrained Language Models for Nguni Languages.
-Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (**LREC-COLING 2024**). Also won the best paper award at [AfricaNLP 2024](https://sites.google.com/view/africanlp2024/home). 
-
-- Yahui Fu, **Haiyue Song**, Tianyu Zhao, Tatsuya Kawahara.
-Enhancing Personality Recognition in Dialogue by Data Augmentation and Heterogeneous Conversational Graph Networks.
-The 14th International Workshop on Spoken Dialogue Systems Technology (**IWSDS2024**), Sapporo, Japan. [\[paper\]](https://arxiv.org/abs/2401.05871), [\[code\]](https://github.com/fuyahuii/Personality-Recognition-on-RealPersonaChat),
-
-- Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, **Haiyue Song**, Jiwei Li, Sadao Kurohashi.
-GPT-RE: In-context Learning for Relation Extraction using Large Language Models.
-**EMNLP2023**. [\[paper\]](https://arxiv.org/abs/2305.02105), [\[bib\]](files/EMNLP2023_1_bib.txt)
-
-- Zhuoyuan Mao, Raj Dabre, Qianying Liu, **Haiyue Song**, Chenhui Chu, and Sadao Kurohashi.
-Exploring the Impact of Layer Normalization for Zero-shot Neural Machine Translation.
-In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers), pages 1300–1316, Toronto, Canada. Association for Computational Linguistics. (**ACL2023**) [\[paper\]](https://aclanthology.org/2023.acl-short.112/), [\[bib\]](files/ACL2023_1_bib.txt)
-
-- Zhuoyuan Mao, **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi.
-Variable-length Neural Interlingua Representations for Zero-shot Neural Machine Translation.
-Proceedings of the 1st International Workshop on Multilingual, Multimodal and Multitask Language Generation (Multi3Generation) held in conjection with **EAMT2023**. [\[paper\]](https://arxiv.org/abs/2305.10190), [\[bib\]](files/EAMT2023_1_bib.txt)
-
-- Zhen Wan, Fei Cheng, Qianying Liu, Zhuoyuan Mao, **Haiyue Song** and Sadao Kurohashi.
-Relation Extraction with Weighted Contrastive Pre-training on Distant Supervision.
-In Findings of the Association for Computational Linguistics: **EACL2023**, pages 2580–2585, Dubrovnik, Croatia. Association for Computational Linguistics. [\[paper\]](https://aclanthology.org/2023.findings-eacl.195/), [\[bib\]](files/EACL2023_1_bib.txt)
-
-- **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Chenhui Chu and Sadao Kurohashi.
-BERTSeg: BERT Based Unsupervised Subword Segmentation for Neural Machine Translation.
-Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Volume 2: Short Papers), pages 85-94, Online. (**AACL2022**)
-[\[paper\]](https://aclanthology.org/2022.aacl-short.12/), [\[poster\]](http://lotus.kuee.kyoto-u.ac.jp/~song/publications/AACL_123_BERTSeg_poster.pdf), [\[bib\]](files/AACL2022_1_bib.txt)
-
-- Zhuoyuan Mao, Chenhui Chu, Raj Dabre, **Haiyue Song**, Zhen Wan, Sadao Kurohashi.
-When do Contrastive Word Alignments Improve Many-to-many Neural Machine Translation?
-In Findings of the Association for Computational Linguistics: **NAACL2022**, pages 1766–1775, Seattle, United States. Association for Computational Linguistics. (2022)
-[\[paper\]](https://aclanthology.org/2022.findings-naacl.134/), [\[bib\]](files/NAACL2022_1_bib.txt)
-
-- Weiqi Gu, **Haiyue Song**, Chenhui Chu and Sadao Kurohashi.
-Video-guided Machine Translation with Spatial Hierarchical Attention Network.
-Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing: Student Research Workshop, Online (**ACL2021 Student Workshop**).
-[\[paper\]](https://aclanthology.org/2021.acl-srw.9/), [\[bib\]](files/ACL2021_1_bib.txt)
-
-- Akiko Aizawa, Frederic Bergeron, Junjie Chen, Fei Cheng, Katsuhiko Hayashi, Kentaro Inui, Hiroyoshi Ito, Daisuke Kawahara, Masaru Kitsuregawa, Hirokazu Kiyomaru, Masaki Kobayashi, Takashi Kodama, Sadao Kurohashi, Qianying Liu, Masaki Matsubara, Yusuke Miyao, Atsuyuki Morishima, Yugo Murawaki, Kazumasa Omura, **Haiyue Song**, Eiichiro Sumita, Shinji Suzuki, Ribeka Tanaka, Yu Tanaka, Masashi Toyoda, Nobuhiro Ueda, Honai Ueoka, Masao Utiyama, Ying Zhong (**in alphabetical order**).  
-A System for Worldwide COVID-19 Information Aggregation.
-**NLP-COVID19@ACL2020** and **NLP-COVID19 (part2)@EMNLP2020**
-[\[paper\]](https://www.aclweb.org/anthology/2020.nlpcovid19-2.13/), [\[code\]](https://github.com/NLPforCOVID-19), [\[dataset\]](https://github.com/NLPforCOVID-19/covid-19-dataset), [\[bib\]](files/ACL2020_1_bib.txt)
-
-- **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Fei Cheng, Sadao Kurohashi and Eiichiro Sumita.  Pre-training via Leveraging Assisting Languages for Neural Machine Translation. Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop, pp.279-285, Seattle, Washington, United States, (2020, 7). (**ACL2020SRW**) [\[paper\]](files/ACL2020SRW_Song_paper.pdf), [\[arXiv version paper\]](files/ACL2020SRW_Song_paper_arxiv_version.pdf), [\[slides\]](files/ACL2020SRW_Song_slides.pdf), [\[bib\]](files/ACL2020SRW_Song_bib.txt)
-
-- **Haiyue Song**, Raj Dabre, Atsushi Fujita and Sadao Kurohashi. Coursera Corpus Mining and Multistage Fine-Tuning for Improving Lectures Translation. Proceedings of the 12th International Conference on Language Resources and Evaluation, pp.3640‑3649, Marseille, France, (2020.5). (**LREC2020**) [\[code\]](https://github.com/shyyhs/CourseraParallelCorpusMining), [\[paper\]](files/LREC2020_Song_paper_fromLREC.pdf), [\[bib\]](files/LREC2020_Song_bib.txt)
-
-- Zhuoyuan Mao, Fabien Cromieres, Raj Dabre, **Haiyue Song** and Sadao Kurohashi. JASS: Japanese-specific Sequence to Sequence Pre-training for Neural Machine Translation. Proceedings of the 12th International Conference on Language Resources and Evaluation, pp.3683‑3691, Marseille, France, (2020.5). (**LREC2020**) [\[paper\]](files/LREC2020_Mao_paper.pdf), [\[bib\]](files/LREC2020_Mao_bib.txt)
-
-- **Haiyue Song**, Chengwen Xu, Qiang Xu, Zhuoran Song, Naifeng Jing, Xiaoyao Liang, Li Jiang.  Invocation-driven neural approximate computing with a multiclass-classifier and multiple approximators. In Proceedings of the International Conference on Computer-Aided Design, pp.50, San Diego, CA, USA, (2018.11). (**ICCAD2018**) [\[paper\]](files/ICCAD2018_Song_paper.pdf), [\[slides\]](files/ICCAD2018_Song_slides.pdf), [\[bib\]](files/ICCAD2018_Song_bib.txt)
-
-- **Haiyue Song**, Xiang Song, Tianjian Li, Hao Dong, Naifeng Jing, Xiaoyao Liang, Li Jiang. A FPGA Friendly Approximate Computing Framework with Hybrid Neural Networks (Abstract Only). In Proceedings of the 2018 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays, pp.286, Monterey, CA, USA, (2018.2). (**FPGA2018**) [\[abstract\]](https://dl.acm.org/doi/10.1145/3174243.3174965), [\[poster\]](files/FPGA2018_Song_poster.pdf), [\[bib\]](files/FPGA2018_Song_bib.txt)
-
-
-## Domestic Conference (non peer-reviewed) 
-
--  **宋 海越** (NICT), Johannes Eschbach-Dymanus (SAP), Hour Kaing (NICT), Sumire Honda (SAP), 田中 英輝 (NICT), Bianka Buschbeck (SAP), 内山 将夫 (NICT). 	FormatRL: Format Reinforcement Learning for Structured Document Translation. 言語処理学会第32回年次大会（NLP2026）, 宇都宮,(2026.3).
-
-- Haotian Ye (LMU), **○◊宋 海越**, Hour Kaing, 丁 塵辰, 田中 英輝, 内山 将夫 (NICT). Profanity as a cue: when LLMs mistake toxicity for hate. 言語処理学会第32回年次大会（NLP2026）, 宇都宮,(2026.3).
-
-- 呂 博軒 (Science Tokyo), **宋 海越** (NICT), 上垣外 英剛 (NAIST), 田中 英輝 (NICT), 内山 将夫 (NICT), 船越 孝太郎 (Science Tokyo), 奥村 学 (Science Tokyo). 生成型自動評価指標のための最小ベイズリスク復号. 第20回言語処理若手シンポジウム(YANS2025).
-
-- Hour Kaing, **宋 海越** (as presenter), 丁 塵辰, 毛 剣楠, 田中 英輝, 内山 将夫. Towards Scene Text Translation for Complex Writing Systems
-言語処理学会 第31回年次大会, 長崎, (2025.3).
-
-- Hour Kaing, Chenchen Ding, **Haiyue Song**, Jiannan Mao, Hideki Tanaka, and Masao Utiyama.
-Robust Neural Machine Translation for Abugidas by Glyph Perturbation
-言語処理学会 第30回年次大会,  神戸, (2024.3).
-
-- **Haiyue Song**, Raj Dabre, Chenhui Chu and Sadao Kurohashi.
-Large Pre-trained Language Models with Multilingual Prompt for Japanese Natural Language Tasks
-言語処理学会 第29回年次大会,  沖縄,  (2023.3)
-
-- **Haiyue Song**, Raj Dabre, Zhuoyuan Mao, Chenhui Chu and Sadao Kurohashi.
-Representative Data Selection for Sequence-to-Sequence Pre-training
-言語処理学会 第28回年次大会,  pp.1-5,  (2022.3)
-
-- Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, **Haiyue Song**, Sadao Kurohashi.
-Improving Medical Relation Extraction with Distantly Supervised Pre-training,
-言語処理学会 第28回年次大会, 浜松,  (2022.3)
-
-- **Haiyue Song**, Raj Dabre, Chenhui Chu, Sadao Kurohashi, and Eiichiro Sumita.
-Self-supervised Dynamic Programming Encoding for Neural Machine Translation
-言語処理学会 第27回年次大会, 北九州, (2021.3).
-
-- Weiqi Gu, **Haiyue Song**, Chenhui Chu, and Sadao Kurohashi.
-Video-guided Machine Translation with Spatial Hierarchical Attention Network Encoder
-言語処理学会 第27回年次大会, 北九州, (2021.3).
-
-- **Haiyue Song**, Raj Dabre, Atsushi Fujita, Sadao Kurohashi.  
-Domain Adaptation of Neural Machine Translation through Multistage Fine-Tuning  
-言語処理学会第26回年次大会, pp.461-464, 茨城,  (2020.3). 
-
-- Zhuoyuan Mao, Raj Dabre, Fabien Cromieres, **Haiyue Song**, 中尾 亮太, 黒橋 禎夫.  
-ニューラル機械翻訳のための言語知識に基づくマルチタスク事前学習  
-言語処理学会第26回年次大会, pp.1061-1064, 茨城,  (2020.3). 
-
-## Grants
-
-- 2025〜2026 Grant-in-Aid for Early-Career Scientists (若手研究). [Improving Large Language Models for Low-Resource Languages with Diverse Writing Systems](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K21290/)
-
-- 2021〜2023 Research Fellowships for Young Scientists (DC1). [Multilingual Corpus Construction and Domain Adaptation for Low-Resource Machine Translation](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22KJ1724/)
-
-## Other Presentations
-
-- Presentation at 第14回入力メソッドワークショップ (IM 2022)
-[\[link\]](https://github.com/mamorlis/chaime/wiki/im2022)
-
-- Presentation at CJNLP 2024
-[\[link\]](https://www.ics.nara-wu.ac.jp/~sudoh/cjnlp2024/index.html)
-
-- Presentation at 2022年度 京都大学 情報学研究科 知能情報学専攻 シンポジウム
-
-- Lecture at 知能情報学演習
-
-# Other Activities 
-
-- Area chair of ARR 2025, ARR 2026 March.
-- Website chair of EMNLP2025.
+- Area Chair: ARR 2025, ARR 2026 March.
+- Website Chair: [EMNLP 2025](https://2025.emnlp.org/).
 - Candidate for KAKENHI Review Committee Member 2026.
-- Co-organizer of [WAT2024](https://lotus.kuee.kyoto-u.ac.jp/WAT), [English-Indic Language Document Translation Task](https://sites.google.com/view/indic-doc/) in [WAT2025](http://orchid.kuee.kyoto-u.ac.jp/WAT/WAT2025/index.html).
-- Mentor of AACL2020-SRW.
-- Award Selection Committee for ANLP (in Japan) 2026.
-- Reviewer of JNLP2026, EAMT2026, TALLIP2026, IEICE2026, ARR2026 January, LREC2026, JNLP2026, IJCNLP-AACL2025, WAT2025, EMNLP2025, ACL2025, COLING2025, NLPCC2024, TASLP2024, AMTA2024, LREC-COLING2024, Four rounds of ARR2024, TALLIP2024, TASLP2023, TALLIP2023, ARR2023, APSIPA ASC2023, EMNLP2023, ACL2023, EMNLP2022, EMNLP2021, EMNLP2020, IJCNLP2020, WAT2020, etc.
+- Co-organizer: [WAT 2024](https://lotus.kuee.kyoto-u.ac.jp/WAT), and the [English-Indic Language Document Translation Task](https://sites.google.com/view/indic-doc/) at [WAT 2025](http://orchid.kuee.kyoto-u.ac.jp/WAT/WAT2025/index.html).
+- Mentor: AACL 2020 Student Research Workshop.
+- Award Selection Committee: ANLP (in Japan) 2026.
+- Reviewer: JNLP 2026, EAMT 2026, TALLIP 2026, TASLP 2026, IEICE 2026, ARR 2026 May, ARR 2026 January, LREC 2026, IJCNLP-AACL 2025, WAT 2025, EMNLP 2025, ACL 2025, COLING 2025, NLPCC 2024, TASLP 2024, AMTA 2024, LREC-COLING 2024, four rounds of ARR 2024, TALLIP 2024, TASLP 2023, TALLIP 2023, ARR 2023, APSIPA ASC 2023, EMNLP 2023, ACL 2023, EMNLP 2022, EMNLP 2021, EMNLP 2020, IJCNLP 2020, WAT 2020, etc.
 - One patent application in progress.
 
-# Hobbies
+---
 
-### Competitive Programming
+## Hobbies
 
-- Silver medal in National Olympiad in Informatics (NOI) 2013, Chengdu, China.
-- Bronze medal in Asia-Pacific Informatics Olympiad (APIO) 2013.
-- Atcoder [\[profile\]](https://atcoder.jp/users/shyyhs)
+#### Competitive Programming
 
-### Japanese
+- Silver medal at the National Olympiad in Informatics (NOI) 2013, Chengdu, China.
+- Bronze medal at the Asia-Pacific Informatics Olympiad (APIO) 2013.
+- AtCoder [profile](https://atcoder.jp/users/shyyhs).
 
-- Passed Japanese Language Proficiency Test N1 (the highest level) in 2017.
+#### Japanese
 
-### Sports
+- Passed the Japanese Language Proficiency Test N1 (the highest level) in 2017.
 
-- Ski (current focus). Ski Association of Japan (SAJ) [Badge Test](https://snowjapanlicence.com/5-1test/) Level-2. This winter (25--26) my home ski resort will be [Takasu Mountains](https://www.takasumountains.com/), and I'll also go to [Hakuba](https://www.hakubavalley.com/) and [Shiga kogen](https://shigakogen-ski.or.jp/english/index.html).
-- Marathon. Finisher of the full course of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html) and [Biwako Marathon 2024](https://biwako-marathon.com/)
+#### Sports
+
+- Ski (current focus). Ski Association of Japan (SAJ) [Badge Test](https://snowjapanlicence.com/5-1test/) Level-2. This winter (26-27) my home ski resort will be [Takasu Mountains](https://www.takasumountains.com/).
+- Marathon. Finisher of the full course of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html) and the [Biwako Marathon 2024](https://biwako-marathon.com/).
 - Mountain climbing. [Mt. Shirouma](https://en.wikipedia.org/wiki/Mount_Shirouma), [Mt. Kita](https://en.wikipedia.org/wiki/Mount_Kita), [Mt. Yake](https://en.wikipedia.org/wiki/Mount_Yake), Mt. Fuji, etc.

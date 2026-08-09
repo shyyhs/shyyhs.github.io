@@ -1,2 +1,15 @@
-_site/
-
+_site
+.bundle
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.DS_store
+.DS_Store
+.history/
+.ruby-version
+.tweet-cache
+assets/libs/
+node_modules/
+vendor
+.idea
+.venv
