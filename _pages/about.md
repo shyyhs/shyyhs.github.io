@@ -150,9 +150,3 @@ Supervised by Prof. [Li Jiang](http://www.cs.sjtu.edu.cn/~jiangli/).
 - Mountain climbing. [Mt. Shirouma](https://en.wikipedia.org/wiki/Mount_Shirouma), [Mt. Kita](https://en.wikipedia.org/wiki/Mount_Kita), [Mt. Yake](https://en.wikipedia.org/wiki/Mount_Yake), Mt. Fuji, etc.
 
 </div>
-
-<div class="about-card" style="text-align: center;">
-  <div id="visitor-globe" style="display: flex; justify-content: center;">
-    <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=SuUk9P6IERYYQ1UzdUCaWOs2W8kXrDmiMqmls2It-fY"></script>
-  </div>
-</div>
