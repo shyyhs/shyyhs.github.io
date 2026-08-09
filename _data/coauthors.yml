@@ -1,34 +1,106 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+# Coauthor links rendered on author lines by _layouts/bib.liquid.
+# Key = lowercase last name; firstname is a list of accepted first-name spellings.
+# Homepages preferred; Google Scholar profiles otherwise.
+# All URLs verified reachable, and Scholar IDs identity-checked, on 2026-08-09.
+"dabre":
+  - firstname: ["Raj"]
+    url: https://prajdabre.github.io/
+"kurohashi":
+  - firstname: ["Sadao"]
+    url: https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/
+"chu":
+  - firstname: ["Chenhui"]
+    url: https://researchmap.jp/chu/?lang=english
+"utiyama":
+  - firstname: ["Masao"]
+    url: https://researchmap.jp/mutiyama?lang=en
+"mao":
+  - firstname: ["Zhuoyuan"]
+    url: http://lotus.kuee.kyoto-u.ac.jp/~zhuoyuanmao/mao.html
+  - firstname: ["Jiannan"]
+    url: https://researchmap.jp/jiannan_mao?lang=en
+"meyer":
+  - firstname: ["Francois"]
+    url: https://francois-meyer.github.io/
+"fujita":
+  - firstname: ["Atsushi"]
+    url: https://researchmap.jp/afujita?lang=en
+"fu":
+  - firstname: ["Yahui"]
+    url: https://fuyahuii.github.io/
+"aji":
+  - firstname: ["Alham Fikri"]
+    url: https://afaji.github.io/
+"kunchukuttan":
+  - firstname: ["Anoop"]
+    url: https://anoopkunchukuttan.gitlab.io/
+"kanojia":
+  - firstname: ["Diptesh"]
+    url: https://dipteshkanojia.github.io/
+"kamigaito":
+  - firstname: ["Hidetaka"]
+    url: https://sites.google.com/site/hidetakakamigaito
+"eger":
+  - firstname: ["Steffen"]
+    url: https://steffeneger.github.io/
+"qu":
+  - firstname: ["Zhi"]
+    url: https://zhiqu22.github.io/
+"jiang":
+  - firstname: ["Li"]
+    url: http://www.cs.sjtu.edu.cn/~jiangli/
+"okumura":
+  - firstname: ["Manabu"]
+    url: https://researchmap.jp/read0069366?lang=en
+"kaing":
+  - firstname: ["Hour"]
+    url: https://scholar.google.com/citations?user=zJ0wGWoAAAAJ&hl=en
+"cheng":
+  - firstname: ["Fei"]
+    url: https://scholar.google.co.jp/citations?user=LlRE2jAAAAAJ&hl=en
+"kawahara":
+  - firstname: ["Tatsuya"]
+    url: https://scholar.google.com/citations?user=o3AmlFYAAAAJ&hl=en
+"sumita":
+  - firstname: ["Eiichiro"]
+    url: https://scholar.google.com/citations?user=AgC7dTQAAAAJ&hl=en
+"tanaka":
+  - firstname: ["Hideki"]
+    url: https://scholar.google.com/citations?user=V72tg8UAAAAJ&hl=en
+"funakoshi":
+  - firstname: ["Kotaro"]
+    url: https://scholar.google.com/citations?user=UhXijg8AAAAJ&hl=en
+"leiter":
+  - firstname: ["Christoph"]
+    url: https://scholar.google.com/citations?user=WCoiKVsAAAAJ&hl=en
+"liu":
+  - firstname: ["Qianying"]
+    url: https://scholar.google.com/citations?user=DTm20CoAAAAJ&hl=en
+"wan":
+  - firstname: ["Zhen"]
+    url: https://scholar.google.com/citations?user=OH_1qwMAAAAJ&hl=en
+"joshi":
+  - firstname: ["Aditya"]
+    url: https://scholar.google.com/citations?user=SbYRrvgAAAAJ&hl=en
+"wibowo":
+  - firstname: ["Haryo Akbarianto"]
+    url: https://scholar.google.com/citations?user=X5tK6xsAAAAJ&hl=en
+"tran":
+  - firstname: ["Van-Hien"]
+    url: https://scholar.google.com/citations?user=Pi48KT8AAAAJ&hl=en
+# Jin Tei is the former Chenchen Ding (name change); both bib spellings link to the same page.
+"tei":
+  - firstname: ["Jin"]
+    url: https://att-astrec.nict.go.jp/member/tei/
+"ding":
+  - firstname: ["Chenchen"]
+    url: https://att-astrec.nict.go.jp/member/tei/
+"lyu":
+  - firstname: ["Boxuan"]
+    url: https://boxuan-lyu.github.io/
+"eschbach-dymanus":
+  - firstname: ["Johannes"]
+    url: https://www.linkedin.com/in/johannes-eschbach-dymanus/
+"buschbeck":
+  - firstname: ["Bianka"]
+    url: https://www.linkedin.com/in/bianka-buschbeck-a830b87/
