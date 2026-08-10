@@ -1,0 +1,11 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "shyyhs-visitor-stats",
+  "main": "src/index.js",
+  "compatibility_date": "2026-08-11",
+  "vars": {
+    "ALLOWED_ORIGIN": "https://shyyhs.github.io",
+    "GOATCOUNTER_CODE": "shyyhs",
+    "TRACKING_START": "2026-08-11"
+  }
+}

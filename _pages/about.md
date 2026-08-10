@@ -147,3 +147,7 @@ Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8Y
 - Mountain climbing. [Mt. Shirouma](https://en.wikipedia.org/wiki/Mount_Shirouma), [Mt. Kita](https://en.wikipedia.org/wiki/Mount_Kita), [Mt. Yake](https://en.wikipedia.org/wiki/Mount_Yake), Mt. Fuji, etc.
 
 </div>
+
+{% if site.visitor_map.enabled %}
+  {% include visitor_map.liquid %}
+{% endif %}
