@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: '宋海越 · LLM Engineer at <a href="https://www.preferred.jp/en/">Preferred Networks</a>'
+subtitle: '宋海越 · LLM Engineer at Preferred Networks'
 
 profile:
   align: right
@@ -32,10 +32,9 @@ latest_posts:
 </div>
 
 I am an LLM engineer at Preferred Networks, working on post-training. Before that, I
-was a technical researcher at [NICT](https://www.nict.go.jp/en/), working on machine
+was a technical researcher at NICT, working on machine
 translation. I received my Ph.D. from Kyoto University in 2024, advised by
-Prof. [Sadao Kurohashi](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/) and
-Prof. [Chenhui Chu](https://researchmap.jp/chu/?lang=english).
+Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/).
 
 My research interests center on large language models, including agent harness, long-context,
 reinforcement learning, and continual pre-training. Previously, I worked on machine
@@ -57,14 +56,14 @@ translation, especially in low-resource, multilingual, and multimodal scenarios.
 
 #### Kyoto University
 
-Supervised by Prof. [Sadao Kurohashi](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/) and Prof. [Chenhui Chu](https://researchmap.jp/chu/?lang=english).
+Supervised by Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/) and Prof. [Chenhui Chu](https://researchmap.jp/chu/?lang=english).
 
 - Ph.D. in Intelligence Science and Technology, _October 2020 - March 2024_
 - Master in Intelligence Science and Technology, _October 2018 - September 2020_
 
 #### Shanghai Jiao Tong University
 
-Supervised by Prof. [Li Jiang](http://www.cs.sjtu.edu.cn/~jiangli/).
+Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8YAAAAJ&hl=en).
 
 - Bachelor of Computer Science and Technology, _September 2014 - July 2018_
 - Minor in Japanese, School of Foreign Languages, _February 2015 - July 2018_
@@ -127,7 +126,7 @@ Supervised by Prof. [Li Jiang](http://www.cs.sjtu.edu.cn/~jiangli/).
 
 </div>
 
-<div class="about-card" markdown="1">
+<div class="about-card" data-nosnippet markdown="1">
 
 ## Hobbies
 
