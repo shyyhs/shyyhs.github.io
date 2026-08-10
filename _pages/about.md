@@ -8,8 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>haiyuesong at preferred.jp</p>
 
 selected_papers: false # rendered manually in the page body below to keep the section order
 social: false # social icons are rendered manually near the top of the page instead
