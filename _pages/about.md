@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: '宋海越 · LLM Engineer at <a href="https://www.preferred.jp/en/">Preferred Networks</a>'
 
 profile:
   align: right
@@ -10,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # rendered manually in the page body below to keep the section order
-social: false # social icons are rendered manually near the top of the page instead
+social: false
 
 announcements:
   enabled: false # rendered manually in the page body below to keep the section order
@@ -27,21 +26,21 @@ latest_posts:
   }
 </style>
 
-<div class="social" style="margin: 0.2rem 0 1.2rem 0;">
-  <div class="contact-icons" style="font-size: 2.3rem;">{% social_links %}</div>
-</div>
-
-I am an LLM engineer at Preferred Networks, working on post-training. Before that, I
-was a technical researcher at [NICT](https://www.nict.go.jp/en/), working on machine
-translation. I received my Ph.D. from Kyoto University in 2024, advised by
-Prof. [Sadao Kurohashi](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/) and
-Prof. [Chenhui Chu](https://researchmap.jp/chu/?lang=english).
+I am an LLM engineer at Preferred Networks, working on post-training. Previously, I worked at
+the National Institute of Information and Communications Technology. I received my Ph.D. in
+Informatics from Kyoto University in 2024 under the supervision of
+Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/).
 
 My research interests center on large language models, including agent harness, long-context,
 reinforcement learning, and continual pre-training. Previously, I worked on machine
 translation, especially in low-resource, multilingual, and multimodal scenarios.
 
-<a href="/publications/" style="text-decoration: underline;"><b>[Publications]</b></a>
+<div class="about-links-row">
+  <a class="publications-link" href="/publications/"><b>[Publications]</b></a>
+  <div class="social">
+    <div class="contact-icons">{% social_links %}</div>
+  </div>
+</div>
 
 <div class="about-card" markdown="1">
 
@@ -57,14 +56,14 @@ translation, especially in low-resource, multilingual, and multimodal scenarios.
 
 #### Kyoto University
 
-Supervised by Prof. [Sadao Kurohashi](https://nlp.ist.i.kyoto-u.ac.jp/member/kuro/) and Prof. [Chenhui Chu](https://researchmap.jp/chu/?lang=english).
+Supervised by Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/) and Prof. [Chenhui Chu](https://researchmap.jp/chu/?lang=english).
 
 - Ph.D. in Intelligence Science and Technology, _October 2020 - March 2024_
 - Master in Intelligence Science and Technology, _October 2018 - September 2020_
 
 #### Shanghai Jiao Tong University
 
-Supervised by Prof. [Li Jiang](http://www.cs.sjtu.edu.cn/~jiangli/).
+Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8YAAAAJ&hl=en).
 
 - Bachelor of Computer Science and Technology, _September 2014 - July 2018_
 - Minor in Japanese, School of Foreign Languages, _February 2015 - July 2018_
@@ -98,7 +97,7 @@ Supervised by Prof. [Li Jiang](http://www.cs.sjtu.edu.cn/~jiangli/).
 
 #### LINE
 
-- Internship, machine learning team, _February 2019 - March 2019_ ([summary report](https://engineering.linecorp.com/ja/blog/line-sticker-deep-learning/))
+- Internship, machine learning team, _February 2019 - March 2019_ <!-- ([summary report](https://engineering.linecorp.com/ja/blog/line-sticker-deep-learning/)) -->
 
 </div>
 
@@ -127,7 +126,7 @@ Supervised by Prof. [Li Jiang](http://www.cs.sjtu.edu.cn/~jiangli/).
 
 </div>
 
-<div class="about-card" markdown="1">
+<div class="about-card" data-nosnippet markdown="1">
 
 ## Hobbies
 

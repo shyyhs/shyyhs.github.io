@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Serving as Website Chair for [EMNLP 2025](https://2025.emnlp.org/).
+Serving as Website Chair for EMNLP 2025.
