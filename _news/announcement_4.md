@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Organizing the [English-Indic Language Document Translation Task](https://sites.google.com/view/indic-doc/) at [WAT 2025](http://orchid.kuee.kyoto-u.ac.jp/WAT/WAT2025/index.html).
+Organizing the English-Indic Language Document Translation Task at WAT 2025.

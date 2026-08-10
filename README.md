@@ -1,6 +1,6 @@
 # shyyhs.github.io
 
-Personal academic homepage of Haiyue Song (宋海越) — <https://shyyhs.github.io>
+Personal academic homepage of Haiyue Song — <https://shyyhs.github.io>
 
 Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com/alshedivat/al-folio) theme (v0.16.3).
 

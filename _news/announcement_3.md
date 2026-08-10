@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Obtained a **Grant-in-Aid for Early-Career Scientists (若手研究)**!
+Obtained a **Grant-in-Aid for Early-Career Scientists**!

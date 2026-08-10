@@ -71,6 +71,33 @@ html[data-theme="dark"] .contact-icons {
   }
 }
 
+@media (min-width: 576px) {
+  .about-profile {
+    width: 24%;
+  }
+}
+
+.about-links-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+
+  .publications-link {
+    text-decoration: underline;
+  }
+
+  .social {
+    margin-left: auto;
+  }
+
+  .contact-icons {
+    font-size: 2rem;
+    line-height: 1;
+    white-space: nowrap;
+  }
+}
+
 // Subtle shadow on the venue badges (AACL, LREC, ...).
 .publications abbr.badge {
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.22);
@@ -87,8 +114,7 @@ html[data-theme="dark"] .contact-icons {
   color: var(--global-theme-color);
 }
 
-// Card-style sections on the about page (Education, Work Experience, ...),
-// with the section title in the theme color.
+// Card-style sections on the about page (Education, Work Experience, ...).
 .about-card {
   background-color: var(--global-card-bg-color);
   border: 1px solid var(--global-divider-color);
@@ -98,7 +124,7 @@ html[data-theme="dark"] .contact-icons {
   margin: 1.8rem 0;
 
   h2 {
-    color: var(--global-theme-color);
+    color: var(--global-text-color);
     margin-top: 0;
     margin-bottom: 1.1rem;
   }

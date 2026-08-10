@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented [a tutorial](https://github.com/surrey-nlp/COLING-Tutorial-LowResScene-2025) at **COLING 2025**.
+Presented a tutorial at **COLING 2025**.
