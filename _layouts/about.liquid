@@ -10,6 +10,7 @@ layout: default
       {% else %}
         {{ site.title }}
       {% endif %}
+      {% if site.cjk_name %}<span class="post-title-cjk">{{ site.cjk_name }}</span>{% endif %}
     </h1>
     {% if page.subtitle %}
       <p class="desc">{{ page.subtitle }}</p>

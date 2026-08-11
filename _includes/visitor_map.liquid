@@ -1,0 +1,22 @@
+<section
+  class="visitor-map-card"
+  data-nosnippet
+  data-visitor-map
+  data-endpoint="{{ site.visitor_map.endpoint }}"
+  data-world-url="{{ site.visitor_map.world_data_url }}"
+  data-country-url="{{ site.visitor_map.country_data_url }}"
+  aria-label="Visitor activity"
+>
+  <div class="visitor-map-layout">
+    <div class="visitor-map-canvas" data-visitor-map-canvas aria-label="World map showing visitor activity by country"></div>
+    <aside class="visitor-map-sidebar">
+      <div class="visitor-map-total">
+        <span>Total visitors</span>
+        <strong data-visitor-total>0</strong>
+      </div>
+      <ol class="visitor-country-ranking" data-visitor-ranking aria-label="Top visitor countries"></ol>
+    </aside>
+  </div>
+</section>
+
+<script type="module" src="{{ '/assets/js/visitor-map.js' | relative_url | bust_file_cache }}"></script>

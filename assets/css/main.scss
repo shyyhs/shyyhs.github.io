@@ -77,6 +77,14 @@ html[data-theme="dark"] .contact-icons {
   }
 }
 
+// CJK name shown smaller next to the page title (cjk_name in _config.yml).
+.post-title-cjk {
+  font-size: 0.45em;
+  font-weight: 400;
+  margin-left: 0.75rem;
+  letter-spacing: 0.05em;
+}
+
 .about-links-row {
   display: flex;
   align-items: center;
@@ -136,129 +144,172 @@ html[data-theme="dark"] .about-card {
     0 0 0 1px rgba(255, 255, 255, 0.05);
 }
 
-// Visitor map (about page). Choropleth colors follow the theme: olive ramp in
-// light mode, sky-blue ramp in dark mode.
-:root {
-  --vmap-land: #e7ecdf;
-  --vmap-border: var(--global-card-bg-color);
-  --vmap-l1: #d6e4bc;
-  --vmap-l2: #bcd492;
-  --vmap-l3: #9dbf67;
-  --vmap-l4: #7ea844;
-  --vmap-l5: #567f26;
-}
-html[data-theme="dark"] {
-  --vmap-land: #2c3136;
-  --vmap-l1: #24404f;
-  --vmap-l2: #295a72;
-  --vmap-l3: #337b9c;
-  --vmap-l4: #5da8c9;
-  --vmap-l5: #95daf3;
+.visitor-map-card {
+  --visitor-map-accent: #2563eb;
+  --visitor-country: #d8dee5;
+  --visitor-border: #fff;
+  --visitor-level-1: #dbeafe;
+  --visitor-level-2: #bfdbfe;
+  --visitor-level-3: #93c5fd;
+  --visitor-level-4: #60a5fa;
+  --visitor-level-5: #2563eb;
+  overflow: hidden;
+  margin: 1.8rem 0;
+  background: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
 }
 
-.visitors-card {
-  position: relative;
+html[data-theme="dark"] .visitor-map-card {
+  --visitor-map-accent: #60a5fa;
+  --visitor-country: #303741;
+  --visitor-border: #171b21;
+  --visitor-level-1: #263f65;
+  --visitor-level-2: #31598b;
+  --visitor-level-3: #3f76b8;
+  --visitor-level-4: #5594dc;
+  --visitor-level-5: #79b8ff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.24);
+}
 
-  .visitor-summary {
+.visitor-map-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 2.15fr) minmax(240px, 0.85fr);
+}
+
+.visitor-map-canvas {
+  min-height: 340px;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  border-right: 1px solid var(--global-divider-color);
+
+  svg {
+    width: 100%;
+    height: 100%;
+    min-height: 340px;
+    display: block;
+  }
+}
+
+.visitor-map-country {
+  fill: var(--visitor-country);
+  stroke: var(--visitor-border);
+  stroke-width: 0.6;
+  vector-effect: non-scaling-stroke;
+  transition: fill 160ms ease;
+
+  &[data-level="1"] {
+    fill: var(--visitor-level-1);
+  }
+
+  &[data-level="2"] {
+    fill: var(--visitor-level-2);
+  }
+
+  &[data-level="3"] {
+    fill: var(--visitor-level-3);
+  }
+
+  &[data-level="4"] {
+    fill: var(--visitor-level-4);
+  }
+
+  &[data-level="5"] {
+    fill: var(--visitor-level-5);
+  }
+
+  &[data-visitors]:hover {
+    filter: brightness(1.08);
+  }
+}
+
+.visitor-map-sidebar {
+  min-width: 0;
+  padding: 1rem 1.15rem;
+}
+
+.visitor-map-total {
+  padding-bottom: 0.55rem;
+
+  span {
+    color: var(--global-text-color-light);
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  strong {
+    margin-top: 0.2rem;
+    display: block;
+    color: var(--visitor-map-accent);
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    font-weight: 500;
+    letter-spacing: -0.04em;
+    line-height: 1;
+  }
+}
+
+.visitor-country-ranking {
+  padding: 0.35rem 0 0;
+  margin: 0;
+  list-style: none;
+
+  li {
+    padding: 0.32rem 0;
     display: flex;
     align-items: baseline;
-    gap: 1.4rem;
-    flex-wrap: wrap;
-    margin-bottom: 0.6rem;
-
-    .visitor-stat b {
-      font-size: 1.4rem;
-    }
-    .visitor-stat span {
-      color: var(--global-text-color-light);
-      font-size: 0.85rem;
-      margin-left: 0.3rem;
-    }
+    justify-content: space-between;
+    gap: 0.8rem;
+    font-size: 0.88rem;
   }
 
-  .visitor-map svg {
-    display: block;
-    width: 100%;
-    height: auto;
+  strong {
+    color: var(--visitor-map-accent);
+    font-size: 1.05rem;
+    font-weight: 600;
+  }
+}
 
-    path {
-      fill: var(--vmap-land);
-      stroke: var(--vmap-border);
-      stroke-width: 0.5;
-      transition: fill 0.2s ease;
+.visitor-country-name {
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
 
-      &[data-level="1"] { fill: var(--vmap-l1); }
-      &[data-level="2"] { fill: var(--vmap-l2); }
-      &[data-level="3"] { fill: var(--vmap-l3); }
-      &[data-level="4"] { fill: var(--vmap-l4); }
-      &[data-level="5"] { fill: var(--vmap-l5); }
+  img {
+    width: 20px;
+    height: 14px;
+    flex: 0 0 auto;
+    object-fit: cover;
+    border-radius: 2px;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.12);
+  }
+}
 
-      &[data-visits]:hover {
-        fill: var(--global-theme-color);
-        cursor: pointer;
-      }
-    }
+.visitor-map-error {
+  color: var(--global-text-color-light);
+  font-style: italic;
+}
+
+@media (max-width: 760px) {
+  .visitor-map-layout {
+    grid-template-columns: 1fr;
   }
 
-  .visitor-map-note {
-    color: var(--global-text-color-light);
-    text-align: center;
-    padding: 2rem 0;
-  }
+  .visitor-map-canvas {
+    min-height: 0;
+    border-right: 0;
+    border-bottom: 1px solid var(--global-divider-color);
 
-  .visitor-legend {
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    gap: 0.4rem;
-    font-size: 0.75rem;
-    color: var(--global-text-color-light);
-    margin: 0.3rem 0 0.6rem;
-
-    i {
-      width: 14px;
-      height: 8px;
-      border-radius: 2px;
-      display: inline-block;
-    }
-    i:nth-of-type(1) { background: var(--vmap-l1); }
-    i:nth-of-type(2) { background: var(--vmap-l2); }
-    i:nth-of-type(3) { background: var(--vmap-l3); }
-    i:nth-of-type(4) { background: var(--vmap-l4); }
-    i:nth-of-type(5) { background: var(--vmap-l5); }
-  }
-
-  .visitor-ranking {
-    list-style: none;
-    padding: 0;
-    margin: 0 0 0.5rem;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.4rem 1.3rem;
-    font-size: 0.92rem;
-
-    .visitor-flag {
-      font-size: 1.05rem;
+    svg {
+      min-height: 0;
     }
   }
 
-  .visitor-status {
-    color: var(--global-text-color-light);
-    font-size: 0.8rem;
-    margin-bottom: 0;
-  }
-
-  .visitor-tooltip {
-    position: absolute;
-    z-index: 10;
-    pointer-events: none;
-    background: var(--global-card-bg-color);
-    color: var(--global-text-color);
-    border: 1px solid var(--global-divider-color);
-    border-radius: 6px;
-    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
-    padding: 0.25rem 0.55rem;
-    font-size: 0.85rem;
-    white-space: nowrap;
+  .visitor-map-sidebar {
+    padding: 1rem;
   }
 }

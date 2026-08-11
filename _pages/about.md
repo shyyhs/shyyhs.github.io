@@ -26,9 +26,10 @@ latest_posts:
   }
 </style>
 
-I am an LLM engineer at Preferred Networks, working on post-training. Previously, I worked at
-the National Institute of Information and Communications Technology. I received my Ph.D. in
-Informatics from Kyoto University in 2024 under the supervision of
+I am an LLM engineer at [Preferred Networks](https://www.preferred.jp/en/), working on
+post-training. Previously, I worked at the
+[National Institute of Information and Communications Technology](https://www.nict.go.jp/en/).
+I received my Ph.D. in Informatics from Kyoto University in 2024 under the supervision of
 Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/).
 
 My research interests center on large language models, including agent harness, long-context,
@@ -148,18 +149,6 @@ Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8Y
 
 </div>
 
-<div class="about-card visitors-card" id="visitors" data-visitor-section data-visitor-endpoint="{{ site.visitor_stats_endpoint }}" data-tracking-start="{{ site.visitor_tracking_start }}">
-  <h2>Visitors</h2>
-  <div class="visitor-summary">
-    <span class="visitor-stat"><b data-visitor-total>—</b><span>visits</span></span>
-    <span class="visitor-stat"><b data-visitor-countries>—</b><span>countries / regions</span></span>
-  </div>
-  <div class="visitor-map" data-visitor-map></div>
-  <div class="visitor-legend" aria-hidden="true">
-    <span>Fewer</span><i></i><i></i><i></i><i></i><i></i><span>More</span>
-  </div>
-  <ol class="visitor-ranking" data-visitor-ranking></ol>
-  <p class="visitor-status" data-visitor-status>Loading visitor statistics…</p>
-  <div class="visitor-tooltip" data-visitor-tooltip hidden></div>
-  <script defer src="{{ '/assets/js/visitor-map.js' | relative_url }}"></script>
-</div>
+{% if site.visitor_map.enabled %}
+  {% include visitor_map.liquid %}
+{% endif %}
