@@ -135,3 +135,130 @@ html[data-theme="dark"] .about-card {
     0 4px 16px rgba(0, 0, 0, 0.45),
     0 0 0 1px rgba(255, 255, 255, 0.05);
 }
+
+// Visitor map (about page). Choropleth colors follow the theme: olive ramp in
+// light mode, sky-blue ramp in dark mode.
+:root {
+  --vmap-land: #e7ecdf;
+  --vmap-border: var(--global-card-bg-color);
+  --vmap-l1: #d6e4bc;
+  --vmap-l2: #bcd492;
+  --vmap-l3: #9dbf67;
+  --vmap-l4: #7ea844;
+  --vmap-l5: #567f26;
+}
+html[data-theme="dark"] {
+  --vmap-land: #2c3136;
+  --vmap-l1: #24404f;
+  --vmap-l2: #295a72;
+  --vmap-l3: #337b9c;
+  --vmap-l4: #5da8c9;
+  --vmap-l5: #95daf3;
+}
+
+.visitors-card {
+  position: relative;
+
+  .visitor-summary {
+    display: flex;
+    align-items: baseline;
+    gap: 1.4rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.6rem;
+
+    .visitor-stat b {
+      font-size: 1.4rem;
+    }
+    .visitor-stat span {
+      color: var(--global-text-color-light);
+      font-size: 0.85rem;
+      margin-left: 0.3rem;
+    }
+  }
+
+  .visitor-map svg {
+    display: block;
+    width: 100%;
+    height: auto;
+
+    path {
+      fill: var(--vmap-land);
+      stroke: var(--vmap-border);
+      stroke-width: 0.5;
+      transition: fill 0.2s ease;
+
+      &[data-level="1"] { fill: var(--vmap-l1); }
+      &[data-level="2"] { fill: var(--vmap-l2); }
+      &[data-level="3"] { fill: var(--vmap-l3); }
+      &[data-level="4"] { fill: var(--vmap-l4); }
+      &[data-level="5"] { fill: var(--vmap-l5); }
+
+      &[data-visits]:hover {
+        fill: var(--global-theme-color);
+        cursor: pointer;
+      }
+    }
+  }
+
+  .visitor-map-note {
+    color: var(--global-text-color-light);
+    text-align: center;
+    padding: 2rem 0;
+  }
+
+  .visitor-legend {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.4rem;
+    font-size: 0.75rem;
+    color: var(--global-text-color-light);
+    margin: 0.3rem 0 0.6rem;
+
+    i {
+      width: 14px;
+      height: 8px;
+      border-radius: 2px;
+      display: inline-block;
+    }
+    i:nth-of-type(1) { background: var(--vmap-l1); }
+    i:nth-of-type(2) { background: var(--vmap-l2); }
+    i:nth-of-type(3) { background: var(--vmap-l3); }
+    i:nth-of-type(4) { background: var(--vmap-l4); }
+    i:nth-of-type(5) { background: var(--vmap-l5); }
+  }
+
+  .visitor-ranking {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 1.3rem;
+    font-size: 0.92rem;
+
+    .visitor-flag {
+      font-size: 1.05rem;
+    }
+  }
+
+  .visitor-status {
+    color: var(--global-text-color-light);
+    font-size: 0.8rem;
+    margin-bottom: 0;
+  }
+
+  .visitor-tooltip {
+    position: absolute;
+    z-index: 10;
+    pointer-events: none;
+    background: var(--global-card-bg-color);
+    color: var(--global-text-color);
+    border: 1px solid var(--global-divider-color);
+    border-radius: 6px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    padding: 0.25rem 0.55rem;
+    font-size: 0.85rem;
+    white-space: nowrap;
+  }
+}

@@ -147,3 +147,19 @@ Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8Y
 - Mountain climbing. [Mt. Shirouma](https://en.wikipedia.org/wiki/Mount_Shirouma), [Mt. Kita](https://en.wikipedia.org/wiki/Mount_Kita), [Mt. Yake](https://en.wikipedia.org/wiki/Mount_Yake), Mt. Fuji, etc.
 
 </div>
+
+<div class="about-card visitors-card" id="visitors" data-visitor-section data-visitor-endpoint="{{ site.visitor_stats_endpoint }}" data-tracking-start="{{ site.visitor_tracking_start }}">
+  <h2>Visitors</h2>
+  <div class="visitor-summary">
+    <span class="visitor-stat"><b data-visitor-total>—</b><span>visits</span></span>
+    <span class="visitor-stat"><b data-visitor-countries>—</b><span>countries / regions</span></span>
+  </div>
+  <div class="visitor-map" data-visitor-map></div>
+  <div class="visitor-legend" aria-hidden="true">
+    <span>Fewer</span><i></i><i></i><i></i><i></i><i></i><span>More</span>
+  </div>
+  <ol class="visitor-ranking" data-visitor-ranking></ol>
+  <p class="visitor-status" data-visitor-status>Loading visitor statistics…</p>
+  <div class="visitor-tooltip" data-visitor-tooltip hidden></div>
+  <script defer src="{{ '/assets/js/visitor-map.js' | relative_url }}"></script>
+</div>

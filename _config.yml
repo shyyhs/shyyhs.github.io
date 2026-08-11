@@ -83,6 +83,14 @@ cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
+# GoatCounter (https://www.goatcounter.com/) — privacy-friendly page view counting.
+goatcounter_code: shyyhs # your GoatCounter site code; leave empty to disable tracking
+# Cloudflare Worker that proxies GoatCounter location statistics for the visitor
+# map on the about page. Leave empty until the worker (_workers/visitor-stats.js)
+# is deployed; the map then shows a "not connected yet" note.
+visitor_stats_endpoint:
+visitor_tracking_start: "2026-08-11"
+
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
