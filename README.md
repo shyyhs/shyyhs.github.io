@@ -26,3 +26,8 @@ bundle exec jekyll serve  # http://127.0.0.1:4000
 
 Pushing to `master` triggers `.github/workflows/deploy.yml`, which builds the site and
 publishes it to the `gh-pages` branch (GitHub Settings → Pages → deploy from `gh-pages`).
+
+## Maintenance guide
+
+See [docs/HANDOFF.md](docs/HANDOFF.md) for the full architecture, the publication data
+model, the visitor-map pipeline, and a "how do I change X" cheat sheet.

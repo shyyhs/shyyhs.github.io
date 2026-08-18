@@ -175,6 +175,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  - docs/
   - Gemfile
   - Gemfile.lock
   - LICENSE
