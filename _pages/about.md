@@ -26,14 +26,14 @@ latest_posts:
   }
 </style>
 
-I am an LLM engineer at [Preferred Networks](https://www.preferred.jp/en/), working on
-post-training. Previously, I worked at the
+Haiyue Song is an LLM engineer at [Preferred Networks](https://www.preferred.jp/en/), working on
+post-training. Previously, he worked at the
 [National Institute of Information and Communications Technology](https://www.nict.go.jp/en/).
-I received my Ph.D. in Informatics from Kyoto University in 2024 under the supervision of
+He received his Ph.D. in Informatics from Kyoto University in 2024 under the supervision of
 Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/).
 
-My research interests center on large language models, including agent harness, long-context,
-reinforcement learning, and continual pre-training. Previously, I worked on machine
+His current research focuses on large language models, including agent harness, long-context,
+reinforcement learning, and continual pre-training. Previously, he worked on machine
 translation, especially in low-resource, multilingual, and multimodal scenarios.
 
 <div class="about-links-row">
