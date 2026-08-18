@@ -27,15 +27,15 @@ jobs:
           end=$(date -u +%F)
           auth=(-H "Authorization: Bearer ${GC_TOKEN}" -H "Content-Type: application/json")
 
-          total=$(curl -sf --max-time 30 "${auth[@]}" \
+          total=$(curl -sf --max-time 30 --retry 3 --retry-delay 20 --retry-all-errors "${auth[@]}" \
             "https://${GC_SITE}.goatcounter.com/api/v0/stats/total?start=${TRACKING_START}&end=${end}" \
             | jq '.total // 0')
 
-          page0=$(curl -sf --max-time 30 "${auth[@]}" \
+          page0=$(curl -sf --max-time 30 --retry 3 --retry-delay 20 --retry-all-errors "${auth[@]}" \
             "https://${GC_SITE}.goatcounter.com/api/v0/stats/locations?start=${TRACKING_START}&end=${end}&limit=100")
           stats=$(echo "$page0" | jq '.stats')
           if [ "$(echo "$page0" | jq '.more')" = "true" ]; then
-            page1=$(curl -sf --max-time 30 "${auth[@]}" \
+            page1=$(curl -sf --max-time 30 --retry 3 --retry-delay 20 --retry-all-errors "${auth[@]}" \
               "https://${GC_SITE}.goatcounter.com/api/v0/stats/locations?start=${TRACKING_START}&end=${end}&limit=100&offset=100")
             stats=$(jq -n --argjson a "$stats" --argjson b "$(echo "$page1" | jq '.stats')" '$a + $b')
           fi

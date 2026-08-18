@@ -210,7 +210,9 @@ git add -A && git commit -m "..." && git push origin master
 
 ### 7.3 已知特性（不是 bug）
 
-- **jsdelivr / flagcdn 依赖**：地图库和地理数据从 CDN 加载。CDN 不可达（如中国大陆部分网络）时地图卡片显示 "Visitor data unavailable"，页面其余不受影响。要彻底去依赖可自托管这几个文件（约 700KB 入库，需改 JS 顶部两行 import）
+- **jsdelivr / flagcdn 依赖**：地图库和地理数据从 CDN 加载。CDN 不可达时地图卡片显示 "Visitor data unavailable"，页面其余不受影响。要彻底去依赖可自托管这几个文件（约 700KB 入库，需改 JS 顶部两行 import）
+- **中国大陆访客既不被计数、也看不到地图**（2026-08-18 用 chinafirewalltest 五地实测）：主页本身 `github.io` 大陆可达，但计数脚本域 `gc.zgo.at` 和地图库 CDN `cdn.jsdelivr.net` 都被封。所以 GoatCounter 后台永远没有 CN（HK/TW 有），大陆读者看到的页面底部地图为空、其余内容正常。已决定不修；要修的话计数需自托管 count.js（且需先确认上报域 `shyyhs.goatcounter.com` 是否可达），地图需自托管 CDN 资源
+- **偶发的 "Update visitor stats: All jobs have failed" 邮件**：几乎都是 GoatCounter API 瞬时 5xx/限流（日志末尾 `exit code 22` = curl 收到 HTTP 错误，脚本启动 1 秒内就挂）。工作流每小时自动重跑，一次失败只是数据晚不到一小时，零丢失；curl 已带 `--retry 3` 吸收大部分抖动。处理方式：看下一次运行是否绿了，绿了就删邮件；连续多次失败才需要查（先看 token 是否被吊销）
 - **广告拦截器**：会屏蔽 GoatCounter 脚本，开拦截器的访客不计入。所有轻量统计都如此，数字是下限
 - **数据 60 天冻结规则**：GitHub 会暂停 60 天无提交活动的仓库的 cron。但 visitor-stats 每小时自己往 visitor-data 推提交，等于内置 keepalive，实际不会触发。真触发了：收邮件 → Actions 页对该 workflow 点 Enable → 下一跑补齐全量，零丢失
 - **raw CDN 缓存**：visitor-data 更新后 raw URL 最多滞后约 5 分钟
