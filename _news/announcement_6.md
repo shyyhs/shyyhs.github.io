@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Three papers accepted to **IJCNLP-AACL 2025 Main**!
+Four papers accepted to **IJCNLP-AACL 2025** (three Main, one System Demonstrations)!
