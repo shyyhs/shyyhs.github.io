@@ -1,0 +1,54 @@
+{
+  "totalVisitors": 90,
+  "countries": [
+    {
+      "code": "JP",
+      "visitors": 52
+    },
+    {
+      "code": "US",
+      "visitors": 15
+    },
+    {
+      "code": "CA",
+      "visitors": 4
+    },
+    {
+      "code": "HK",
+      "visitors": 3
+    },
+    {
+      "code": "RU",
+      "visitors": 3
+    },
+    {
+      "code": "SG",
+      "visitors": 3
+    },
+    {
+      "code": "TW",
+      "visitors": 3
+    },
+    {
+      "code": "IN",
+      "visitors": 2
+    },
+    {
+      "code": "KR",
+      "visitors": 2
+    },
+    {
+      "code": "AE",
+      "visitors": 1
+    },
+    {
+      "code": "CN",
+      "visitors": 1
+    },
+    {
+      "code": "DE",
+      "visitors": 1
+    }
+  ],
+  "updatedAt": "2026-08-24T05:05:52Z"
+}
