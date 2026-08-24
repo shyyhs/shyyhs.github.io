@@ -87,14 +87,6 @@ openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX
 # GoatCounter (https://www.goatcounter.com/) — privacy-friendly page view counting.
 goatcounter_code: shyyhs # your GoatCounter site code; leave empty to disable tracking
 
-# Public visitor map on the about page. The endpoint JSON is refreshed hourly by
-# .github/workflows/visitor-stats.yml onto the `visitor-data` branch.
-visitor_map:
-  enabled: true
-  endpoint: https://raw.githubusercontent.com/shyyhs/shyyhs.github.io/visitor-data/visitors.json
-  world_data_url: https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json
-  country_data_url: https://cdn.jsdelivr.net/npm/world-countries@5.1.0/countries.json
-
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
