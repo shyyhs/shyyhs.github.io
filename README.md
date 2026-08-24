@@ -30,4 +30,4 @@ publishes it to the `gh-pages` branch (GitHub Settings → Pages → deploy from
 ## Maintenance guide
 
 See [docs/HANDOFF.md](docs/HANDOFF.md) for the full architecture, the publication data
-model, the visitor-map pipeline, and a "how do I change X" cheat sheet.
+model, and a "how do I change X" cheat sheet.
