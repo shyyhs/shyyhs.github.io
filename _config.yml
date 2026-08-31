@@ -295,8 +295,8 @@ filtered_bibtex_keywords:
     blog,
     category,
     code,
+    dataset,
     dimensions,
-    eprint,
     google_scholar_id,
     hal,
     html,
@@ -308,6 +308,7 @@ filtered_bibtex_keywords:
     selected,
     slides,
     supp,
+    venue_short,
     video,
     website,
   ]
