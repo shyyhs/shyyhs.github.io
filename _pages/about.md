@@ -26,10 +26,9 @@ latest_posts:
   }
 </style>
 
-Haiyue Song is an LLM engineer at [Preferred Networks](https://www.preferred.jp/en/), working on
-post-training. Previously, he worked at the
-[National Institute of Information and Communications Technology](https://www.nict.go.jp/en/).
-He received his Ph.D. in Informatics from Kyoto University in 2024 under the supervision of
+Haiyue Song is an LLM engineer at [Preferred Networks](https://www.preferred.jp/en/). 
+Previously, he worked at the [National Institute of Information and Communications Technology](https://www.nict.go.jp/en/).
+He received his Ph.D. in Informatics from Kyoto University in 2024 advised by 
 Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/).
 
 His current research focuses on large language models, including agent harness, long-context,
@@ -59,7 +58,7 @@ translation, especially in low-resource, multilingual, and multimodal scenarios.
 
 Supervised by Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/) and Prof. [Chenhui Chu](https://researchmap.jp/chu/?lang=english).
 
-- Ph.D. in Intelligence Science and Technology, _October 2020 - March 2024_
+- Ph.D. in Informatics, _October 2020 - March 2024_
 - Master in Intelligence Science and Technology, _October 2018 - September 2020_
 
 #### Shanghai Jiao Tong University
@@ -71,7 +70,7 @@ Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8Y
 
 #### Nagoya University
 
-- Exchange student, _October 2017 - February 2018_
+- Exchange student in [NUPACE](https://nupace.iee.nagoya-u.ac.jp/en/index.shtml) program, _October 2017 - February 2018_
 
 </div>
 
@@ -90,7 +89,7 @@ Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8Y
 
 #### JSPS
 
-- [Research Fellowship for Young Scientists](https://www.jsps.go.jp/english/e-pd/) (DC1), _April 2021 - June 2023_
+- Research Fellowship for Young Scientists (DC1), _April 2021 - June 2023_
 
 #### Kyoto University
 
@@ -108,21 +107,26 @@ Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8Y
 
 {% include selected_papers.liquid %}
 
-**[Full publication list](/publications/)**
-
 </div>
 
 <div class="about-card" markdown="1">
 
 ## Academic Service
 
+- Website Chair: [EMNLP 2025](https://2025.emnlp.org/organization/).
 - Area Chair: ARR 2025, ARR 2026 March.
-- Website Chair: [EMNLP 2025](https://2025.emnlp.org/).
-- Candidate for KAKENHI Review Committee Member 2026.
-- Co-organizer: [WAT 2024](https://lotus.kuee.kyoto-u.ac.jp/WAT), and the [English-Indic Language Document Translation Task](https://sites.google.com/view/indic-doc/) at [WAT 2025](http://orchid.kuee.kyoto-u.ac.jp/WAT/WAT2025/index.html).
+- Workshop Co-organizer: [WAT 2024](https://lotus.kuee.kyoto-u.ac.jp/WAT), and the [English-Indic Language Document Translation Task](https://sites.google.com/view/indic-doc/) at [WAT 2025](http://orchid.kuee.kyoto-u.ac.jp/WAT/WAT2025/index.html).
 - Mentor: AACL 2020 Student Research Workshop.
 - Award Selection Committee: ANLP (in Japan) 2026.
+- Candidate for KAKENHI Review Committee Member 2026.
 - Reviewer: JNLP 2026, EAMT 2026, TALLIP 2026, TASLP 2026, IEICE 2026, ARR 2026 May, ARR 2026 January, LREC 2026, IJCNLP-AACL 2025, WAT 2025, EMNLP 2025, ACL 2025, COLING 2025, NLPCC 2024, TASLP 2024, AMTA 2024, LREC-COLING 2024, four rounds of ARR 2024, TALLIP 2024, TASLP 2023, TALLIP 2023, ARR 2023, APSIPA ASC 2023, EMNLP 2023, ACL 2023, EMNLP 2022, EMNLP 2021, EMNLP 2020, IJCNLP 2020, WAT 2020, etc.
+
+</div>
+
+<div class="about-card" markdown="1">
+
+## Others
+
 - One patent application in progress.
 
 </div>
@@ -145,6 +149,6 @@ Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8Y
 
 - Ski (current focus). Ski Association of Japan (SAJ) [Badge Test](https://snowjapanlicence.com/5-1test/) Level-2. This winter (26-27) my home ski resort will be [Takasu Mountains](https://www.takasumountains.com/).
 - Marathon. Finisher of the full course of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html) and the [Biwako Marathon 2024](https://biwako-marathon.com/).
-- Mountain climbing. [Mt. Shirouma](https://en.wikipedia.org/wiki/Mount_Shirouma), [Mt. Kita](https://en.wikipedia.org/wiki/Mount_Kita), [Mt. Yake](https://en.wikipedia.org/wiki/Mount_Yake), Mt. Fuji, etc.
+- Mountain climbing. [Mt. Shirouma](https://en.wikipedia.org/wiki/Mount_Shirouma), [Mt. Kita](https://en.wikipedia.org/wiki/Mount_Kita), [Mt. Yake](https://en.wikipedia.org/wiki/Mount_Yake), [Mt. Fuji](https://en.wikipedia.org/wiki/Mount_Fuji), etc.
 
 </div>
