@@ -91,7 +91,7 @@ docs/HANDOFF.md             本文
 | `code={URL}`, `dataset={URL}`, `website={URL}` | Code / Dataset / Website 按钮 | 原样输出；按钮顺序固定 Paper→BibTeX→Code→Dataset，其余靠后 |
 | `award={...}`, `award_name={Oral}` | 奖项徽章 + 悬停说明 | award 支持 markdown 链接 |
 | `additional_info={, acceptance rate 19%}` | 追加在 venue 行末尾 | 记得前面带逗号空格 |
-| `accepted={true}` | venue 行显示 "Accepted to {booktitle}" 而非 "In {booktitle}" | 用于已录用未出 proceedings 的论文，此时 booktitle 写短名（如 `EMNLP 2026 Main`）；正式出版后删掉此字段并换官方 bib |
+| `accepted={true}` | venue 行显示 "Accepted to {venue_short}"（无 venue_short 时用 booktitle） | 用于已录用未出 proceedings 的论文。引用千万别自己造：条目本体用 arXiv 官方 bib（arxiv2bibtex.org 的 @misc，key 就是 arXiv ID），加 `accepted={true}` + `venue_short={EMNLP 2026 Main}`；Anthology 出版后整条换成官方 bib 并删掉这两个字段 |
 | `annotation={...}` | 作者行末尾的 ⓘ 图标 | 用于"作者按字母序"这类说明 |
 
 **六个分节**由 `_pages/publications.md` 里六个 `{% bibliography --query @*[category=xxx] %}` 驱动，节内再按年份分组。想加第七类：bib 里用新 category 值 + publications.md 加一个区块 + `_config.yml` 的 `filtered_bibtex_keywords` 里已含 `category` 不用动。

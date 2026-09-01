@@ -151,12 +151,12 @@
     <!-- Journal/Book title and date -->
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
-    {% if entry.type == 'article' %}
+    {% if entry.accepted %}
+      {% capture entrytype %}<em>Accepted to {% if entry.venue_short %}{{ entry.venue_short }}{% else %}{{ entry.booktitle }}{% endif %}</em>{% endcapture %}
+    {% elsif entry.type == 'article' %}
       {% capture entrytype %}<em>{% if entry.venue_short %}{{ entry.venue_short }}{% else %}{{ entry.journal }}{% endif %}</em>{% endcapture %}
     {% elsif proceedings contains entry.type %}
-      {% if entry.accepted %}
-        {% capture entrytype %}<em>Accepted to {{ entry.booktitle }}</em>{% endcapture %}
-      {% elsif entry.venue_short %}
+      {% if entry.venue_short %}
         {% capture entrytype %}<em>{{ entry.venue_short }}</em>{% endcapture %}
       {% else %}
         {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
@@ -199,13 +199,15 @@
       {{ entry.note | strip }}
     </div>
 
-    <!-- Links/Buttons -->
-    <div class="links">
-      {% if entry.award %}
+    <!-- Links/Buttons: awards on their own row, regular buttons below -->
+    {% if entry.award %}
+      <div class="links">
         <a class="award btn btn-sm z-depth-0" role="button">
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
         </a>
-      {% endif %}
+      </div>
+    {% endif %}
+    <div class="links">
       {% comment %} One unified Paper button: Anthology page > DOI > arXiv > local PDF. {% endcomment %}
       {% assign paper_href = '' %}
       {% if entry.html %}
@@ -273,7 +275,12 @@
         {% endif %}
       {% endif %}
       {% if entry.website %}
-        <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+        {% comment %} Grants and talks point to project/venue pages, not paper sites. {% endcomment %}
+        {% if entry.category == 'grant' or entry.category == 'presentation' %}
+          <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Link</a>
+        {% else %}
+          <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+        {% endif %}
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}

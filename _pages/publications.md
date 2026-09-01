@@ -30,12 +30,4 @@ nav_order: 2
 
   {% bibliography --query @*[category=domestic] %}
 
-  <h2 class="bibliography-section">Grants</h2>
-
-  {% bibliography --query @*[category=grant] %}
-
-  <h2 class="bibliography-section">Other Presentations</h2>
-
-  {% bibliography --query @*[category=presentation] %}
-
 </div>
