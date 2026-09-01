@@ -139,9 +139,8 @@ Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8Y
 
 <div class="publications no-previews">
 {% bibliography --group_by none --query @*[category=presentation] %}
+{% bibliography --group_by none --query @*[category=patent] %}
 </div>
-
-- One patent application in progress.
 
 </div>
 
