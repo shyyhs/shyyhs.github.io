@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-[Google Scholar](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en) · [DBLP](https://dblp.org/pers/s/Song:Haiyue.html) · [ResearchGate](https://www.researchgate.net/profile/Haiyue_Song) · [ACL Anthology](https://www.aclweb.org/anthology/people/h/haiyue-song/)
+[Google Scholar](https://scholar.google.co.jp/citations?user=IP5UyqcAAAAJ&hl=en&sortby=pubdate) · [DBLP](https://dblp.org/pers/s/Song:Haiyue.html) · [ResearchGate](https://www.researchgate.net/profile/Haiyue_Song) · [ACL Anthology](https://www.aclweb.org/anthology/people/h/haiyue-song/)
 
 <!-- Bibsearch Feature -->
 
