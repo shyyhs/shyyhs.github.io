@@ -85,6 +85,42 @@ html[data-theme="dark"] .contact-icons {
   letter-spacing: 0.05em;
 }
 
+// The CJK name opens a pronunciation popover on click.
+.post-title-cjk {
+  cursor: pointer;
+  border-bottom: 1.5px dashed var(--global-text-color-light);
+}
+.post-title-cjk:hover {
+  color: var(--global-theme-color);
+}
+.name-popover {
+  max-width: 380px;
+  font-family: inherit;
+
+  .name-card p {
+    margin-bottom: 0.4rem;
+    font-size: 0.86rem;
+  }
+  .name-card .name-card-head {
+    font-size: 1rem;
+  }
+  .name-card .name-card-ipa {
+    color: var(--global-text-color-light);
+    margin-left: 0.25rem;
+  }
+}
+.name-audio-btn {
+  background: none;
+  border: none;
+  padding: 0 0.15rem;
+  cursor: pointer;
+  color: var(--global-theme-color);
+  font-size: 0.95rem;
+}
+.name-audio-btn:hover {
+  color: var(--global-hover-color);
+}
+
 .about-links-row {
   display: flex;
   align-items: center;

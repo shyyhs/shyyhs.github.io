@@ -10,8 +10,24 @@ layout: default
       {% else %}
         {{ site.title }}
       {% endif %}
-      {% if site.cjk_name %}<span class="post-title-cjk">{{ site.cjk_name }}</span>{% endif %}
+      {% if site.cjk_name %}
+        <span class="post-title-cjk" id="cjk-name" role="button" tabindex="0" aria-label="Name pronunciation and meaning">{{ site.cjk_name }}</span>
+      {% endif %}
     </h1>
+    {% if site.cjk_name %}
+      <!-- Hidden source for the name pronunciation popover -->
+      <div id="cjk-name-card" class="d-none">
+        <div class="name-card">
+          <p class="name-card-head">
+            <strong>Sòng Hǎiyuè</strong>
+            <button type="button" class="name-audio-btn" aria-label="Play name pronunciation"><i class="fa-solid fa-volume-high"></i></button>
+            <span class="name-card-ipa">/sʊŋ xaɪ ɥɛ/</span>
+          </p>
+          <p>My family name 宋 (Sòng) comes from the State of Song (1100-286 BC).</p>
+          <p class="mb-0">My given name 海越 (Hǎiyuè) means "crossing the sea", where 海 means "sea" and 越 means "to cross".</p>
+        </div>
+      </div>
+    {% endif %}
     {% if page.subtitle %}
       <p class="desc">{{ page.subtitle }}</p>
     {% endif %}

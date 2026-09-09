@@ -58,3 +58,41 @@ $(document).ready(function () {
     trigger: "hover",
   });
 });
+
+// Pronunciation card for the CJK name in the page title
+$(document).ready(function () {
+  var $name = $("#cjk-name");
+  if ($name.length === 0) {
+    return;
+  }
+  $name.popover({
+    container: "body",
+    html: true,
+    sanitize: false,
+    trigger: "click",
+    placement: "bottom",
+    content: function () {
+      return $("#cjk-name-card").html();
+    },
+    template: '<div class="popover name-popover" role="tooltip"><div class="arrow"></div><div class="popover-body"></div></div>',
+  });
+  $name.on("keydown", function (e) {
+    if (e.key === "Enter" || e.key === " ") {
+      e.preventDefault();
+      $name.popover("toggle");
+    }
+  });
+  var nameAudio = null;
+  $(document).on("click", ".name-audio-btn", function () {
+    if (nameAudio === null) {
+      nameAudio = new Audio("/assets/audio/name-pronunciation.m4a");
+    }
+    nameAudio.currentTime = 0;
+    nameAudio.play();
+  });
+  $(document).on("click", function (e) {
+    if ($(e.target).closest("#cjk-name, .name-popover").length === 0) {
+      $name.popover("hide");
+    }
+  });
+});
