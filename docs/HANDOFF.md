@@ -84,11 +84,11 @@ docs/HANDOFF.md             本文
 | `abbr={NeurIPS}` | 左侧 venue 徽章文字 | 用会议官方简称，2025 的 AACL 写 `IJCNLP-AACL` |
 | `selected={true}` | 上首页 Selected Publications | 显示顺序 = 文件顺序 |
 | `preview={xxx.png}` | 首页 Selected 的配图 | 图放 `assets/img/publication_preview/`；论文页统一不显示图 |
-| `bibtex_show={true}` | 显示 Bib 按钮 | 弹窗里自动隐藏 category 等内部字段 |
+| `bibtex_show={true}` | 显示 Cite 按钮（弹 BibTeX） | 弹窗里自动隐藏 category 等内部字段 |
 | `html={URL}` / `doi` / `arxiv={ID}` / `pdf` | 合并渲染为**一个 Paper 按钮**，优先级 html > doi > arxiv > pdf | ACL 论文填 html=Anthology 页即可，不必再放 arxiv；本地 PDF 用 `../../files/X.pdf` 形式（见 3.3）；doi/arxiv 字段仍保留在引用里 |
 | `slides`, `poster`, `supp` | 各自按钮 | 本地文件同上 |
-| `venue_short={EMNLP 2025 Main}` | 场合行的短显示名（Main/Findings/Demos/Workshop/SRW/Tutorial 后缀） | 只改页面显示，BibTeX 弹窗仍是官方 booktitle；短名含年份时页面不再追加 ", 年份" |
-| `code={URL}`, `dataset={URL}`, `website={URL}` | Code / Dataset / Website 按钮 | 原样输出；按钮顺序固定 Paper→BibTeX→Code→Dataset，其余靠后 |
+| `venue_short={EMNLP 2025 Main}` | 场合行的短显示名（Main/Findings/Demos/Workshop/SRW/Tutorial 后缀） | 只改页面显示，Cite 弹窗（BibTeX 内容）仍是官方 booktitle；短名含年份时页面不再追加 ", 年份" |
+| `code={URL}`, `dataset={URL}`, `website={URL}` | Code / Dataset / Website 按钮 | 原样输出；按钮顺序固定 Paper→Cite→Code→Dataset，其余靠后 |
 | `award={...}`, `award_name={Oral}` | 奖项徽章 + 悬停说明 | award 支持 markdown 链接 |
 | `additional_info={, acceptance rate 19%}` | 追加在 venue 行末尾 | 记得前面带逗号空格 |
 | `accepted={true}` | venue 行显示 "Accepted to {venue_short}"（无 venue_short 时用 booktitle） | 用于已录用未出 proceedings 的论文。引用千万别自己造：条目本体用 arXiv 官方 bib（arxiv2bibtex.org 的 @misc，key 就是 arXiv ID），加 `accepted={true}` + `venue_short={EMNLP 2026 Main}`；Anthology 出版后整条换成官方 bib 并删掉这两个字段 |
