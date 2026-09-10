@@ -81,7 +81,7 @@ Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8Y
 #### Preferred Networks
 
 - Engineer, _April 2026 - present_
-  - Post-train [PLaMo](https://plamo.preferredai.jp/), a Japanese LLM built from scratch.
+  - Post-train [PLaMo](https://plamo.preferredai.jp/), our Japanese LLM built from scratch.
 
 #### National Institute of Information and Communications Technology (NICT)
 
