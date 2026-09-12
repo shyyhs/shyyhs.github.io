@@ -120,7 +120,7 @@ Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8Y
 - Mentor: AACL 2020 Student Research Workshop.
 - Award Selection Committee: ANLP (in Japan) 2026.
 - Candidate for KAKENHI Review Committee Member 2026.
-- Reviewer: JNLP 2026, EAMT 2026, TALLIP 2026, TASLP 2026, IEICE 2026, ARR 2026 May, ARR 2026 January, LREC 2026, IJCNLP-AACL 2025, WAT 2025, EMNLP 2025, ACL 2025, COLING 2025, NLPCC 2024, TASLP 2024, AMTA 2024, LREC-COLING 2024, four rounds of ARR 2024, TALLIP 2024, TASLP 2023, TALLIP 2023, ARR 2023, APSIPA ASC 2023, EMNLP 2023, ACL 2023, EMNLP 2022, EMNLP 2021, EMNLP 2020, IJCNLP 2020, WAT 2020, etc.
+- Reviewer: JNLP 2026, EAMT 2026, TALLIP 2026, TASLP 2026, IEICE 2026, ARR 2026 August, ARR 2026 May, ARR 2026 January, LREC 2026, IJCNLP-AACL 2025, WAT 2025, EMNLP 2025, ACL 2025, COLING 2025, NLPCC 2024, TASLP 2024, AMTA 2024, LREC-COLING 2024, four rounds of ARR 2024, TALLIP 2024, TASLP 2023, TALLIP 2023, ARR 2023, APSIPA ASC 2023, EMNLP 2023, ACL 2023, EMNLP 2022, EMNLP 2021, EMNLP 2020, IJCNLP 2020, WAT 2020, etc.
 
 </div>
 
@@ -131,6 +131,8 @@ Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8Y
 <div class="publications no-previews">
 {% bibliography --group_by none --query @*[category=grant] %}
 </div>
+
+Accepted application forms with notes: [科研費（若手研究・学振）申請書の公開](/kakenhi/) (in Japanese).
 
 </div>
 
