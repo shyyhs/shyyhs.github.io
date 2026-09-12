@@ -87,6 +87,7 @@ docs/HANDOFF.md             本文
 | `bibtex_show={true}` | 显示 Cite 按钮（弹 BibTeX） | 弹窗里自动隐藏 category 等内部字段 |
 | `html={URL}` / `doi` / `arxiv={ID}` / `pdf` | 合并渲染为**一个 Paper 按钮**，优先级 html > doi > arxiv > pdf | ACL 论文填 html=Anthology 页即可，不必再放 arxiv；本地 PDF 用 `../../files/X.pdf` 形式（见 3.3）；doi/arxiv 字段仍保留在引用里 |
 | `slides`, `poster`, `supp` | 各自按钮 | 本地文件同上 |
+| `application_pdf`, `application_docx` | Application Form (PDF) / (Word) 按钮 | 仅 grant 条目用：公开中了的科研費申請書。文件放 `files/`，写成 `../../files/X.pdf` |
 | `venue_short={EMNLP 2025 Main}` | 场合行的短显示名（Main/Findings/Demos/Workshop/SRW/Tutorial 后缀） | 只改页面显示，Cite 弹窗（BibTeX 内容）仍是官方 booktitle；短名含年份时页面不再追加 ", 年份" |
 | `code={URL}`, `dataset={URL}`, `website={URL}` | Code / Dataset / Website 按钮 | 原样输出；按钮顺序固定 Paper→Cite→Code→Dataset，其余靠后 |
 | `award={...}`, `award_name={Oral}` | 奖项徽章 + 悬停说明 | award 支持 markdown 链接 |

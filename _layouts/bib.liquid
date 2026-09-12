@@ -282,6 +282,12 @@
           <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
         {% endif %}
       {% endif %}
+      {% if entry.application_pdf %}
+        <a href="{{ entry.application_pdf }}" class="btn btn-sm z-depth-0" role="button">Application Form (PDF)</a>
+      {% endif %}
+      {% if entry.application_docx %}
+        <a href="{{ entry.application_docx }}" class="btn btn-sm z-depth-0" role="button">Application Form (Word)</a>
+      {% endif %}
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}

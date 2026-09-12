@@ -284,6 +284,8 @@ filtered_bibtex_keywords:
   [
     abbr,
     abstract,
+    application_docx,
+    application_pdf,
     accepted,
     additional_info,
     altmetric,
