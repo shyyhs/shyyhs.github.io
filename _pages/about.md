@@ -132,7 +132,7 @@ Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8Y
 {% bibliography --group_by none --query @*[category=grant] %}
 </div>
 
-Accepted application forms with notes: [科研費（若手研究・学振）申請書の公開](/kakenhi/) (in Japanese).
+Accepted application forms with notes in Japanese: [科研費（若手研究・学振）申請書の公開](/kakenhi/).
 
 </div>
 
