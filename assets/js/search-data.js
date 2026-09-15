@@ -45,6 +45,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=IP5UyqcAAAAJ&sortby=pubdate", "_blank");
         },
       },{
+        id: 'social-alphaxiv',
+        title: 'Alphaxiv',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.alphaxiv.org/@haiyue-song", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
