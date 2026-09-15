@@ -51,7 +51,7 @@ _pages/publications.md      论文页：六个 {% bibliography --query %} 区块
 _pages/news.md              /news/ 归档页（stock，一般不动）
 _bibliography/papers.bib    ★ 全部论文（60 条），每条带 category 字段
 _news/announcement_N.md     首页 News 条目（7 条），文件名无所谓，按 date 排序
-_data/socials.yml           首屏五个社交图标（顺序 = 显示顺序）
+_data/socials.yml           首屏六个社交图标（顺序 = 显示顺序）
 _data/coauthors.yml         合作者主页链接（35 人），论文页作者名可点
 _layouts/about.liquid       首页布局（改过：标题右侧小字 CJK 名、subtitle 条件化、.about-profile）
 _layouts/bib.liquid         单条论文的渲染模板（stock，改字段展示逻辑才动）
@@ -128,7 +128,7 @@ docs/HANDOFF.md             本文
 - **结构**：bio 两段 → `[Publications]` 链接 + 五个社交图标同排 → 六张 `.about-card` 卡片（News / Education / Work Experience / Selected Publications / Academic Service / Hobbies）
 - **News**：一条一个文件放 `_news/`，front matter 只要 `date`（决定顺序，新的在上）和 `inline: true`，正文一句话，支持 markdown 链接和 `**加粗**`
 - **Selected Publications** 是 `{% include selected_papers.liquid %}` 自动生成的，不要手写
-- **社交图标**：`_data/socials.yml`，key 名见 [jekyll-socials 文档](https://github.com/george-gca/jekyll-socials)；图标品牌色在 `main.scss` 的 `.contact-icons` 块
+- **社交图标**：`_data/socials.yml`，key 名见 [jekyll-socials 文档](https://github.com/george-gca/jekyll-socials)；图标品牌色在 `main.scss` 的 `.contact-icons` 块。gem 不内置的站点（如 alphaXiv）写成 `key: {url, title, logo}`，`logo` 填一个 CSS 类名，再在 `main.scss` 用 `mask-image` 画官方 SVG（见 `.alphaxiv-icon`）
 - **标题右侧的 宋海越**：`_config.yml` 的 `cjk_name`，样式 `.post-title-cjk`
 - 卡片标题字号、卡片阴影等在 `main.scss` 的 `.about-card` 块
 

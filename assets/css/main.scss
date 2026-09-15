@@ -48,7 +48,8 @@ select {
   .ai-google-scholar {
     color: #4285f4;
   }
-  .fa-github {
+  .fa-github,
+  .alphaxiv-icon {
     color: #24292f;
   }
   .fa-linkedin {
@@ -66,9 +67,23 @@ select {
 }
 html[data-theme="dark"] .contact-icons {
   .fa-github,
-  .fa-x-twitter {
+  .fa-x-twitter,
+  .alphaxiv-icon {
     color: #e6e6e6;
   }
+}
+
+// alphaXiv has no font glyph, so its official mark is drawn as a CSS mask on an
+// <i> element (see _data/socials.yml). Sizing, color and hover then follow the
+// neighboring font icons automatically.
+.alphaxiv-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+  background-color: currentColor;
+  -webkit-mask: url("/assets/img/alphaxiv.svg") no-repeat center / contain;
+  mask: url("/assets/img/alphaxiv.svg") no-repeat center / contain;
 }
 
 @media (min-width: 576px) {
