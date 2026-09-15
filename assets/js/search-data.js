@@ -73,13 +73,6 @@ ninja.data = [{
           window.open("https://twitter.com/shyoyhs", "_blank");
         },
       },{
-        id: 'social-bluesky',
-        title: 'Bluesky',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://bsky.app/profile/haiyuesong.bsky.social", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
