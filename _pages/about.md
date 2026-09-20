@@ -138,11 +138,10 @@ Accepted application forms with notes in Japanese: [科研費（若手研究・�
 
 <div class="about-card" markdown="1">
 
-## Others
+## Miscellaneous
 
 <div class="publications no-previews">
 {% bibliography --group_by none --query @*[category=presentation] %}
-{% bibliography --group_by none --query @*[category=patent] %}
 </div>
 
 </div>
