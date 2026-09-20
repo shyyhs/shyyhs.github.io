@@ -3,9 +3,9 @@
  ******************************************************************************/
 
 body {
-  // The footer is removed, so this is just breathing room at the end of the page
-  // and clearance for the back-to-top button (30px from the bottom).
-  padding-bottom: 3rem;
+  // Breathing room below the copyright footer and clearance for the
+  // back-to-top button (30px from the bottom).
+  padding-bottom: 1.5rem;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
 

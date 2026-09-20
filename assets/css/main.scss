@@ -208,3 +208,26 @@ html[data-theme="dark"] .about-card {
     0 4px 16px rgba(0, 0, 0, 0.45),
     0 0 0 1px rgba(255, 255, 255, 0.05);
 }
+
+// Minimal footer: a 2px accent rule above a centered copyright line.
+.copyright-footer {
+  .copyright-rule {
+    width: 50%;
+    height: 2px;
+    margin: 0.5rem auto 0 0;
+    background-color: #dc3545;
+  }
+
+  p {
+    margin: 1.5rem 0 0;
+    text-align: center;
+    font-size: 0.9em;
+    color: var(--global-text-color);
+  }
+}
+
+// The reference look is white copyright text on the dark background; in light
+// mode that would be invisible, so only dark mode gets pure white.
+html[data-theme="dark"] .copyright-footer p {
+  color: #ffffff;
+}
