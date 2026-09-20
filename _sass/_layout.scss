@@ -3,7 +3,9 @@
  ******************************************************************************/
 
 body {
-  padding-bottom: 70px;
+  // The footer is removed, so this is just breathing room at the end of the page
+  // and clearance for the back-to-top button (30px from the bottom).
+  padding-bottom: 3rem;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
 
