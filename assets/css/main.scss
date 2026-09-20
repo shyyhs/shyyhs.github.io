@@ -95,6 +95,17 @@ html[data-theme="dark"] .contact-icons {
   }
 }
 
+// Below al-folio's 576px breakpoint the profile falls back to width: 100%, which
+// turns the photo into a full-width banner and pushes the contact icons off the
+// first screen. Keep it floated right, just narrow, so the intro text wraps beside it.
+@media (max-width: 575.98px) {
+  .about-profile {
+    width: 40%;
+    max-width: 160px;
+    margin-bottom: 0.5rem;
+  }
+}
+
 // CJK name shown smaller next to the page title (cjk_name in _config.yml).
 .post-title-cjk {
   font-size: 0.60em;
