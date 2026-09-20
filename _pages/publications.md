@@ -14,10 +14,6 @@ nav_order: 2
 
 <div class="publications no-previews">
 
-  <h2 class="bibliography-section">Preprints</h2>
-
-  {% bibliography --query @*[category=preprint] %}
-
   <h2 class="bibliography-section">Journal Articles</h2>
 
   {% bibliography --query @*[category=journal] %}
@@ -29,5 +25,9 @@ nav_order: 2
   <h2 class="bibliography-section">Domestic Conferences (non peer-reviewed)</h2>
 
   {% bibliography --query @*[category=domestic] %}
+
+  <h2 class="bibliography-section">Preprints</h2>
+
+  {% bibliography --query @*[category=preprint] %}
 
 </div>
