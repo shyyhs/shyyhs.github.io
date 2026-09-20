@@ -88,6 +88,11 @@ $(document).ready(function () {
       nameAudio = new Audio("/assets/audio/name-pronunciation.m4a");
     }
     nameAudio.currentTime = 0;
+    // The clip is only 0.75s, too fast to catch for non-Chinese speakers.
+    // Keep the pitch so the Mandarin tone contours stay intact while slowing down.
+    nameAudio.preservesPitch = true;
+    nameAudio.webkitPreservesPitch = true;
+    nameAudio.playbackRate = 0.65;
     nameAudio.play();
   });
   $(document).on("click", function (e) {
