@@ -1,1 +1,1 @@
-$(document).ready(function(){medium_zoom=mediumZoom("[data-zoomable]",{background:getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color")+"ee"})});
+$(document).ready(function(){medium_zoom=mediumZoom("[data-zoomable]",{background:getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color")+"ee",scrollOffset:1/0});const e=e=>{medium_zoom.getZoomedImage()&&e.preventDefault()};window.addEventListener("wheel",e,{passive:!1}),window.addEventListener("touchmove",e,{passive:!1})});
