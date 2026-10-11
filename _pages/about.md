@@ -32,7 +32,7 @@ He received his Ph.D. in Informatics from Kyoto University in 2024 advised by
 Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/).
 
 His current research focuses on large language models, including agent harness, long-context,
-reinforcement learning, and continual pre-training. Previously, he worked on machine
+reinforcement learning, and continual pre-training. He also works on machine
 translation, especially in low-resource, multilingual, and multimodal scenarios.
 
 <div class="about-links-row">
