@@ -2,6 +2,9 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 scholar_userid: IP5UyqcAAAAJ&sortby=pubdate # your Google Scholar ID
+cv_pdf: # CV icon right after Scholar; PDF built from ~/Desktop/0_private/0_job_finding/0_cv (public version)
+  value: /files/Haiyue_Song_CV.pdf
+  logo: ai ai-cv-square
 alphaxiv: # custom social (not built into jekyll-socials); logo = CSS class, see main.scss
   url: https://www.alphaxiv.org/@haiyue-song
   title: alphaXiv

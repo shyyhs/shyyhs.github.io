@@ -49,7 +49,8 @@ select {
     color: #4285f4;
   }
   .fa-github,
-  .alphaxiv-icon {
+  .alphaxiv-icon,
+  .ai-cv-square {
     color: #24292f;
   }
   .fa-linkedin {
@@ -71,7 +72,8 @@ select {
 html[data-theme="dark"] .contact-icons {
   .fa-github,
   .fa-x-twitter,
-  .alphaxiv-icon {
+  .alphaxiv-icon,
+  .ai-cv-square {
     color: #e6e6e6;
   }
 }
