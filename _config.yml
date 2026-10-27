@@ -307,6 +307,7 @@ filtered_bibtex_keywords:
     pmid,
     poster,
     preview,
+    project_page,
     selected,
     slides,
     supp,
