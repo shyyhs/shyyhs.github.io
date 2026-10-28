@@ -200,11 +200,19 @@
     </div>
 
     <!-- Links/Buttons: awards on their own row, regular buttons below -->
-    {% if entry.award %}
+    {% if entry.award or entry.honor %}
       <div class="links">
-        <a class="award btn btn-sm z-depth-0" role="button">
-          {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
-        </a>
+        {% comment %} Gold honor badge (e.g. Outstanding Paper Award) that opens the certificate. {% endcomment %}
+        {% if entry.honor %}
+          <a class="award gold btn btn-sm z-depth-0" role="button" href="{{ entry.honor_link | relative_url }}" target="_blank" rel="noopener">
+            {{- entry.honor -}}
+          </a>
+        {% endif %}
+        {% if entry.award %}
+          <a class="award btn btn-sm z-depth-0" role="button">
+            {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
+          </a>
+        {% endif %}
       </div>
     {% endif %}
     <div class="links">

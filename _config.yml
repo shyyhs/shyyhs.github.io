@@ -301,6 +301,8 @@ filtered_bibtex_keywords:
     dimensions,
     google_scholar_id,
     hal,
+    honor,
+    honor_link,
     html,
     inspirehep_id,
     pdf,
