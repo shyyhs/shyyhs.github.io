@@ -26,8 +26,8 @@ latest_posts:
   }
 </style>
 
-Haiyue Song is an LLM engineer at [Preferred Networks](https://www.preferred.jp/en/). 
-Previously, he worked at the [National Institute of Information and Communications Technology](https://www.nict.go.jp/en/).
+Haiyue Song is an LLM engineer at Preferred Networks. 
+Previously, he worked at the National Institute of Information and Communications Technology.
 He received his Ph.D. in Informatics from Kyoto University in 2024 advised by 
 Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/).
 
@@ -70,7 +70,7 @@ Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8Y
 
 #### Nagoya University
 
-- Exchange student in [NUPACE](https://nupace.iee.nagoya-u.ac.jp/en/index.shtml) program, _October 2017 - February 2018_
+- Exchange student in NUPACE program, _October 2017 - February 2018_
 
 </div>
 
@@ -116,7 +116,7 @@ Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8Y
 
 - Website Chair: [EMNLP 2025](https://2025.emnlp.org/organization/).
 - Area Chair: ARR 2025, ARR 2026 March, ARR 2026 October.
-- Workshop Co-organizer: [WAT 2024](https://lotus.kuee.kyoto-u.ac.jp/WAT), and the [English-Indic Language Document Translation Task](https://sites.google.com/view/indic-doc/) at [WAT 2025](http://orchid.kuee.kyoto-u.ac.jp/WAT/WAT2025/index.html).
+- Workshop Co-organizer: [WAT 2024](https://lotus.kuee.kyoto-u.ac.jp/WAT), and the English-Indic Language Document Translation Task at [WAT 2025](http://orchid.kuee.kyoto-u.ac.jp/WAT/WAT2025/index.html).
 - Mentor: AACL 2020 Student Research Workshop.
 - Award Selection Committee: ANLP (in Japan) 2026.
 - Candidate for KAKENHI Review Committee Member 2026.
@@ -154,7 +154,7 @@ Accepted application forms with notes in Japanese: [科研費（若手研究・�
 
 - Silver medal at the National Olympiad in Informatics (NOI) 2013, Chengdu, China.
 - Bronze medal at the Asia-Pacific Informatics Olympiad (APIO) 2013.
-- AtCoder [profile](https://atcoder.jp/users/shyyhs).
+- [AtCoder profile](https://atcoder.jp/users/shyyhs).
 
 #### Japanese
 
@@ -164,6 +164,6 @@ Accepted application forms with notes in Japanese: [科研費（若手研究・�
 
 - Ski (current focus). Ski Association of Japan (SAJ) [Badge Test](https://snowjapanlicence.com/5-1test/) Level-2. This winter (26-27) my home ski resort will be [Takasu Mountains](https://www.takasumountains.com/).
 - Marathon. Finisher of the full course of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html) and the [Biwako Marathon 2024](https://biwako-marathon.com/).
-- Mountain climbing. [Mt. Shirouma](https://en.wikipedia.org/wiki/Mount_Shirouma), [Mt. Kita](https://en.wikipedia.org/wiki/Mount_Kita), [Mt. Yake](https://en.wikipedia.org/wiki/Mount_Yake), [Mt. Fuji](https://en.wikipedia.org/wiki/Mount_Fuji), etc.
+- Mountain climbing. Mt. Shirouma, Mt. Kita, Mt. Yake, Mt. Fuji, etc.
 
 </div>

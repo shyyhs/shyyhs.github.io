@@ -173,9 +173,9 @@ html[data-theme="dark"] .contact-icons {
   }
 }
 
-// Subtle shadow on the venue badges (AACL, LREC, ...).
-.publications abbr.badge {
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.22);
+// Award name in a news item: gold, matching the award badge in Selected Publications.
+.news .news-award {
+  color: var(--global-award-color);
 }
 
 // Coauthor links in publication author lines: keep the normal text color (the
@@ -217,7 +217,7 @@ html[data-theme="dark"] .about-card {
     width: 50%;
     height: 2px;
     margin: 0.5rem auto 0 0;
-    background-color: #dc3545;
+    background-color: var(--global-award-color);
   }
 
   p {

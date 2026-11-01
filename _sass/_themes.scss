@@ -10,8 +10,8 @@
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #689f38; // olive green
-  --global-hover-color: #689f38;
+  --global-theme-color: #0079d2; // UTokyo blue #0b8bee (2024 VI), darkened to pass 4.5:1 on white
+  --global-hover-color: #0079d2;
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
@@ -84,8 +84,8 @@ html[data-theme="dark"] {
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #95daf3; // soft sky blue (matches nzw0301.github.io dark mode)
-  --global-hover-color: #95daf3;
+  --global-theme-color: #63aaff; // Yale web-palette light blue (yaleidentity.yale.edu)
+  --global-hover-color: #63aaff;
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-light};
   --global-footer-text-color: #{$grey-color-dark};
