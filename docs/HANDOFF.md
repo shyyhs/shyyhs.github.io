@@ -83,6 +83,7 @@ docs/HANDOFF.md             本文
 | `category={...}` | **必填**，决定进论文页哪一节 | `preprint` / `conference` / `journal` / `domestic` / `grant` / `presentation` |
 | `abbr={NeurIPS}` | 左侧 venue 徽章文字 | 用会议官方简称，2025 的 AACL 写 `IJCNLP-AACL` |
 | `selected={true}` | 上首页 Selected Publications | 显示顺序 = 文件顺序 |
+| `tutorial={true}` | 上首页 Tutorials 卡片 | 条目本身仍按 category 进论文页 |
 | `preview={xxx.png}` | 首页 Selected 的配图 | 图放 `assets/img/publication_preview/`；论文页统一不显示图 |
 | `bibtex_show={true}` | 显示 Cite 按钮（弹 BibTeX） | 弹窗里自动隐藏 category 等内部字段 |
 | `html={URL}` / `doi` / `arxiv={ID}` / `pdf` | 合并渲染为**一个 Paper 按钮**，优先级 html > doi > arxiv > pdf | ACL 论文填 html=Anthology 页即可，不必再放 arxiv；本地 PDF 用 `../../files/X.pdf` 形式（见 3.3）；doi/arxiv 字段仍保留在引用里 |

@@ -138,6 +138,17 @@ Accepted application forms with notes in Japanese: [科研費（若手研究・�
 
 <div class="about-card" markdown="1">
 
+## Tutorials
+
+<div class="publications no-previews">
+{% bibliography --group_by none --query @*[tutorial=true]* %}
+</div>
+
+</div>
+
+{% comment %} Miscellaneous (talks) is hidden for now; remove this comment wrapper to show it again.
+<div class="about-card" markdown="1">
+
 ## Miscellaneous
 
 <div class="publications no-previews">
@@ -145,6 +156,7 @@ Accepted application forms with notes in Japanese: [科研費（若手研究・�
 </div>
 
 </div>
+{% endcomment %}
 
 <div class="about-card" data-nosnippet markdown="1">
 
@@ -162,7 +174,7 @@ Accepted application forms with notes in Japanese: [科研費（若手研究・�
 
 #### Sports
 
-- Ski (current focus). Ski Association of Japan (SAJ) [Badge Test](https://snowjapanlicence.com/5-1test/) Level-2. This winter (26-27) my home ski resort will be [Takasu Mountains](https://www.takasumountains.com/).
+- Ski. Ski Association of Japan (SAJ) [Badge Test](https://snowjapanlicence.com/5-1test/) Level-2. This winter (26-27) my home ski resort will be [Takasu Mountains](https://www.takasumountains.com/).
 - Marathon. Finisher of the full course of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html) and the [Biwako Marathon 2024](https://biwako-marathon.com/).
 - Mountain climbing. Mt. Shirouma, Mt. Kita, Mt. Yake, Mt. Fuji, etc.
 

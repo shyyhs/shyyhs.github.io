@@ -313,6 +313,7 @@ filtered_bibtex_keywords:
     selected,
     slides,
     supp,
+    tutorial,
     venue_short,
     video,
     website,
