@@ -6,4 +6,4 @@ related_posts: false
 published: false
 ---
 
-Organizing the English-Indic Language Document Translation Task at **WAT 2025**.
+Organizing the English-Indic Language Document Translation Task at WAT 2025.

@@ -203,9 +203,9 @@
     <!-- Links/Buttons: awards on their own row, regular buttons below -->
     {% if entry.award or entry.honor %}
       <div class="links">
-        {% comment %} Gold honor badge (e.g. Outstanding Paper Award) that opens the certificate. {% endcomment %}
+        {% comment %} Gold honor badge (e.g. Outstanding Paper Award); data-zoom-link opens the certificate in the zoom overlay (assets/js/zoom.js). {% endcomment %}
         {% if entry.honor %}
-          <a class="award gold btn btn-sm z-depth-0" role="button" href="{{ entry.honor_link | relative_url }}" target="_blank" rel="noopener">
+          <a class="award gold btn btn-sm z-depth-0" role="button" href="{{ entry.honor_link | relative_url }}" target="_blank" rel="noopener" data-zoom-link>
             {{- entry.honor -}}
           </a>
         {% endif %}

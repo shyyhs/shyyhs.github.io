@@ -207,9 +207,22 @@ html[data-theme="dark"] .contact-icons {
   }
 }
 
+// News dates: system monospace (SF Mono / Menlo / Consolas) so every date has the
+// same width, and not bold (_base.scss makes table headers bold).
+.news table th {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+  font-size: 0.88em;
+  font-weight: 400;
+}
+
 // Award name in a news item: gold, matching the award badge in Selected Publications.
 .news .news-award {
   color: var(--global-award-color);
+}
+
+// Paper name in a news item: theme color like a link, but not a link.
+.news .news-paper {
+  color: var(--global-theme-color);
 }
 
 // Coauthor links in publication author lines: keep the normal text color (the
@@ -240,6 +253,26 @@ html[data-theme="dark"] .contact-icons {
 
 html[data-theme="dark"] .about-card {
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.45);
+}
+
+// Plain lists in some about cards (class compact-list, e.g. Academic Service,
+// My Hobbies): no bullets, flush with the heading, and a hanging indent so a long
+// item that wraps (the Reviewer line) is still clearly one item.
+.about-card.compact-list ul {
+  list-style: none;
+  padding-left: 0;
+
+  li {
+    padding-left: 1.2em;
+    text-indent: -1.2em;
+    margin-bottom: 0.2em;
+  }
+}
+
+// Cards with sub-headings (My Hobbies): indent the items 1em under each
+// sub-heading so the two levels read apart.
+.about-card.compact-list.sub-indent ul {
+  padding-left: 1em;
 }
 
 // Minimal footer: a 2px accent rule above a centered copyright line.

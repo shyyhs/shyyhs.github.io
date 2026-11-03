@@ -6,4 +6,4 @@ related_posts: false
 published: false
 ---
 
-Serving as Website Chair for **EMNLP 2025**.
+Serving as Website Chair for EMNLP 2025.

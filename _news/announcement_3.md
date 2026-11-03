@@ -6,4 +6,4 @@ related_posts: false
 published: false
 ---
 
-Obtained a **Grant-in-Aid for Early-Career Scientists**!
+Obtained a Grant-in-Aid for Early-Career Scientists!

@@ -6,4 +6,4 @@ related_posts: false
 published: false
 ---
 
-One paper accepted to **EMNLP 2025** Findings!
+One paper accepted to EMNLP 2025 Findings!

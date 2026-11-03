@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Three papers accepted to **EMNLP 2026** (one Main, two Findings)!
+Three papers accepted to EMNLP 2026!

@@ -6,4 +6,4 @@ related_posts: false
 published: false
 ---
 
-Presented a tutorial at **COLING 2025**.
+Presented a tutorial at COLING 2025.
