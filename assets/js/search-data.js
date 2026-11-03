@@ -40,13 +40,6 @@ ninja.data = [{
           window.open("/%7B%22value%22=%3E%22/files/Haiyue_Song_CV.pdf%22,%20%22logo%22=%3E%22ai%20ai-cv-square%22%7D", "_blank");
         },
       },{
-        id: 'social-alphaxiv',
-        title: 'Alphaxiv',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alphaxiv.org/@haiyue-song", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
