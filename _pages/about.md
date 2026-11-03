@@ -27,8 +27,8 @@ latest_posts:
   }
 </style>
 
-Greetings! I am currently an LLM engineer at Preferred Networks. 
-Previously, I worked at the National Institute of Information and Communications Technology with [Masao Utiyama](https://att-astrec.nict.go.jp/member/mutiyama/index.html).<br>
+Greetings! I am an LLM engineer at Preferred Networks. 
+Previously, I worked at the National Institute of Information and Communications Technology with [Masao Utiyama](https://att-astrec.nict.go.jp/member/mutiyama/index.html) and [Raj Dabre](https://prajdabre.github.io/).<br>
 I received my Ph.D. in Informatics from Kyoto University in 2024, advised by Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/) and Prof. [Chenhui Chu](https://scholar.google.com/citations?user=6ef0qbgAAAAJ&hl=en).
 I completed my Bachelor's degree in Computer Science and Technology at Shanghai Jiao Tong University in 2018, with a minor in Japanese.
 
