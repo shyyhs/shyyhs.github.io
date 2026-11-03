@@ -16,14 +16,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-four-papers-accepted-to-ijcnlp-aacl-2025-three-main-one-system-demonstrations",
-          title: 'Four papers accepted to IJCNLP-AACL 2025 (three Main, one System Demonstrations)!',
+        },{id: "news-four-papers-accepted-to-ijcnlp-aacl-2025",
+          title: 'Four papers accepted to IJCNLP-AACL 2025!',
           description: "",
-          section: "News",},{id: "news-three-papers-accepted-to-emnlp-2026-one-main-two-findings",
-          title: 'Three papers accepted to EMNLP 2026 (one Main, two Findings)!',
+          section: "News",},{id: "news-three-papers-accepted-to-emnlp-2026",
+          title: 'Three papers accepted to EMNLP 2026!',
           description: "",
           section: "News",},{id: "news-our-paper-optimer-won-the-outstanding-paper-award-at-emnlp-2026",
-          title: 'Our paper OptiMer won the Outstanding Paper Award at EMNLP 2026 🏆',
+          title: 'Our paper OptiMer won the Outstanding Paper Award at EMNLP 2026! 🏆',
           description: "",
           section: "News",},{
         id: 'social-scholar',
