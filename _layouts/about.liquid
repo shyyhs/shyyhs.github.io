@@ -54,6 +54,10 @@ layout: default
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
+        {% comment %} Social icons right under the photo, inside the same float so they move with it. {% endcomment %}
+        {% if page.profile.social_icons %}
+          <div class="contact-icons profile-icons">{% social_links %}</div>
+        {% endif %}
       </div>
     {% endif %}
 

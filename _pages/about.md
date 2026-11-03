@@ -7,6 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
+  social_icons: true # social icons right under the photo (see _layouts/about.liquid)
 
 selected_papers: false # rendered manually in the page body below to keep the section order
 social: false
@@ -27,21 +28,25 @@ latest_posts:
 </style>
 
 Greetings! I am currently an LLM engineer at Preferred Networks. 
-Previously, I worked at the National Institute of Information and Communications Technology.
-In 2024, I received my Ph.D. in Informatics from Kyoto University, advised by Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/) and Prof. [Chenhui Chu](https://scholar.google.com/citations?user=6ef0qbgAAAAJ&hl=en).
+Previously, I worked at the National Institute of Information and Communications Technology with [Masao Utiyama](https://att-astrec.nict.go.jp/member/mutiyama/index.html).<br>
+I received my Ph.D. in Informatics from Kyoto University in 2024, advised by Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/) and Prof. [Chenhui Chu](https://scholar.google.com/citations?user=6ef0qbgAAAAJ&hl=en).
 I completed my Bachelor's degree in Computer Science and Technology at Shanghai Jiao Tong University in 2018, with a minor in Japanese.
 
-My research interests are in large language models and natural language processing. 
+My research interests are in large language models and natural language processing.
 I primarily work on pre-, mid-, post-training methods for LLMs, including data crawling for low-resource languages, model merging, and reinforcement learning.
 I persistently work on multilingual, multicultural, and multimodal aspects of natural language processing.
 I periodically work on machine translation, tokenization, and language resources.
 
+{% comment %} Old icon row under the intro text, hidden now that the icons sit under the photo (profile.social_icons above). Remove this line and the endcomment line to show it again.
 <div class="about-links-row">
+  {% comment %} [Publications] link is hidden (Google Scholar icon and top nav cover it); remove this comment wrapper to show it again.
   <a class="publications-link" href="/publications/"><b>[Publications]</b></a>
+  {% endcomment %}
   <div class="social">
     <div class="contact-icons">{% social_links %}</div>
   </div>
 </div>
+{% endcomment %}
 
 <div class="about-card" markdown="1">
 

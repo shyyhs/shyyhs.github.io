@@ -152,6 +152,40 @@ html[data-theme="dark"] .contact-icons {
   color: var(--global-hover-color);
 }
 
+// Social icons right under the profile photo (profile.social_icons in about.md):
+// one row exactly as wide as the photo, icon size following that width. The 6
+// glyphs are ~5.5em wide, so /7 leaves room for gaps (re-tune if icons change).
+.about-profile {
+  container-type: inline-size; // 100cqw = photo width
+}
+.profile-icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0.5rem;
+  font-size: calc(100cqw / 7);
+  line-height: 1;
+  white-space: nowrap;
+
+  // Same monochrome look as the old .social row (_base.scss): text color,
+  // theme color on hover.
+  a {
+    margin: 0;
+
+    i::before {
+      color: var(--global-text-color);
+    }
+
+    &:hover {
+      text-decoration: none;
+
+      i::before {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+}
+
 .about-links-row {
   display: flex;
   align-items: center;
