@@ -192,7 +192,6 @@ html[data-theme="dark"] .contact-icons {
 // Card-style sections on the about page (Education, Work Experience, ...).
 .about-card {
   background-color: var(--global-card-bg-color);
-  border: 1px solid var(--global-divider-color);
   border-radius: 10px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
   padding: 1.4rem 1.6rem 0.9rem;
@@ -206,9 +205,7 @@ html[data-theme="dark"] .contact-icons {
 }
 
 html[data-theme="dark"] .about-card {
-  box-shadow:
-    0 4px 16px rgba(0, 0, 0, 0.45),
-    0 0 0 1px rgba(255, 255, 255, 0.05);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.45);
 }
 
 // Minimal footer: a 2px accent rule above a centered copyright line.

@@ -757,11 +757,15 @@ footer.sticky-bottom {
 
         abbr {
           display: inline-block;
-          background-color: var(--global-divider-color);
+          background-color: transparent !important; // outlined like the PAPER/CITE buttons
+          border: 1px solid var(--global-text-color);
+          border-radius: 2px;
           margin-bottom: 0.5rem;
           color: var(--global-text-color) !important;
+          font-weight: 400;
           box-shadow: none;
           white-space: normal; // long names (IJCNLP-AACL) wrap instead of overflowing
+          line-height: 1.3; // venue and year sit on two lines
 
           a {
             color: inherit;
@@ -832,7 +836,6 @@ footer.sticky-bottom {
         a.award.gold.btn {
           color: var(--global-award-color);
           border-color: var(--global-award-color);
-          font-weight: 600;
 
           &:hover {
             color: var(--global-award-color);

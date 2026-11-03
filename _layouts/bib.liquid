@@ -20,9 +20,10 @@
             {% else %}
               <div>{{- entry.abbr -}}</div>
             {% endif %}
+            {% if entry.year %}<div class="abbr-year">{{ entry.year }}</div>{% endif %}
           </abbr>
         {% else %}
-          <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
+          <abbr class="badge rounded w-100">{{ entry.abbr }}{% if entry.year %}<div class="abbr-year">{{ entry.year }}</div>{% endif %}</abbr>
         {% endif %}
       {% endif %}
       {% if entry.preview %}

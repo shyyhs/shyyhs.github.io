@@ -61,16 +61,16 @@ Supervised by Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/) a
 - Ph.D. in Informatics, _October 2020 - March 2024_
 - Master in Intelligence Science and Technology, _October 2018 - September 2020_
 
+#### Nagoya University
+
+- Exchange student in NUPACE program, _October 2017 - February 2018_
+
 #### Shanghai Jiao Tong University
 
 Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8YAAAAJ&hl=en).
 
 - Bachelor of Computer Science and Technology, _September 2014 - July 2018_
 - Minor in Japanese, School of Foreign Languages, _February 2015 - July 2018_
-
-#### Nagoya University
-
-- Exchange student in NUPACE program, _October 2017 - February 2018_
 
 </div>
 
@@ -164,18 +164,18 @@ Accepted application forms with notes in Japanese: [科研費（若手研究・�
 
 #### Competitive Programming
 
-- Silver medal at the National Olympiad in Informatics (NOI) 2013, Chengdu, China.
-- Bronze medal at the Asia-Pacific Informatics Olympiad (APIO) 2013.
+- Silver medal at NOI 2013, the National Olympiad in Informatics, Chengdu, China.
+- Bronze medal at APIO 2013, the Asia-Pacific Informatics Olympiad, Online.
 - [AtCoder profile](https://atcoder.jp/users/shyyhs).
 
 #### Japanese
 
-- Passed the Japanese Language Proficiency Test N1 (the highest level) in 2017.
+- The Japanese Language Proficiency Test N1, the highest level, 2017.
 
 #### Sports
 
-- Ski. Ski Association of Japan (SAJ) [Badge Test](https://snowjapanlicence.com/5-1test/) Level-2. This winter (26-27) my home ski resort will be [Takasu Mountains](https://www.takasumountains.com/).
-- Marathon. Finisher of the full course of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html) and the [Biwako Marathon 2024](https://biwako-marathon.com/).
-- Mountain climbing. Mt. Shirouma, Mt. Kita, Mt. Yake, Mt. Fuji, etc.
+- Ski. Ski Association of Japan [Badge Test](https://snowjapanlicence.com/5-1test/) Level-2. The 26-27 season my home ski resort is [Takasu Mountains](https://www.takasumountains.com/).
+- Marathon. Full course finisher of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html) and the [Biwako Marathon 2024](https://biwako-marathon.com/).
+- Mountain climbing. <!-- Mt. Shirouma, Mt. Kita, Mt. Yake, Mt. Fuji, etc. -->
 
 </div>
