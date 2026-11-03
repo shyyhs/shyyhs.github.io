@@ -26,14 +26,15 @@ latest_posts:
   }
 </style>
 
-Haiyue Song is an LLM engineer at Preferred Networks. 
-Previously, he worked at the National Institute of Information and Communications Technology.
-He received his Ph.D. in Informatics from Kyoto University in 2024 advised by 
-Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/).
+Greetings! I am currently an LLM engineer at Preferred Networks. 
+Previously, I worked at the National Institute of Information and Communications Technology.
+In 2024, I received my Ph.D. in Informatics from Kyoto University, advised by Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/) and Prof. [Chenhui Chu](https://scholar.google.com/citations?user=6ef0qbgAAAAJ&hl=en).
+I completed my Bachelor's degree in Computer Science and Technology at Shanghai Jiao Tong University in 2018, with a minor in Japanese.
 
-His current research focuses on large language models, including agent harness, long-context,
-reinforcement learning, and continual pre-training. He also works on machine
-translation, especially in low-resource, multilingual, and multimodal scenarios.
+My research interests are in large language models and natural language processing. 
+I primarily work on pre-, mid-, post-training methods for LLMs, including data crawling for low-resource languages, model merging, and reinforcement learning.
+I persistently work on multilingual, multicultural, and multimodal aspects of natural language processing.
+I periodically work on machine translation, tokenization, and language resources.
 
 <div class="about-links-row">
   <a class="publications-link" href="/publications/"><b>[Publications]</b></a>
@@ -50,13 +51,14 @@ translation, especially in low-resource, multilingual, and multimodal scenarios.
 
 </div>
 
+{% comment %} Education is hidden for now; remove this line and the matching endcomment line to show it again.
 <div class="about-card" markdown="1">
 
 ## Education
 
 #### Kyoto University
 
-Supervised by Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/) and Prof. [Chenhui Chu](https://researchmap.jp/chu/?lang=english).
+Supervised by Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/) and Prof. [Chenhui Chu](https://scholar.google.com/citations?user=6ef0qbgAAAAJ&hl=en).
 
 - Ph.D. in Informatics, _October 2020 - March 2024_
 - Master in Intelligence Science and Technology, _October 2018 - September 2020_
@@ -74,6 +76,9 @@ Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8Y
 
 </div>
 
+{% endcomment %}
+
+{% comment %} Work Experience is hidden for now; remove this line and the matching endcomment line to show it again.
 <div class="about-card" markdown="1">
 
 ## Work Experience
@@ -102,6 +107,8 @@ Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8Y
 
 </div>
 
+{% endcomment %}
+
 <div class="about-card" markdown="1">
 
 ## Selected Publications
@@ -114,9 +121,9 @@ Supervised by Prof. [Li Jiang](https://scholar.google.com/citations?user=wCxFd8Y
 
 ## Academic Service
 
-- Website Chair: [EMNLP 2025](https://2025.emnlp.org/organization/).
+- Website Chair: The design of the [EMNLP 2025 Website](https://2025.emnlp.org/organization/).
 - Area Chair: ARR 2025, ARR 2026 March, ARR 2026 October.
-- Workshop Co-organizer: [WAT 2024](https://lotus.kuee.kyoto-u.ac.jp/WAT), and the English-Indic Language Document Translation Task at [WAT 2025](http://orchid.kuee.kyoto-u.ac.jp/WAT/WAT2025/index.html).
+- Workshop Co-organizer of WAT 2024, 2025, 2026. The English-Indic Language Document Translation Task at WAT 2025.
 - Mentor: AACL 2020 Student Research Workshop.
 - Award Selection Committee: ANLP (in Japan) 2026.
 - Candidate for KAKENHI Review Committee Member 2026.
@@ -160,22 +167,22 @@ Accepted application forms with notes in Japanese: [科研費（若手研究・�
 
 <div class="about-card" data-nosnippet markdown="1">
 
-## Hobbies
-
-#### Competitive Programming
-
-- Silver medal at NOI 2013, the National Olympiad in Informatics, Chengdu, China.
-- Bronze medal at APIO 2013, the Asia-Pacific Informatics Olympiad, Online.
-- [AtCoder profile](https://atcoder.jp/users/shyyhs).
-
-#### Japanese
-
-- The Japanese Language Proficiency Test N1, the highest level, 2017.
+## My Hobbies
 
 #### Sports
 
 - Ski. Ski Association of Japan [Badge Test](https://snowjapanlicence.com/5-1test/) Level-2. The 26-27 season my home ski resort is [Takasu Mountains](https://www.takasumountains.com/).
 - Marathon. Full course finisher of the [Kyoto Marathon 2023](https://2023.kyoto-marathon.com/en/index.html) and the [Biwako Marathon 2024](https://biwako-marathon.com/).
 - Mountain climbing. <!-- Mt. Shirouma, Mt. Kita, Mt. Yake, Mt. Fuji, etc. -->
+
+#### Japanese
+
+- The Japanese Language Proficiency Test N1, the highest level, 2017.
+
+#### Competitive Programming
+
+- Silver medal at NOI 2013, the National Olympiad in Informatics, Chengdu, China.
+- Bronze medal at APIO 2013, the Asia-Pacific Informatics Olympiad, Online.
+- [AtCoder profile](https://atcoder.jp/users/shyyhs).
 
 </div>
