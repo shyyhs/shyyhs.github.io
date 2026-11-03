@@ -754,12 +754,15 @@ footer.sticky-bottom {
 
       .abbr {
         margin-bottom: 0.5rem;
+        padding-right: 0; // the content column has its own left gutter; keeps LREC-COLING on one line
 
         abbr {
           display: inline-block;
           background-color: transparent !important; // outlined like the PAPER/CITE buttons
           border: 1px solid var(--global-text-color);
           border-radius: 2px;
+          padding-left: 0.15em; // room for IJCNLP-AACL on one line inside the border
+          padding-right: 0.15em;
           margin-bottom: 0.5rem;
           color: var(--global-text-color) !important;
           font-weight: 400;
