@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper <span class="news-paper">OptiMer</span> won the <span class="news-award">Outstanding Paper Award</span> at EMNLP 2026! 🏆
+Our paper won the <span class="news-award">Outstanding Paper Award</span> at EMNLP 2026! 🏆
