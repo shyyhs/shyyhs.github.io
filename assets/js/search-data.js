@@ -22,8 +22,8 @@ ninja.data = [{
           section: "News",},{id: "news-three-papers-accepted-to-emnlp-2026",
           title: 'Three papers accepted to EMNLP 2026!',
           description: "",
-          section: "News",},{id: "news-our-paper-optimer-won-the-outstanding-paper-award-at-emnlp-2026",
-          title: 'Our paper OptiMer won the Outstanding Paper Award at EMNLP 2026! 🏆',
+          section: "News",},{id: "news-our-paper-won-the-outstanding-paper-award-at-emnlp-2026",
+          title: 'Our paper won the Outstanding Paper Award at EMNLP 2026! 🏆',
           description: "",
           section: "News",},{
         id: 'social-scholar',
