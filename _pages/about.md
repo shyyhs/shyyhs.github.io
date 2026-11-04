@@ -30,7 +30,7 @@ latest_posts:
 Greetings! I am an LLM engineer at Preferred Networks. 
 Previously, I worked at the National Institute of Information and Communications Technology with [Masao Utiyama](https://att-astrec.nict.go.jp/member/mutiyama/index.html) and [Raj Dabre](https://prajdabre.github.io/).<br>
 I received my Ph.D. in Informatics from Kyoto University in 2024, advised by Prof. [Sadao Kurohashi](https://www.nii.ac.jp/faculty/director/) and Prof. [Chenhui Chu](https://scholar.google.com/citations?user=6ef0qbgAAAAJ&hl=en).
-I completed my Bachelor's degree in Computer Science and Technology at Shanghai Jiao Tong University in 2018, with a minor in Japanese.
+I received my Bachelor's degree in Computer Science and Technology from Shanghai Jiao Tong University in 2018, advised by Prof. [Li Jiang](https://jianglisjtu.github.io/), with a minor in Japanese.
 
 My research interests are in large language models and natural language processing.
 I primarily work on pre-, mid-, post-training methods for LLMs, including data crawling for low-resource languages, model merging, and reinforcement learning.
