@@ -155,6 +155,13 @@ html[data-theme="dark"] .contact-icons {
 // Social icons right under the profile photo (profile.social_icons in about.md):
 // one row exactly as wide as the photo, icon size following that width. The 6
 // glyphs are ~5.5em wide, so /7 leaves room for gaps (re-tune if icons change).
+// Theme-dependent profile photo (profile.image_light in about.md). data-theme is
+// set in <head> by theme.js before the body renders, so there is no flash.
+html[data-theme="dark"] .profile-photo-light,
+html:not([data-theme="dark"]) .profile-photo-dark {
+  display: none;
+}
+
 .about-profile {
   container-type: inline-size; // 100cqw = photo width
 }

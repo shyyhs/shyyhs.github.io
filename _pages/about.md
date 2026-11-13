@@ -5,7 +5,8 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpg # dark mode
+  image_light: prof_pic_light.jpg # light mode (old grey-white wall photo); remove to use image in both modes
   image_circular: false # crops the image to make it circular
   social_icons: true # social icons right under the photo (see _layouts/about.liquid)
 
