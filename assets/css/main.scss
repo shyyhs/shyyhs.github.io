@@ -157,9 +157,18 @@ html[data-theme="dark"] .contact-icons {
 // glyphs are ~5.5em wide, so /7 leaves room for gaps (re-tune if icons change).
 // Theme-dependent profile photo (profile.image_light in about.md). data-theme is
 // set in <head> by theme.js before the body renders, so there is no flash.
+// Both photos sit in the same grid cell and swap by opacity (not display), so
+// the site's html.transition rule (_base.scss, 750ms) cross-fades them on toggle.
+.profile-photo-stack {
+  display: grid;
+  > div {
+    grid-area: 1 / 1;
+  }
+}
 html[data-theme="dark"] .profile-photo-light,
 html:not([data-theme="dark"]) .profile-photo-dark {
-  display: none;
+  opacity: 0;
+  pointer-events: none;
 }
 
 .about-profile {

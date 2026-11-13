@@ -49,6 +49,7 @@ layout: default
           {% comment %} Optional profile.image_light: shown in light mode, profile.image in dark mode (CSS in main.scss). {% endcomment %}
           {% if page.profile.image_light %}
             {% assign profile_image_light_path = page.profile.image_light | prepend: 'assets/img/' %}
+            <div class="profile-photo-stack">
             <div class="profile-photo-light">
               {%
                 include figure.liquid loading="eager" path=profile_image_light_path class=profile_image_class sizes=sizes alt=page.profile.image_light
@@ -62,6 +63,7 @@ layout: default
             cache_bust=true
           %}
           {% if page.profile.image_light %}
+            </div>
             </div>
           {% endif %}
         {% endif %}
