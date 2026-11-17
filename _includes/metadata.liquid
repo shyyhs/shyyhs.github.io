@@ -19,6 +19,17 @@
 <!-- Standard metadata -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<script>
+  // Phones: lay the page out at a desktop-like width and let the browser zoom it out,
+  // so the whole page is visible at a glance. Tablets and desktops are untouched.
+  (function () {
+    var W = 700;
+    var q = /[?&]vw=(\d+)/.exec(location.search);
+    if (q) W = +q[1];
+    var m = document.querySelector('meta[name="viewport"]');
+    if (m && Math.min(screen.width, screen.height) < W) m.setAttribute('content', 'width=' + W);
+  })();
+</script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>
   {% if site.title == 'blank' %}
